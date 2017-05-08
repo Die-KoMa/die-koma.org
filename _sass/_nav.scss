@@ -1,0 +1,27 @@
+.site-nav {
+  width: $headerLeftBar;
+  border-right: $headerBorderWidth solid black;
+  text-align: right;
+  line-height: 24px;
+
+  ul {
+    list-style: none;
+    position: relative;
+    top: -15px;
+    font-size: 14px;
+  }
+
+  li {
+    padding-right: 17px;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #000080;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
