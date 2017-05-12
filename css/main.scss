@@ -46,6 +46,9 @@ $headerWidth: 1100px;
 /* import navigation bar */
 @import "nav";
 
+/* import footer */
+@import "footer";
+
 .site-content {
   display: flex;
   align-items: stretch;
