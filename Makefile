@@ -1,4 +1,4 @@
-DEPLOY_PATH = /tmp/
+DEPLOY_PATH = /homewww/die-koma.org/beta/
 DEPLOY_SYMLINK = .content
 DIRECTORY_ALPHA = .alpha
 DIRECTORY_BETA = .beta
