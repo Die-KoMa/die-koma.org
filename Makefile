@@ -16,7 +16,7 @@ _site: ${FILES}
 update:
 	git pull
 
-ifeq ($(shell readlink ${DEPLOY_PATH}${DEPLOY_SYMLINK}), ${DEPLOY_PATH}${DIRECTORY_ALPHA})
+ifeq ($(shell readlink -f ${DEPLOY_PATH}${DEPLOY_SYMLINK}), ${DEPLOY_PATH}${DIRECTORY_ALPHA})
 deploy: ${DEPLOY_PATH}${DIRECTORY_BETA}
 else
 deploy: ${DEPLOY_PATH}${DIRECTORY_ALPHA}
