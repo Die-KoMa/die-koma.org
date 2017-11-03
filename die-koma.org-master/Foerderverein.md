@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Förderverein
-permalink: förderverein.html
+permalink: foerderverein.html
 navigatioin_weight: 10
 ---
 # Der Förderverein der KoMa e.V.
@@ -14,7 +14,7 @@ Satzung des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
 
 # Beitritt 
 
-![Beitrittsformular](beitrittsformular)
+![Beitrittsformular](https://github.com/Die-KoMa/die-koma.org/blob/Yoni/beitrittsformular.pdf)
 
 # Kontakt
 Der Förderverein kann über folgende Postadresse erreicht werden:
