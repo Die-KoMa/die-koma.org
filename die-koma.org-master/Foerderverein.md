@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Förderverein
-permalink: Förderverein.html
+permalink: förderverein.html
 navigatioin_weight: 10
 ---
 # Der Förderverein der KoMa e.V.
@@ -13,7 +13,8 @@ Der Förderverein stellt den verschiedenen Unterstützern der KoMa, wie etwa dem
 Satzung des Fördervereins der KoMa e.V., letzte Änderung KoMa 64. 
 
 # Beitritt 
-Beitrittsformular
+
+![Beitrittsformular](beitrittsformular)
 
 # Kontakt
 Der Förderverein kann über folgende Postadresse erreicht werden:
