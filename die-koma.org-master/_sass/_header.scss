@@ -1,0 +1,110 @@
+.site-header {
+  background-image: url("/core/image/header_banner.png");
+  background-repeat: no-repeat;
+  height: $headerHeight;
+
+  span {
+    color: #000000;
+  }
+
+  a:hover span {
+    text-decoration: underline;
+  }
+
+  .logo {
+    height: $headerLogoHeight;
+    margin-left: $headerLeftBar;
+    top: $headerHeight - $headerLogoHeight - $headerBottomOffset + $headerBorderWidth;
+    position: relative;
+    width: $headerLogoWidth;
+
+    svg {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      /* New icon needs this
+         top: 0.4px;
+       */
+      zoom: 0.414;
+      top: 8.4px;
+    }
+
+    span {
+      position: absolute;
+      bottom: -6px;
+      font-size: 27px;
+      left: 17px;
+    }
+  }
+
+  .arrow {
+    width: $headerWidth;
+    height: $headerBorderWidth;
+    position: absolute;
+    top: $headerHeight - $headerBottomOffset;
+
+    div {
+      border-bottom: 10px solid transparent;
+      border-top: 10px solid transparent;
+      border-left: 32px solid black;
+      border-radius: 50%;
+      position: absolute;
+      top: -8px;
+      right: 0;
+
+      &::before {
+        content: " ";
+        position: absolute;
+        border-bottom: 11.5px solid transparent;
+        border-top: 11.5px solid transparent;
+        border-right: 16px solid white;
+        border-radius: 50%;
+        left: -39px;
+        top: -11.5px;
+      }
+    }
+
+    &::before, &::after {
+      background: #000000;
+      content: " ";
+      display: block;
+      height: 100%;
+      position: absolute;
+    }
+
+    &::before {
+      left: 0;
+      width: $headerLeftBar;
+    }
+
+    &::after {
+      left: $headerLeftBar + $headerLogoWidth - 1px;
+      right: 15px;
+    }
+  }
+
+  .subtitle {
+    position: absolute;
+    height: $headerBottomOffset - $headerBorderWidth;
+    top: $headerHeight - $headerBottomOffset + $headerBorderWidth;
+    left: $headerLeftBar + $headerLogoWidth;
+    vertical-align: middle;
+    width: $headerWidth - $headerLeftBar - $headerLogoWidth - $headerRightOffset;
+    text-align: center;
+
+    span {
+      font-size: 20px;
+      line-height: $headerBottomOffset - $headerBorderWidth + .5 * $headerBorderWidth;
+    }
+  }
+
+  &::after {
+    content: " ";
+    display: block;
+    height: $headerBottomOffset;
+    width: $headerLeftBar;
+    top: $headerHeight - $headerBottomOffset;
+    border-right: $headerBorderWidth solid #000000;
+    position: absolute;
+  }
+}

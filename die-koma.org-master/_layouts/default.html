@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xml:lang="de" lang="de" xmlns="http://www.w3.org/1999/xhtml">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="site-content">
+
+      {% include navigation.html %}
+
+      <div class="content">
+
+        {% include next_koma.html %}
+
+        <div class="page-content2">
+          <div class="wrapper2">
+            {{ content }}
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

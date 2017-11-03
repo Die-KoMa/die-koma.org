@@ -1,0 +1,95 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 12px;
+}
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-bottom: 2px;
+}
+
+/* configure header */
+$headerBorderWidth: 4px;
+$headerBottomOffset: 37px;
+$headerHeight: 190px;
+$headerLeftBar: 188px;
+$headerLogoHeight: 146px;
+$headerLogoWidth: 245px;
+$headerRightOffset: 40px;
+$headerWidth: 1100px;
+
+/* import header */
+@import "header";
+
+/* import navigation bar */
+@import "nav";
+
+/* import footer */
+@import "footer";
+
+.site-content {
+  display: flex;
+  align-items: stretch;
+  min-height: calc(100vh - #{$headerHeight});
+}
+
+.content {
+  max-width: calc(100vw - 188px - 20px - 5px);
+  width: 890px;
+  margin-left: 10px;
+  padding-top: 20px;
+
+  p {
+    padding: 5px 0;
+  }
+}
+
+.next-koma {
+  float: right;
+  width: 250px;
+  background-color: #dcdcf2;
+  padding: 10px;
+  margin: 10px;
+  margin-right: 0;
+
+  ul {
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+  .name {
+    font-weight: 800;
+  }
+
+  .date {
+    display: block;
+  }
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+  color: #323555;
+}
