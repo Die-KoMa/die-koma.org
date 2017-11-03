@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archiv
-navigation_weight: 20
+navigation_weight: 80
 ---
 
 # Archiv
