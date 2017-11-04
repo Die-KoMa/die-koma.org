@@ -34,7 +34,7 @@ ul, ol, dl, figure,
 $headerBorderWidth: 4px;
 $headerBottomOffset: 37px;
 $headerHeight: 190px;
-$headerLeftBar: 188px;
+$headerLeftBar: 180px;
 $headerLogoHeight: 146px;
 $headerLogoWidth: 245px;
 $headerRightOffset: 40px;
@@ -92,4 +92,19 @@ h1 {
   font-family: Arial, sans-serif;
   font-weight: 400;
   color: #323555;
+}
+
+ul {
+    list-style: inside;
+}
+
+ul li {
+    margin-left: 20px;
+}
+
+ol {
+}
+
+ol li {
+    margin-left: 30px;
 }
