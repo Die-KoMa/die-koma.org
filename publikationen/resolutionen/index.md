@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 title: Resolutionen
 navigation_weight: 52
@@ -8,7 +8,7 @@ navigation_weight: 52
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden: 
 
-## 	Regensburg
+## Regensburg
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/f/f5/80_1.pdf)
 
