@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: startpage
 title: Neuigkeiten
 navigation_weight: 1
 ---
