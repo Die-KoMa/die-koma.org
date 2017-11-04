@@ -39,6 +39,7 @@ $headerLogoHeight: 146px;
 $headerLogoWidth: 245px;
 $headerRightOffset: 40px;
 $headerWidth: 1100px;
+$footerHeight: 34px;
 
 /* import header */
 @import "header";
@@ -52,7 +53,7 @@ $headerWidth: 1100px;
 .site-content {
   display: flex;
   align-items: stretch;
-  min-height: calc(100vh - #{$headerHeight});
+  min-height: calc(100vh - #{$headerHeight} - #{$footerHeight});
 }
 
 .content {
