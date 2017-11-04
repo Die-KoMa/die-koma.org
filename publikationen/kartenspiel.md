@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Kartenspiel
-navigation_weight: 53
+menutitle: Kartenspiel
+order: 3
 ---
 
 # Mathematisches Skatblatt (2004)

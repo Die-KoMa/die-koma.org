@@ -1,7 +1,7 @@
 ---
-layout: default
 title: KoMa-Büro
-navigation_weight: 21
+menutitle: KoMa-Büro
+order: 1
 ---
 
 # Das KoMa-Büro

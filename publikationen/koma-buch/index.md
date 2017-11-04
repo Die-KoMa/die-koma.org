@@ -1,7 +1,7 @@
 ---
-layout: default
 title: KoMa-Buch
-navigation_weight: 57
+menutitle: KoMa-Buch
+order: 7
 ---
 
 # Das Buch zur KoMa

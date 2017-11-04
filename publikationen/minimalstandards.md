@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Minimalstandard
-navigation_weight: 54
+menutitle: Minimalstandard
+order: 4
 ---
 
 # Minimalstandards in der Lehre

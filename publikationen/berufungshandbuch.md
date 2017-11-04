@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Berufungshandbuch
-navigation_weight: 56
+menutitle: Berufungshandbuch
+order: 6
 ---
 
 # AK Berufungskommissionen

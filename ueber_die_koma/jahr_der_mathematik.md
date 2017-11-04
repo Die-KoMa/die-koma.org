@@ -1,12 +1,12 @@
 ---
-layout: default
 title: Jahr der Mathematik
-navigation_weight: 36
+menutitle: Jahr der Mathematik
+order: 6
 ---
 
 # Die KoMa-Aktionen zum Jahr der Mathe
 
-Im Jahr der Mathematik organisieren Schulen und Universitäten ein vielfältiges Angebot an Veranstaltungen. Eine bundesweite Aktion wurde von Studierenden ins Leben gerufen. 
+Im Jahr der Mathematik organisieren Schulen und Universitäten ein vielfältiges Angebot an Veranstaltungen. Eine bundesweite Aktion wurde von Studierenden ins Leben gerufen.
 
 Wir, die KoMa, haben einen mathematischen Staffellauf geplant. Nach dem "Problem des Handlungsreisenden" (dem "Traveling Salesman Problem") wurde ein Graph erstellt, der alle deutschen Hochschulen mit mathematischen Fachbereichen miteinander verbindet.
 

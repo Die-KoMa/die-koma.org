@@ -1,12 +1,12 @@
 ---
-layout: default
 title: Resolutionen
-navigation_weight: 52
+menutitle: Resolutionen
+order: 2
 ---
 
 # Resolutionen
 
-Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden: 
+Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
 ## Regensburg
 
@@ -50,7 +50,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 [Resolution 3](https://die-koma.org/wiki-beta/images/e/e2/77_3.pdf)
 
 
-## Aachen 
+## Aachen
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/c/cf/76_1.pdf)
 
@@ -58,7 +58,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [Resolution 3](https://die-koma.org/wiki-beta/images/2/2e/76_3.pdf)
 
-## Berlin 
+## Berlin
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/5/58/74_1.pdf)
 
@@ -72,11 +72,11 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/d/df/71_1.pdf)
 
-## Bremen 
+## Bremen
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/2/24/69_1.pdf)
 
-## Magdeburg 
+## Magdeburg
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/8/8b/67_1.pdf)
 
@@ -86,17 +86,17 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## Augsburg
 
-[Resolution 1](reso_augsburg_1)	
+[Resolution 1](reso_augsburg_1)
 
-[Resolution 2](reso_augsburg_2)	
+[Resolution 2](reso_augsburg_2)
 
 ## Oldenburg
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/7/7b/58_1.pdf)
 
-[Resolution 2](reso_oldenburg_2)	
+[Resolution 2](reso_oldenburg_2)
 
-## Zürich 
+## Zürich
 
 [Resolution 1](https://die-koma.org/wiki-beta/images/0/03/56_1.pdf)
 
@@ -122,11 +122,11 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [Resolution 4](reso_paderborn_4)
 
-## Clausthal 
+## Clausthal
 
 [Resolution 1](reso_clausthal_1)
 
-## Chemnitz 
+## Chemnitz
 
 [Resolution 1](reso_chemnitz_1)
 
