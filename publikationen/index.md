@@ -8,9 +8,4 @@ navigation_weight: 50
 
 Folgende Publikationen werden von der KoMa veröffentlicht:
 
-* KoMa-Kurier
-* Minimalstandards
-* Neulingsheft
-* Berufungshandbuch
-* KoMa-Buch
-* Liederbuch
+
