@@ -4,24 +4,17 @@
   text-align: right;
   line-height: 24px;
 
-  ul {
-    list-style: none;
-    position: relative;
-    top: -15px;
-    font-size: 14px;
-  }
-
   li {
-    padding-right: 17px;
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
   }
 
-  a {
-    text-decoration: none;
-    font-weight: 600;
-    color: #000080;
+  ul {
+    margin: 0 20px 0 0;
+  }
 
-    &:hover {
-      text-decoration: underline;
-    }
+  label {
+      display: block;
   }
 }
