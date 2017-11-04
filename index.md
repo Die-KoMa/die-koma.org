@@ -1,7 +1,7 @@
 ---
 layout: startpage
 title: Neuigkeiten
-navigation_weight: 1
+order: 1
 ---
 
 # Was ist die KoMa?

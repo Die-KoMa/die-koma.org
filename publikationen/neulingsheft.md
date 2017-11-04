@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Neulingsheft
-navigation_weight: 55
+menutitle: Neulingsheft
+order: 5
 ---
 
 # Das Neulingsheft

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: KoMa-Kurier
-navigation_weight: 22
+menutitle: KoMa-Kurier
+order: 2
 ---
 
 # Der KoMa-Kurier

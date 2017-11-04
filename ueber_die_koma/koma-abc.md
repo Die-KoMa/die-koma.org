@@ -1,7 +1,7 @@
 ---
-layout: default
 title: KoMa-ABC
-navigation_weight: 34
+menutitle: KoMa-ABC
+order: 4
 ---
 
 # Über das KoMa-ABC
@@ -138,7 +138,7 @@ Zur KoMa gibt es zwei Mailinglisten:
 2. KoMa-Fachschaftenliste (fachschaften[ät]die-koma.org)
 
    Diese Mailingliste dient allein der Ankündigung kommender KoMata. Abonnenten der Liste sind u.a. alle Mathematikfachschaften.
-   
+
    Um diese Listen frei von Spam und überflüssigen Mails zu halten, müssen alle Mails durch einen Moderator freigeschaltet werden. Ihr könnt euch in diese Listen eintragen. Da der Antrag von einem Moderator freigeschaltet werden muss, kann es einige Tage dauern bis ihr Mails der Liste empfangt.
 Solltest du den Moderator persönlich kontaktieren wollen, sende eine Mail an komaliste-owner@fs.tum.de
 

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Über die KoMa
-navigation_weight: 31
+menutitle: Über die KoMa
+order: 31
 ---
 
 # Über die KoMa

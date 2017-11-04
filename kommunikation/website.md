@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Webseite
-navigation_weight: 23
+menutitle: Webseite
+order: 3
 ---
 
 # Webseite

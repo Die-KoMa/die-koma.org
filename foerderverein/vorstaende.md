@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Vorstände
-navigation_weight: 41
+menutitle: Vorstände
+order: 1
 ---
 
 # 9. Vorstand 2016/17

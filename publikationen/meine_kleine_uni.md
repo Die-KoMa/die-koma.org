@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Meine kleine Uni
-navigation_weight: 58
+menutitle: Meine kleine Uni
+order: 8
 ---
 
 # Meine kleine Uni
@@ -15,7 +15,7 @@ Das Spiel simuliert den studentischen Alltag mit all seinen erwarteten und unerw
 "Meine kleine Uni"  ist nicht an den Fachinhalt Mathematik gebunden, lediglich einzelne Ereigniskarten enthalten Worte wie z. B. Analysis. Als Veranstaltungsformen wurden Vorlesung und Übung berücksichtigt. Das Spiel berücksichtigt nicht spezielle  Scheinanforderungen, sondern schließt mit einer fiktiven, zweiteiligen Prüfung ab. (Für die Prüfung braucht man Geschick und Glück im Spiel, keinerlei Mathematik-Kenntnisse.)
 
 Es gibt keine SpielerInnenbegrenzung, jedoch erscheint uns 5 bis 10 als eine empfehlenswerte SpielerInnen-Anzahl.
-Das Spiel kann und soll keine ganze Orientierungsphase ersetzen, sondern bietet eine ideale Ergänzung zu sonstigen Aktivitäten. Man wird dabei spielerisch vertraut mit Begriffen wie Vorlesung, Übung, Bibliothek, Selbststudium, Arbeitsgruppe, Fachschaft und lernt dabei das ein oder andere über sie kennen.  (ist nicht nur geeignet für Erstsemester, auch höhere Semester und Fachschaftsleute haben ihren Spaß daran). 
+Das Spiel kann und soll keine ganze Orientierungsphase ersetzen, sondern bietet eine ideale Ergänzung zu sonstigen Aktivitäten. Man wird dabei spielerisch vertraut mit Begriffen wie Vorlesung, Übung, Bibliothek, Selbststudium, Arbeitsgruppe, Fachschaft und lernt dabei das ein oder andere über sie kennen.  (ist nicht nur geeignet für Erstsemester, auch höhere Semester und Fachschaftsleute haben ihren Spaß daran).
 
 ## Download
 

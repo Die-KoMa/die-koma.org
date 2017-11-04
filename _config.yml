@@ -17,3 +17,14 @@ github_username:  Die-KoMa
 
 # Build settings
 markdown: kramdown
+
+# Defaults, mainly to set a layout
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      menuentry: true
+      submenu: true

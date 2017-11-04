@@ -1,7 +1,7 @@
 ---
-layout: default
 title: KoMa-FAQ
-navigation_weight: 33
+menutitle: KoMa-FAQ
+order: 3
 ---
 
 # Die KoMa-FAQ
