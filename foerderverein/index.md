@@ -25,7 +25,7 @@ Der Förderverein kann über folgende Postadresse erreicht werden:
     Postfach 33 04 40
     D-28334 Bremen
 
-Alternativ lautet die E-Mailadresse des Vereins [foerderverein[at]die-koma.org](mailto:foerderverein@die-koma.org).
+Alternativ lautet die E-Mailadresse des Vereins <foerderverein@die-koma.org>.
 
 Die Kontoverbindung des Fördervereins der KoMa e.V. lautet:
 

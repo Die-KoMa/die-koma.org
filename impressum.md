@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Impressum
 ---
 
@@ -9,8 +8,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 ## Kontakt
 
-E-Mail: homepage[at]die-koma.org
-
+E-Mail: <homepage@die-koma.org> \\
 Telefon: +49 (421) 40 88 98 40
 
 Kontakt und Informationen zum Förderverein oder dem KoMa-Büro finden Sie auf den entsprechenden Unterseiten.
@@ -19,6 +17,6 @@ Kontakt und Informationen zum Förderverein oder dem KoMa-Büro finden Sie auf d
 
 im Sinne des §5 TMG und §55 Abs. 2 RStV
 
-    Maximilian Jalea
-    Im Neuenheimer Feld 523
-    69120 Heidelberg
+Maximilian Jalea \\
+Im Neuenheimer Feld 523 \\
+69120 Heidelberg

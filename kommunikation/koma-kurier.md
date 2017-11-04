@@ -10,4 +10,4 @@ Zur Erstellung des Konferenzbandes der KoMa, dem sog. KoMa-Kurier wird stets auf
 
 ## Kontakt zur KoMa-Kurier Redaktion
 
-Die Redaktion des KoMa-Kuriers ist immer per Email erreichbar unter [kurier[at]die-koma.org](mailto:kurier@die-koma.org).
+Die Redaktion des KoMa-Kuriers ist immer per Email erreichbar unter <kurier@die-koma.org>.
