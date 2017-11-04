@@ -14,4 +14,4 @@ Der Kurier ist kostenlos sowohl in unserem [Wiki]() als auch im Archiv der Deuts
 
 ## Kontakt zur Redaktion
 
-Die Kurier Redaktion ist zu erreichen unter: [kurier[at]die-koma.org](mailto:kurier@die-koma.org).
+Die Kurier Redaktion ist zu erreichen unter: <kurier@die-koma.org>.
