@@ -1,12 +1,12 @@
 ---
-layout: default
 title: Resolutionen
-navigation_weight: 52
+menutitle: Resolutionen
+order: 2
 ---
 
 # Resolutionen
 
-Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden: 
+Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
 ## Regensburg
 
@@ -51,7 +51,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 [**77/3: Resolution zur Novellierung des Wissenschaftszeitvertragsgesetzes**](https://die-koma.org/wiki-beta/images/e/e2/77_3.pdf)
 
 
-## Aachen 
+## Aachen
 
 [**76/1: Resolution Netzneutralität**](https://die-koma.org/wiki-beta/images/c/cf/76_1.pdf)
 
@@ -60,7 +60,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 [**76/3: Resolution zu Übungskonzepte an Hochschulen**](https://die-koma.org/wiki-beta/images/2/2e/76_3.pdf)
 
 
-## Berlin 
+## Berlin
 
 [**74/1: Resolution zum Gesetzesentwurf des Hochschulzukunftsgesetz im Land NRW**](https://die-koma.org/wiki-beta/images/5/58/74_1.pdf)
 
@@ -77,12 +77,12 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 [**71/1: Resolution zur Tutorensuche und -auswahl in mathematischen Studiengängen**](https://die-koma.org/wiki-beta/images/d/df/71_1.pdf)
 
 
-## Bremen 
+## Bremen
 
 [**69/1: Resolution zur Tutorensuche und -auswahl in mathematischen Studiengängen**](https://die-koma.org/wiki-beta/images/2/24/69_1.pdf)
 
 
-## Magdeburg 
+## Magdeburg
 
 [**67/1: Resolution gegen eine Trennung von Fach- und Lehramtsstudium**](https://die-koma.org/wiki-beta/images/8/8b/67_1.pdf)
 
@@ -94,19 +94,19 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## Augsburg
 
-[**64/1: Resolution - Lehrproben in Berufungsverfahren**](reso_augsburg_1)	
+[**64/1: Resolution - Lehrproben in Berufungsverfahren**](reso_augsburg_1)
 
-[**64/2: Resolution - Zum Thema Evaluation**](reso_augsburg_2)	
+[**64/2: Resolution - Zum Thema Evaluation**](reso_augsburg_2)
 
 
 ## Oldenburg
 
 [**58/1: Resolution zur Verbesserung der Lehrerausbildung im Fach Mathematik**](https://die-koma.org/wiki-beta/images/7/7b/58_1.pdf)
 
-[**58/2: Resolution - Umfragebogen**](reso_oldenburg_2)	
+[**58/2: Resolution - Umfragebogen**](reso_oldenburg_2)
 
 
-## Zürich 
+## Zürich
 
 [**56/1: Resolution Neunummerierung der KoMa**](https://die-koma.org/wiki-beta/images/0/03/56_1.pdf)
 
@@ -135,12 +135,12 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 [**49/4: Resolution zu Internationalen Studiengängen**](reso_paderborn_4)
 
 
-## Clausthal 
+## Clausthal
 
 [**38/1: Resolution für eine solidarische Bildungsförderung und gegen Studiengebühren**](reso_clausthal_1)
 
 
-## Chemnitz 
+## Chemnitz
 
 [**37/1: Resolution gegen Zensurversuche im WWW**](reso_chemnitz_1)
 

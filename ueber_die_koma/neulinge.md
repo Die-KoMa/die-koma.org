@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Neulinge
-navigation_weight: 32
+menutitle: Neulinge
+order: 2
 ---
 
 # Neu auf der KoMa?

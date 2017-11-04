@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Mailinglisten
-navigation_weight: 24
+menutitle: Mailinglisten
+order: 4
 ---
 
 # Mathematikfachschaften

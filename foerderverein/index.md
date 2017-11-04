@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Förderverein
-navigation_weight: 40
+menutitle: Förderverein
+order: 40
 ---
 
 # Der Förderverein der KoMa e.V.
@@ -10,9 +10,9 @@ Der Förderverein der KoMa wurde am 14. November 2008 auf der 62. KoMa in Paderb
 Der Förderverein stellt den verschiedenen Unterstützern der KoMa, wie etwa dem BMBF aber auch einzelnen Spendern, einen beständigen Ansprechpartner bereit. Er unterstützt die Organisatoren der einzelnen Konferenzen und fördert allgemein die Ausrichtung der KoMa und unterstützt interessierten Mathematikstudierenden bei der Teilnahme.
 
 # Satzung
-[Satzung]() des Fördervereins der KoMa e.V., letzte Änderung KoMa 64. 
+[Satzung]() des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
 
-# Beitritt 
+# Beitritt
 
 [Beitrittsformular]()
 
@@ -35,4 +35,3 @@ Die Kontoverbindung des Fördervereins der KoMa e.V. lautet:
     Kto.-Nr.:       8917013600
     BLZ:            47260121
     Kreditinstitut: Volksbank Paderborn-Höxter-Detmold
-

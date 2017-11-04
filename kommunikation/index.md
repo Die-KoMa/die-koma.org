@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Kommunikation
-navigation_weight: 21
+menutitle: Kommunikation
+order: 21
 ---
 
 <SCRIPT language="JavaScript">

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Liederbuch
-navigation_weight: 57
+menutitle: Liederbuch
+order: 7
 ---
 
 # Liederbuch
