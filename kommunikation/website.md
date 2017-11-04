@@ -6,4 +6,4 @@ order: 3
 
 # Webseite
 
-Diese Webseite ist von Maximilian Jalea, Jan Beinke und Maximilian Marx. Zu erreichen sind beide unter [homepage[at]die-koma.org](mailto:homepage@die-koma.org).
+Diese Webseite ist von Maximilian Jalea, Jan Beinke und Maximilian Marx. Zu erreichen sind beide unter <homepage@die-koma.org>.

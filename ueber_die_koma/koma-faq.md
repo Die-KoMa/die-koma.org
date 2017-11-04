@@ -70,4 +70,4 @@ Es gibt eine KoMa-Mailingliste. Details findest du in der Rubrik [Mailingliste](
 
 Diese FAQs wurden geschrieben von und aus der Sicht von Wolfgang Dautermann (leicht bearbeitet von Uwe Nowak).
 
-Falls Du eine Frage hast, die hier nicht (oder falsch) beantwortet wird: Schreibe einfach eine E-Mail an [homepage[at]die-koma.org](mailto:homepage@die-koma.org) oder komm doch auf der nächsten KoMa vorbei!
+Falls Du eine Frage hast, die hier nicht (oder falsch) beantwortet wird: Schreibe einfach eine E-Mail an <homepage@die-koma.org> oder komm doch auf der nächsten KoMa vorbei!

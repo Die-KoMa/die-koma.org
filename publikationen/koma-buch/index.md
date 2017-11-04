@@ -42,4 +42,4 @@ Das Buch erhaltet ihr unter [diesem Link](../../static/Nico-Hauser_KoMa-Buch.pdf
 
 Das Buch wurde von der Konferenz der deutschsprachigen  Mathematikfachschaften herausgegeben, ist aber direkt beim Autor erhältlich. Es kostet 9,5 Euro zzgl. 2 Euro Versand, die im Voraus zu überweisen sind.
 
-Wer das Buch haben möchte, wende sich per Email an Nico Hauser, der dann weitere Informationen zu Bezahlung und Versand mitteilt: [nhauser[at]em.uni-frankfurt.de](mailto:nhauser[at]em.uni-frankfurt.de).
+Wer das Buch haben möchte, wende sich per Email an Nico Hauser, der dann weitere Informationen zu Bezahlung und Versand mitteilt: <nhauser@em.uni-frankfurt.de>.
