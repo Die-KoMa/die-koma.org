@@ -3,6 +3,15 @@ title: Vorstände
 menutitle: Vorstände
 order: 1
 ---
+# 10. Vorstand 2017/18
+
+In den 10. Vorstand des Fördervereines der KoMa e.V. wurden am 03.11.2017 gewählt:
+
+   * Niels Jürgensen (Vorsitz)
+   * Valentin Steinforth (stellv. Vorsitz)
+   * Ronald Hund (Kassenwart)
+   * Felix Donner
+   * Matthias Bauer 
 
 # 9. Vorstand 2016/17
 
