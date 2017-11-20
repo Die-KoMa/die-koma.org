@@ -8,6 +8,12 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Wien
+
+[**81/1: Resolution zur drittmittelunabhängigen Finanzierung der Lehre**](https://die-koma.org/wiki-beta/images/1/1e/81_1.pdf)
+
+[**81/2: Forderung der 81. Konferenz der deutschsprachigen Mathematikfachschaften zur bildungspolitischen Ausrichtung der nächsten Legislaturperiode in Bund und Ländern**](https://die-koma.org/wiki-beta/images/5/52/81_2.pdf)
+
 ## Regensburg
 
 [**80/1: Aufforderung der studentischen Nominierung für den Akkreditierungsrat zu folgen**](https://die-koma.org/wiki-beta/images/f/f5/80_1.pdf)
