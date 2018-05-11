@@ -9,14 +9,16 @@
 title: Webseite der deutschsprachigen Mathematikfachschaften
 email: homepage@die-koma.org
 description: > # this means to ignore newlines until "baseurl:"
-    
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://die-koma.org" # the base hostname & protocol for your site
-twitter_username: 
 github_username:  Die-KoMa
 
 # Build settings
 markdown: kramdown
+
+# Remove .html from generated website as https://jekyllrb.com/docs/permalinks/#posts suggests
+permalink: pretty
 
 # Defaults, mainly to set a layout
 defaults:
