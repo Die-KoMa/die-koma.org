@@ -15,23 +15,23 @@ Die Minimalstandards sind hierbei wörtlich als "minimal" zu verstehen. Sie lief
 ## Veröffentlichungen
 
 ### Version Post KoMa @ Dresden (Sep. 2010)
-[koma-minsanity-2010-09-27.pdf](../static/koma-minsanity-2010-09-27.pdf)
+[koma-minsanity-2010-09-27.pdf](https://die-koma.org/wiki-beta/Datei:Koma-minsanity-2010-09-27.pdf)
 
 
 ### Version Post KoMa @ Graz (Dez. 2009)
-[koma-minsanity-2009-12-20.pdf](../static/koma-minsanity-2009-12-20.pdf)
+[koma-minsanity-2009-12-20.pdf](https://die-koma.org/wiki-beta/Datei:Koma-minsanity-2009-12-20.pdf)
 
 ### Version Post KoMa @ Paderborn (Nov. 2008)
-[koma-minsanity-2008-11-16.pdf](../static/koma-minsanity-2008-11-16.pdf)
+[koma-minsanity-2008-11-16.pdf](https://die-koma.org/wiki-beta/Datei:Koma-minsanity-2008-11-16.pdf)
 
 ### Version Post KoMa @ Chemnitz
-[koma-minsanity-2008-05-26.pdf](../static/koma-minsanity-2008-05-26.pdf)
+[koma-minsanity-2008-05-26.pdf](https://die-koma.org/wiki-beta/Datei:Koma-minsanity-2008-05-26.pdf)
 
 ### Version Post KoMa @ Regensburg
-[koma-minsanity-2008-03-24.pdf](../static/koma-minsanity-2008-03-24.pdf)
+[koma-minsanity-2008-03-24.pdf](https://die-koma.org/wiki-beta/Datei:Koma-minsanity-2008-03-24.pdf)
 
 ### Version Post KoMa @ Karlsruhe
-[koma-minsanity-2007-05-23.pdf](../static/koma-minsanity-2007-05-23.pdf)
+[koma-minsanity-2007-05-23.pdf](https://die-koma.org/wiki-beta/Datei:Koma-minsanity-2007-05-23.pdf)
 
 ### Erster Entwurf
-[koma-minsanity-2007-05-19.pdf](../static/koma-minsanity-2007-05-19.pdf)
+[koma-minsanity-2007-05-19.pdf](https://die-koma.org/wiki-beta/Datei:Koma-minsanity-2007-05-19.pdf)

@@ -23,11 +23,11 @@ Falls ihr das Spiel in der unveränderten Version von 1992 spielen möchtet, kö
 
 ### Dateien:
 
-* [Anleitung](../static/meine_kleine_uni/anleitung.pdf)
-* [Spielplan](../static/meine_kleine_uni/plan.pdf)
-* [Ereigniskärtchen](../static/meine_kleine_uni/ereignis.pdf)
-* [Punktekärtchen](../static/meine_kleine_uni/punkte.pdf)
-* [Prüferkärtchen](../static/meine_kleine_uni/profmak.pdf)
+* [Anleitung](https://die-koma.org/wiki-beta/Datei:Meine_Kleine_Uni_Anleitung.pdf)
+* [Spielplan](https://die-koma.org/wiki-beta/Datei:Meine_Kleine_Uni_Plan.pdf)
+* [Ereigniskärtchen](https://die-koma.org/wiki-beta/Datei:Meine_Kleine_Uni_Ereignis.pdf)
+* [Punktekärtchen](https://die-koma.org/wiki-beta/Datei:Meine_Kleine_Uni_Punkte.pdf)
+* [Prüferkärtchen](https://die-koma.org/wiki-beta/Datei:Meine_Kleine_Uni_Profmak.pdf)
 
 ### Zum Drucken
 
@@ -45,9 +45,9 @@ Diese Versionen könnt ihr dann problemlos ändern und erweitern. In diesem Fall
 
 Ihr bekommt von uns eine Diskette [42], auf der sich alle Files befinden. Den Rest macht ihr dann selber. (Ausdrucken, kopieren, usw.) Falls ihr ein zuverlässiges e-mail-System besitzt, könnten die Files auch per e-mail kommen (Dann ohne Kosten).
 
-[42] [MS-DOS, 3,5''](../static/meine_kleine_uni/dosfertig.zip)
+[42] [MS-DOS, 3,5''](https://die-koma.org/wiki-beta/Datei:Meine_Kleine_Uni_Dos.zip)
 
-und für [UNIX-Systeme](../static/meine_kleine_uni/versand.zip)
+und für [UNIX-Systeme](https://die-koma.org/wiki-beta/Datei:Meine_Kleine_Uni_Versand.zip)
 
 ### Version 2
 

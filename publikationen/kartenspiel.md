@@ -6,6 +6,8 @@ order: 3
 
 # Mathematisches Skatblatt (2004)
 
+![Mathematisches Skatblatt](/static/Kartenspiel/csm_koma_kartenspiele_41bb732c78.png){: .float-right}
+
 Auf der KoMa im Sommersemester 1998 in Dresden entstanden Entwürfe für ein mathematisches Kartenspiel. Das Projekt wurde im Wintersemester 2003/04 auf der KoMa in Siegen wieder aufgenommen und dann bis zur darauf folgenden KoMa zu Ende geführt.
 
 ## Das Ergebnis
@@ -24,6 +26,8 @@ Die Rückseite der Karten ziert letztendlich ein Apfelmännchen.
 Dieses Skatblatt ist inzwischen **ausverkauft** und wird nicht mehr nachgedruckt werden, da es inzwischen eine Neuauflage gibt:
 
 # Mathematisches Romméblatt (2014)
+
+![Mathematisches Romméblatt](/static/Kartenspiel/csm_Werbung_526638a30b.png){: .float-right}
 
 Circa 10 Jahre nach der ersten Version gab es eine Neuauflage mit überarbeitetem Design, neuen Motiven und 55 statt 32 Karten (also als halbes Romméblatt). Natürlich sind die Zahlenkarten noch immer mit mathematischen Motiven geschmückt, und die Bildkarten mit berühmten Mathematikern. Lediglich das Layout wurde weiterentwickelt und natürlich die konkreten Personen und Symbole ausgetauscht.
 

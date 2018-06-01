@@ -10,4 +10,4 @@ Wer zum ersten Mal auf einer KoMa ist oder noch nie da war, für den ist es sich
 
 ## Download
 
-Das Heft gibt es entweder gedruckt auf der nächsten KoMa oder [hier als Datei](../static/neulingsheft.pdf) (Stand: Frühjahr 2012).
+Das Heft gibt es entweder gedruckt auf der nächsten KoMa oder [hier als Datei](https://die-koma.org/wiki-beta/Datei:Neulingsheft.pdf) (Stand: Frühjahr 2012).
