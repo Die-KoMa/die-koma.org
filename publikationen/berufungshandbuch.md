@@ -17,14 +17,14 @@ Im Rahmen des Arbeitskreises wurde 2009 ein Handbuch erarbeitet, welche Studiere
 # Handbuch Download
 
 ## 2. Auflage, Sommersemester 2012
-[bkhandbuch v2.pdf](../static/bkhandbuch_v2.pdf)
+[bkhandbuch v2.pdf](https://die-koma.org/wiki-beta/Datei:Bkhandbuch_v2.pdf)
 
 ## 1. Auflage, Sommersemester 2009
-[bkhandbuch v1.pdf](../static/bkhandbuch v1.pdf)
+[bkhandbuch v1.pdf](https://die-koma.org/wiki-beta/Datei:Bkhandbuch_v1.pdf)
 
 # Vortragsfolien Berufungskommissionen
 
 Vortragsfolien zum Ablauf einer Berufungskommission und der studentischen Mitwirkung in derselbigen.
 
-* [Vortrag AK BK, Tim Haga, KoMa 66](../static/KoMa_66_vortrag_ak_bk.pdf)
-* [Vortrag AK BK, Peter Köß, KoMa 74](../static/KoMa_74_vortrag_ak_bk.pdf)
+* [Vortrag AK BK, Tim Haga, KoMa 66](https://die-koma.org/wiki-beta/Datei:KoMa_66_vortrag_ak_bk.pdf)
+* [Vortrag AK BK, Peter Köß, KoMa 74](https://die-koma.org/wiki-beta/Datei:KoMa_74_vortrag_ak_bk.pdf)
