@@ -6,16 +6,27 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Webseite der deutschsprachigen Mathematikfachschaften
+email: homepage@die-koma.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://die-koma.org" # the base hostname & protocol for your site
+github_username:  Die-KoMa
 
 # Build settings
 markdown: kramdown
+
+# Remove .html from generated website as https://jekyllrb.com/docs/permalinks/#posts suggests
+permalink: pretty
+
+# Defaults, mainly to set a layout
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      menuentry: true
+      submenu: true
