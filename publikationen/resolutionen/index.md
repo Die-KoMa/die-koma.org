@@ -100,16 +100,16 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## Augsburg
 
-[**64/1: Resolution - Lehrproben in Berufungsverfahren**](reso_augsburg_1)
+[**64/1: Resolution - Lehrproben in Berufungsverfahren**](reso_augsburg_1)	
 
-[**64/2: Resolution - Zum Thema Evaluation**](reso_augsburg_2)
+[**64/2: Resolution - Zum Thema Evaluation**](reso_augsburg_2)	
 
 
 ## Oldenburg
 
 [**58/1: Resolution zur Verbesserung der Lehrerausbildung im Fach Mathematik**](https://die-koma.org/wiki-beta/images/7/7b/58_1.pdf)
 
-[**58/2: Resolution - Umfragebogen**](reso_oldenburg_2)
+[**58/2: Resolution - Umfragebogen**](reso_oldenburg_2)	
 
 
 ## Zürich
