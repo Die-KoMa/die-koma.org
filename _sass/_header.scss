@@ -14,7 +14,7 @@
   .logo {
     height: $headerLogoHeight;
     margin-left: $headerLeftBar;
-    top: $headerHeight - $headerLogoHeight - $headerBottomOffset + $headerBorderWidth;
+    top: $headerHeight - $headerLogoHeight - $headerBottomOffset + $headerBorderWidth - 3px;
     position: relative;
     width: $headerLogoWidth;
 
@@ -73,12 +73,12 @@
     }
 
     &::before {
-      left: 0;
+      left: 0px;
       width: $headerLeftBar;
     }
 
     &::after {
-      left: $headerLeftBar + $headerLogoWidth - 1px;
+      left: $headerLeftBar + $headerLogoWidth - 5px;
       right: 15px;
     }
   }
