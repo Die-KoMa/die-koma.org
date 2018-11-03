@@ -18,13 +18,13 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## Berlin
 
-[[**82/1: Resolution zu Arbeitsrechtsbelehrungen studentischer Hilfskräfte an die HRK**](https://die-koma.org/wiki-beta/images/6/62/82_1.pdf)
+[**82/1: Resolution zu Arbeitsrechtsbelehrungen studentischer Hilfskräfte an die HRK**](https://die-koma.org/wiki-beta/images/6/62/82_1.pdf)
 
-[[**82/1: Resolution zu Arbeitsrechtsbelehrungen studentischer Hilfskräfte an die KMK**](https://die-koma.org/wiki-beta/images/8/80/82_1_5.pdf)
+[**82/1: Resolution zu Arbeitsrechtsbelehrungen studentischer Hilfskräfte an die KMK**](https://die-koma.org/wiki-beta/images/8/80/82_1_5.pdf)
 
-[[**82/2: Resolution zur Arbeitszeitbelastung studentischer Hilfskräfte**](https://die-koma.org/wiki-beta/images/1/13/82_2.pdf)
+[**82/2: Resolution zur Arbeitszeitbelastung studentischer Hilfskräfte**](https://die-koma.org/wiki-beta/images/1/13/82_2.pdf)
 
-[[**82/3: Resolution zum Entwurf des Gesetzes zur Änderung des Hochschulgesetzes NRW**](https://die-koma.org/wiki-beta/images/b/b8/82_3.pdf)
+[**82/3: Resolution zum Entwurf des Gesetzes zur Änderung des Hochschulgesetzes NRW**](https://die-koma.org/wiki-beta/images/b/b8/82_3.pdf)
 
 ## Wien
 
