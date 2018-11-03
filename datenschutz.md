@@ -2,8 +2,6 @@
 title: Datenschutz
 ---
 
-# Datenschutzerklärung
-
 <h1>Datenschutzerklärung</h1>
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
 <p>Kontakt
