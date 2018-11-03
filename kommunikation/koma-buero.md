@@ -17,5 +17,4 @@ Karl-Liebknecht-Str. 24-25 \\
 Haus 28, Raum 0.085 \\
 D-14476 Golm
 
-Telefon: +49 331 977 5420 \\
 E-Mail: <buero@die-koma.org>
