@@ -3,6 +3,16 @@ title: Vorstände
 menutitle: Vorstände
 order: 1
 ---
+# 11. Vorstand 2018/19
+
+In den 10. Vorstand des Fördervereines der KoMa e.V. wurden am 03.11.2017 gewählt:
+
+   * Sebastian Uschmann (Vorsitz)
+   * Jessica Winter (stellv. Vorsitz)
+   * Jonathan Schäfer (Kassenwart)
+   * Niels Jürgens
+   * Antonia Vitt
+
 # 10. Vorstand 2017/18
 
 In den 10. Vorstand des Fördervereines der KoMa e.V. wurden am 03.11.2017 gewählt:
