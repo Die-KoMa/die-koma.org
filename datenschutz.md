@@ -3,21 +3,18 @@ title: Datenschutz
 ---
 
 <h1>Datenschutzerklärung</h1>
-<p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
-<p>Kontakt
+<p>Kontakt zur verantwortlichen Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO):</p>
+<p>E-Mail: homepage@die-koma.org
 <br>
-<br>E-Mail: homepage@die-koma.org
-<br>Telefon: +49 (421) 40 88 98 40
 <br>
 <br>Betreiber und inhaltlich Verantwortlicher
-<br>
 <br>im Sinne des §5 TMG und §55 Abs. 2 RStV
 <br>
 <br>Maximilian Jalea
 <br>Im Neuenheimer Feld 523
 <br>69120 Heidelberg</p>
 <h2>Ihre Betroffenenrechte</h2>
-<p>Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:</p>
+<p>Unter den angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausüben:</p>
 <ul>
 <li>Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),</li>
 <li>Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),</li>
@@ -36,7 +33,7 @@ title: Datenschutz
 <p>Für eine wirksame Registrierung benötigen wir eine valide E-Mail-Adresse. Um zu überprüfen, dass eine Anmeldung tatsächlich durch den Inhaber einer E-Mail-Adresse erfolgt, setzen wir das „Double-opt-in“-Verfahren ein. Hierzu protokollieren wir die Bestellung des Newsletters, den Versand einer Bestätigungsmail und den Eingang der hiermit angeforderten Antwort. Weitere Daten werden nicht erhoben. Die Daten werden ausschließlich für den Newsletterversand verwendet und nicht an Dritte weitergegeben.</p>
 <h3>Rechtsgrundlage:</h3>
 <p>Auf Grundlage Ihrer ausdrücklich erteilten Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), übersenden wir Ihnen regelmäßig unseren Newsletter bzw. vergleichbare Informationen per E-Mail an Ihre angegebene E-Mail-Adresse. </p>
-<p>Die Einwilligung zur Speicherung Ihrer persönlichen Daten und ihrer Nutzung für den Newsletterversand können Sie jederzeit mit Wirkung für die Zukunft widerrufen. In jedem Newsletter findet sich dazu ein entsprechender Link. Außerdem können Sie sich jederzeit auch direkt auf dieser Website abmelden oder uns Ihren Widerruf über die am Ende dieser Datenschutzhinweise angegebene Kontaktmöglichkeit mitteilen.</p>
+<p>Die Einwilligung zur Speicherung Ihrer persönlichen Daten und ihrer Nutzung für den Newsletterversand können Sie jederzeit mit Wirkung für die Zukunft widerrufen. In jedem Newsletter findet sich dazu ein entsprechender Link. Außerdem können Sie sich jederzeit auch direkt auf dieser Website abmelden oder uns Ihren Widerruf über die am Anfang dieser Datenschutzhinweise angegebene Kontaktmöglichkeit mitteilen.</p>
 <h3>Empfänger:</h3>
 <p>Empfänger der Daten sind ggf. Auftragsverarbeiter.</p>
 <h3>Speicherdauer:</h3>
@@ -46,10 +43,7 @@ title: Datenschutz
 <h2>Kontaktformular</h2>
 <h3>Art und Zweck der Verarbeitung:</h3>
 <p>Die von Ihnen eingegebenen Daten werden zum Zweck der individuellen Kommunikation mit Ihnen gespeichert. Hierfür ist die Angabe einer validen E-Mail-Adresse sowie Ihres Namens erforderlich. Diese dient der Zuordnung der Anfrage und der anschließenden Beantwortung derselben. Die Angabe weiterer Daten ist optional.</p>
-<h3>Rechtsgrundlage:</h3>
-<p>Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt auf der Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).</p>
-<p>Durch Bereitstellung des Kontaktformulars möchten wir Ihnen eine unkomplizierte Kontaktaufnahme ermöglichen. Ihre gemachten Angaben werden zum Zwecke der Bearbeitung der Anfrage sowie für mögliche Anschlussfragen gespeichert.</p>
-<p>Sofern Sie mit uns Kontakt aufnehmen, um ein Angebot zu erfragen, erfolgt die Verarbeitung der in das Kontaktformular eingegebenen Daten zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO).</p>
+
 <h3>Empfänger:</h3>
 <p>Empfänger der Daten sind ggf. Auftragsverarbeiter.</p>
 <h3>Speicherdauer:</h3>
@@ -61,6 +55,6 @@ title: Datenschutz
 <p>Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z. B. SSL) über HTTPS.</p>
 <h2>Änderung unserer Datenschutzbestimmungen</h2>
 <p>Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.</p>
-<h2>Fragen an den Datenschutzbeauftragten</h2>
-<p>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:</p>
+<h2>Fragen zum Datenschutz</h2>
+<p>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an den Betreiber der Website.</p>
 <p><em>Die Datenschutzerklärung wurde mit dem </em><em><a href="https://www.activemind.de/datenschutz/datenschutzhinweis-generator/" target="_blank" rel="noopener">Datenschutzerklärungs-Generator der activeMind AG erstellt</a> (Version 2018-09-24).</em></p>
