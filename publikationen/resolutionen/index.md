@@ -8,6 +8,24 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Erlangen
+
+[**83/1: Resolution zu Beratungsgesprächen bei anstehendem letztmöglichen Prüfungsversuch**](https://die-koma.org/wiki-beta/images/f/ff/83_1.pdf)
+
+[**83/2: Resolution gegen die Durchführung von Onlinewahlen an Hochschulen**](https://die-koma.org/wiki-beta/images/d/d3/83_2.pdf)
+
+[**83/3: Resolution zur Lehre in Berufungskommission**](https://die-koma.org/wiki-beta/images/3/32/83_3.pdf)
+
+## Berlin
+
+[[**82/1: Resolution zu Arbeitsrechtsbelehrungen studentischer Hilfskräfte an die HRK**](https://die-koma.org/wiki-beta/images/6/62/82_1.pdf)
+
+[[**82/1: Resolution zu Arbeitsrechtsbelehrungen studentischer Hilfskräfte an die KMK**](https://die-koma.org/wiki-beta/images/8/80/82_1_5.pdf)
+
+[[**82/2: Resolution zur Arbeitszeitbelastung studentischer Hilfskräfte**](https://die-koma.org/wiki-beta/images/1/13/82_2.pdf)
+
+[[**82/3: Resolution zum Entwurf des Gesetzes zur Änderung des Hochschulgesetzes NRW**](https://die-koma.org/wiki-beta/images/b/b8/82_3.pdf)
+
 ## Wien
 
 [**81/1: Resolution zur drittmittelunabhängigen Finanzierung der Lehre**](https://die-koma.org/wiki-beta/images/1/1e/81_1.pdf)
