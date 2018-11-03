@@ -1,20 +1,42 @@
+.site-nav-wrapper {
+  margin: auto;
+  line-height: 24px; 
+}
+
 .site-nav {
-  width: $headerLeftBar;
-  border-right: $headerBorderWidth solid black;
-  text-align: right;
-  line-height: 24px;
+  ul > li > ul{
+    margin-left: 15px;
+  }
 
   li {
     list-style-type: none;
-    width: 100%;
-    margin: 0;
-  }
-
-  ul {
-    margin: 0 20px 0 0;
+    margin: auto;
   }
 
   label {
-      display: block;
+    display: block;
+  }
+}
+
+@media all and (max-width: 799px){
+  .site-nav-wrapper {
+    order: 2;
+  }
+}
+
+@media all and (min-width: 800px){
+  .site-nav-wrapper {
+    margin: 0 20px 0 0;
+    width: $headerLeftBar;
+    border-right: $headerBorderWidth solid black;
+    line-height: 24px; 
+  }
+  
+  .site-nav {
+    width: 180px;
+
+    ul {
+      margin: 0 20px 0 15px;
+    }
   }
 }

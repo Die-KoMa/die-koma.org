@@ -1,68 +1,46 @@
 .site-header {
   background-image: url("/core/image/header_banner.png");
   background-repeat: no-repeat;
-  height: $headerHeight;
+  background-size: cover;
+  height: $mobileHeaderHeight;
+  position: relative;
 
   span {
-    color: #000000;
+    color: #000000; 
   }
 
   a:hover span {
     text-decoration: underline;
   }
-
+  
   .logo {
-    height: $headerLogoHeight;
-    margin-left: $headerLeftBar;
-    top: $headerHeight - $headerLogoHeight - $headerBottomOffset + $headerBorderWidth - 3px;
+    height: $mobileHeaderHeight;
+    margin-left: 35vw;
+    top: 0.5vw;
+    bottom: 0px;
     position: relative;
-    width: $headerLogoWidth;
-
-    svg {
-      width: 100%;
-      height: 100%;
-      position: relative;
-      /* New icon needs this
-         top: 0.4px;
-       */
-      zoom: 0.414;
-      top: 8.4px;
-    }
+    width: 30vw;
 
     span {
       position: absolute;
-      bottom: -6px;
-      font-size: 27px;
-      left: 17px;
+      bottom: 5px;
+      left: calc(-35vw + 5px);
+      font-size: 5vmin;
+    }
+    
+    .svg {
+      width: 30vw;
+      height: auto;
+      bottom: 0px;
+      position: absolute;
     }
   }
-
+  
   .arrow {
-    width: $headerWidth;
-    height: $headerBorderWidth;
+    height: 0.5vw;
     position: absolute;
-    top: $headerHeight - $headerBottomOffset;
-
-    div {
-      border-bottom: 10px solid transparent;
-      border-top: 10px solid transparent;
-      border-left: 32px solid black;
-      border-radius: 50%;
-      position: absolute;
-      top: -8px;
-      right: 0;
-
-      &::before {
-        content: " ";
-        position: absolute;
-        border-bottom: 11.5px solid transparent;
-        border-top: 11.5px solid transparent;
-        border-right: 16px solid white;
-        border-radius: 50%;
-        left: -39px;
-        top: -11.5px;
-      }
-    }
+    top: $mobileHeaderHeight; 
+    width: calc(100vw - 20px);
 
     &::before, &::after {
       background: #000000;
@@ -71,40 +49,154 @@
       height: 100%;
       position: absolute;
     }
-
+    
     &::before {
       left: 0px;
-      width: $headerLeftBar;
+      width: 35vw;
     }
-
+    
     &::after {
-      left: $headerLeftBar + $headerLogoWidth - 5px;
-      right: 15px;
+      left: 65vw;
+      right: 0;
     }
   }
 
-  .subtitle {
+  .arrowhead {
+    width: $arrowheadWidthMobile;
+    bottom: calc(-0.3125 * #{$arrowheadWidthMobile} - 0.25vw);
+    right: 15px;
     position: absolute;
-    height: $headerBottomOffset - $headerBorderWidth;
-    top: $headerHeight - $headerBottomOffset + $headerBorderWidth;
-    left: $headerLeftBar + $headerLogoWidth;
-    vertical-align: middle;
-    width: $headerWidth - $headerLeftBar - $headerLogoWidth - $headerRightOffset;
-    text-align: center;
+  }
+  
+  a {
+    text-decoration: none !important;
+  }
+  
+  .subtitle {
+    position: relative;
+    top: 3vh;
+    left: 5vw;
+    text-align: right;
+    width: calc(100% - 10vw);
 
     span {
-      font-size: 20px;
-      line-height: $headerBottomOffset - $headerBorderWidth + .5 * $headerBorderWidth;
+        font-size: 3vw;
+        line-height: 3vh;
+    }
+  }  
+}
+
+@media all and (max-width: 300px){
+  .site-header {
+    .logo {
+      span {
+        display: none;
+      }
+    }
+
+    .subtitle {
+      position: relative;
+      top: 10px;
+      left: auto;
+      text-align: center;
+      width: auto;
+
+      span {
+        font-size: 12px;
+        line-height: 15px;
+      }
     }
   }
+}
 
-  &::after {
-    content: " ";
-    display: block;
-    height: $headerBottomOffset;
-    width: $headerLeftBar;
-    top: $headerHeight - $headerBottomOffset;
-    border-right: $headerBorderWidth solid #000000;
-    position: absolute;
+@media all and (min-width: 800px){
+  .site-header {
+    height: $headerHeight; 
+    background-size: inherit;
+    
+    .arrow {
+      height: $headerBorderWidth;
+      position: absolute;
+      top: $headerHeight - $headerBottomOffset; 
+      width: calc(100vw - 20px);
+      max-width: calc(1100px - 20px);
+
+      &::before {
+        left: 0px;
+        width: $headerLeftBar;
+      }
+      
+      &::after {
+        left: $headerLeftBar + $headerLogoWidth - 5px;
+        right: 15px;
+      }
+    }
+    
+    .arrowhead {
+      width: $arrowheadWidthScreen;
+      bottom: calc(-0.3 * #{$arrowheadWidthScreen} + 35px);
+      right: 15px;
+    }
+  
+    .logo {
+      height: $headerLogoHeight;
+      margin-left: $headerLeftBar;
+      top: $headerHeight - $headerLogoHeight - $headerBottomOffset + $headerBorderWidth - 3px;
+      position: relative;
+      width: $headerLogoWidth;
+      
+      span {
+        position: absolute;
+        top: auto;
+        right: auto;
+        bottom: -5px;
+        font-size: 27px;
+        left: 17px;
+      }
+      
+      .svg {
+        width: 243px;
+        top: 7px;
+        height: auto;
+        position: relative;
+      }
+    }
+    
+    .subtitle {
+      position: relative;
+      top: 10px;
+      left: 50px;
+      text-align: right;
+      width: calc(100% - 100px);
+      
+      span {
+        font-size: 20px;
+        line-height: $headerBottomOffset - $headerBorderWidth + .5 * $headerBorderWidth;
+      }
+    }
+    
+    &::after {
+      content: " ";
+      display: block;
+      height: $headerBottomOffset;
+      width: $headerLeftBar;
+      top: $headerHeight - $headerBottomOffset;
+      border-right: $headerBorderWidth solid #000000;
+      position: absolute;
+    }
+  }
+}
+
+@media all and (max-width:799px) and (min-aspect-ratio: 5/3) {
+  .site-header {
+    height: 80vh;
+ 
+    .logo {
+      height: 80vh;
+    }
+ 
+    .arrow {
+      top: 80vh;
+    }
   }
 }
