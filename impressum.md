@@ -8,8 +8,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 ## Kontakt
 
-E-Mail: <homepage@die-koma.org> \\
-Telefon: +49 (421) 40 88 98 40
+E-Mail: <homepage@die-koma.org>
 
 Kontakt und Informationen zum Förderverein oder dem KoMa-Büro finden Sie auf den entsprechenden Unterseiten.
 
