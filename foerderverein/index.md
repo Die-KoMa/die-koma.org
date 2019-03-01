@@ -13,7 +13,7 @@ Der Förderverein der KoMa wurde am 14. November 2008 auf der 62. KoMa in Paderb
 
 ## Beitritt
 
-TODO static content
+[Beitrittsformular]() des Fördervereins der KoMa e.V.
 
 ## Kontakt
 
