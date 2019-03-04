@@ -25,7 +25,7 @@ Hierzu ein Auszug aus der Satzung:
 
 **Beitrittsformulare des Fördervereins der KoMa e.V.**  
 
-Die Mitgliedsanträge sind an die unten angegebene Adresse zu richten oder an ein Mitglied des [aktuellen Vorstandes des Fördervereins](https://die-koma.org/foerderverein/vorstaende/)
+Die Mitgliedsanträge sind an die unter **Kontakt** angegebene Adresse zu richten oder an ein Mitglied des [aktuellen Vorstandes des Fördervereins](https://die-koma.org/foerderverein/vorstaende/)
 
 1. [Mitgliedsantrag für ordentliche Mitglieder (natürliche Personen)]()  
 2. [Mitgliedsantrag für Fördermitglieder (natürliche Personen)]()  
