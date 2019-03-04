@@ -9,11 +9,25 @@ order: 40
 Der Förderverein der KoMa wurde am 14. November 2008 auf der 62. KoMa in Paderborn gegründet und am 26. Januar 2009 unter der Nummer 2562 ins Vereinsregister beim Amtsgericht Paderborn eingetragen. Er ist momentan beim Finanzamt Lübeck unter der Steuernummer 22/209/75835 eingetragen.
 
 ## Satzung
-[Satzung]() des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
+Die [Satzung]() des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
 
 ## Beitritt
 
-[Beitrittsformular]() des Fördervereins der KoMa e.V.
+Hierzu ein Auszug aus der Satzung:  
+	
+**§4 Mitgliedschaft**  
+
+1. Ordentliches Mitglied können alle natürlichen Personen werden, die in einem mathematischen Studiengang oder einem Lehramtsstudiengang mit Unterrichtsfach Mathematik an einer Hochschule im deutschsprachigen Raum ordentlich immatrikuliert sind und die Ziele des Vereins unterstützen.  
+2. Fördermitglied können alle natürlichen oder juristischen Personen werden, die die Ziele des Vereins unterstützen.  
+3. Ein Mitglied kann nicht gleichzeitig ordentliches Mitglied und Fördermitglied sein. 
+
+**Beitrittsformulare des Fördervereins der KoMa e.V.**  
+
+Die Mitgliedsanträge sind an die unten angegebene Adresse zu richten oder an ein Mitglied des [aktuellen Vorstandes des Fördervereins](https://die-koma.org/foerderverein/vorstaende/)
+
+1. [Mitgliedsantrag für ordentliche Mitglieder (natürliche Personen)]()  
+2. [Mitgliedsantrag für Fördermitglieder (natürliche Personen)]()  
+3. [Mitgliedsantrag für Fördermitglieder (juristische Personen)]()  
 
 ## Kontakt
 
