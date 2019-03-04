@@ -6,7 +6,9 @@ order: 40
 
 # Der Förderverein der KoMa e. V.
 
-Der Förderverein der KoMa wurde am 14. November 2008 auf der 62. KoMa in Paderborn gegründet und am 26. Januar 2009 unter der Nummer 2562 ins Vereinsregister beim Amtsgericht Paderborn eingetragen. Er ist momentan beim Finanzamt Lübeck unter der Steuernummer 22/209/75835 eingetragen.
+Der Förderverein der KoMa wurde am 14. November 2008 auf der 62. KoMa in Paderborn gegründet und am 26. Januar 2009 unter der Nummer 2562 ins Vereinsregister beim Amtsgericht Paderborn eingetragen. Er ist momentan beim Finanzamt Lübeck unter der Steuernummer 22/209/75835 eingetragen.  
+Dieser gemeinnützige Verein zur Förderung der Konferenz der deutschsprachigen Mathematikfachschaften unterstützt die Ziele der KoMa und macht es sich zur Aufgabe, deren Ausrichtung zu fördern und allen interessierten Mathematikstudierenden die Teilnahme zu ermöglichen.  
+Der Verein greift nicht in inhaltliche Belange der KoMa ein.  
 
 ## Satzung
 Die [Satzung]() des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
