@@ -11,7 +11,7 @@ Dieser gemeinnützige Verein zur Förderung der Konferenz der deutschsprachigen 
 Der Verein greift nicht in inhaltliche Belange der KoMa ein.  
 
 ## Satzung
-Die [Satzung]() des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
+Die [Satzung](https://old.die-koma.org/wiki-beta/images/4/41/Satzung_verein_090530.pdf) des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
 
 ## Beitritt
 
@@ -28,8 +28,6 @@ Hierzu ein Auszug aus der Satzung:
 Die Mitgliedsanträge sind an die unter **Kontakt** angegebene Adresse zu richten oder an ein Mitglied des [aktuellen Vorstandes des Fördervereins](https://die-koma.org/foerderverein/vorstaende/)
 
 1. [Mitgliedsantrag für ordentliche Mitglieder (natürliche Personen)]()  
-2. [Mitgliedsantrag für Fördermitglieder (natürliche Personen)]()  
-3. [Mitgliedsantrag für Fördermitglieder (juristische Personen)]()  
 
 ## Kontakt
 
