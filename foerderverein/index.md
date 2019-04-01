@@ -13,7 +13,7 @@ Der Verein greift nicht in inhaltliche Belange der KoMa ein.
 ## Satzung
 Die [Satzung](https://old.die-koma.org/wiki-beta/images/4/41/Satzung_verein_090530.pdf) des Fördervereins der KoMa e.V., letzte Änderung KoMa 64.
 
-## Beitritt
+## Mitgliedschaft
 
 Hierzu ein Auszug aus der Satzung:  
 	
@@ -23,11 +23,13 @@ Hierzu ein Auszug aus der Satzung:
 2. Fördermitglied können alle natürlichen oder juristischen Personen werden, die die Ziele des Vereins unterstützen.  
 3. Ein Mitglied kann nicht gleichzeitig ordentliches Mitglied und Fördermitglied sein. 
 
-**Beitrittsformulare des Fördervereins der KoMa e.V.**  
+**Formulare des Fördervereins der KoMa e.V.**  
 
 Die Mitgliedsanträge sind an die unter **Kontakt** angegebene Adresse zu richten oder an ein Mitglied des [aktuellen Vorstandes des Fördervereins](https://die-koma.org/foerderverein/vorstaende/)
 
-1. [Mitgliedsantrag für ordentliche Mitglieder (natürliche Personen)]()  
+1. [Beitrittsformular für ordentliche Mitglieder](https://old.die-koma.org/wiki-beta/images/2/28/Beitrittsformular_KoMa_e_V.pdf)  
+2. [Umformungsformular für ordentliche Mitglieder ihren Status in Fördermitglied ändern wollen](https://old.die-koma.org/wiki-beta/images/7/7d/Umformungsformular_KoMa_e_V.pdf)  
+3. [Austrittsformular für ordentliche Mitglieder und Fördermitglieder](https://old.die-koma.org/wiki-beta/images/0/09/Austrittsformular_KoMa_e_V.pdf) 
 
 ## Kontakt
 
