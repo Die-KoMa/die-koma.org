@@ -10,11 +10,6 @@ Das KoMa-Büro dient zwischen den einzelnen Konferenzen als beständiger Ansprec
 
 ## Kontakt zum KoMa-Büro
 
-Fachschaft Mathematik-Physik \\
-Universität Potsdam \\
-Institut für Physik und Astronomie \\
-Karl-Liebknecht-Str. 24-25 \\
-Haus 28, Raum 0.085 \\
-D-14476 Golm
+{% include buero-adresse.md %}
 
 E-Mail: <buero@die-koma.org>
