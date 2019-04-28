@@ -10,4 +10,4 @@ Traditionell findet auf der KoMa der AK Pella statt. Dieser hat sich der Aufgabe
 
 ## Liederbuch
 
-[Download](https://die-koma.org/wiki-beta/Datei:KoMa-Liederbuch.pdf) (Stand: 28. Juli 2015)
+[Download](https://komapedia.org/Spezial:Weiterleitung/file/KoMa-Liederbuch.pdf) (Stand: 28. Juli 2015)
