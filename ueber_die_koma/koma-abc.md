@@ -10,7 +10,7 @@ Auf den vergangen KoMata gab es, insbesondere bei Diskussionen darum, wie neue L
 
 Im folgenden sind Erinnerungen an vergangen KoMata zusammengetragen. Damit sollen keinesfalls Traditionen oder gar Standards festlegt werden. Dies sind einfach ganz persönlichen Eindrücke. Aber vielleicht geben sie Menschen, die noch auf keiner KoMa waren, einen ersten Überblick, liefern Anregungen für Fachschaften, die eine neue KoMa organisieren wollen und lösen unter denen, die häufiger zur KoMa kommen, eine Diskussion über sinnvolle und sinnlose Traditionen aus. Änderungen, Ergänzungen, Kritik sind erwünscht.
 
-Das KoMa-ABC befindet sich übrigens auch im [KoMa-Neulingsheft](https://die-koma.org/publikationen/neulingsheft/).
+Das KoMa-ABC befindet sich übrigens auch im [KoMa-Neulingsheft](publikationen/neulingsheft/).
 
 # Das KoMa ABC
 
@@ -109,7 +109,7 @@ Die KoMa Kasse befindet sich nach Gründung des Fördervereins der KoMa e.V. und
 
 ### KoMa-Kurier
 
-Der [KoMa-Kurier](https://die-koma.org/kommunikation/koma-kurier/) (früher auch KoMa-Kuhrier geschrieben) ist eine Art Zeitung, die an möglichst alle Mathematikfachschaften verschickt wird. Er besteht vor allem aus Protokollen und AK-Berichten der jeweils letzten KoMa, dem legendären Vorwort und allem, was sonst noch Leute so beisteuern. Er ist der Tagungsband der KoMa.
+Der [KoMa-Kurier](kommunikation/koma-kurier/) (früher auch KoMa-Kuhrier geschrieben) ist eine Art Zeitung, die an möglichst alle Mathematikfachschaften verschickt wird. Er besteht vor allem aus Protokollen und AK-Berichten der jeweils letzten KoMa, dem legendären Vorwort und allem, was sonst noch Leute so beisteuern. Er ist der Tagungsband der KoMa.
 
 ### Konsens
 
