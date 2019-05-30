@@ -10,4 +10,4 @@ Du bist neu auf der KoMa oder überlegst sie zum ersten Mal zu besuchen, suchst 
 
 * das [Neulingsheft](/publikationen/neulingsheft/)
 * ein kurzer Abriss [was die KoMa](/ueber_die_koma/) ist oder alternativ die Gesamtausgabe der [Geschichte der KoMa]() (falls du etwas mehr Zeit mitbringst)
-* unser [KoMa-Wiki (KoMapedia)](/KoMapedia/)
+* unser [KoMa-Wiki (KoMapedia)](https://komapedia.org/)
