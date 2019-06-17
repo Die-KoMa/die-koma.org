@@ -23,11 +23,11 @@ Falls ihr das Spiel in der unveränderten Version von 1992 spielen möchtet, kö
 
 ### Dateien:
 
-* [Anleitung](https://komapedia.org/Spezial:Weiterleitung/file/Meine_Kleine_Uni_Anleitung.pdf)
-* [Spielplan](https://komapedia.org/Spezial:Weiterleitung/file/Meine_Kleine_Uni_Plan.pdf)
-* [Ereigniskärtchen](https://komapedia.org/Spezial:Weiterleitung/file/Meine_Kleine_Uni_Ereignis.pdf)
-* [Punktekärtchen](https://komapedia.org/Spezial:Weiterleitung/file/Meine_Kleine_Uni_Punkte.pdf)
-* [Prüferkärtchen](https://komapedia.org/Spezial:Weiterleitung/file/Meine_Kleine_Uni_Profmak.pdf)
+* [Anleitung](https://file.komapedia.org/Meine_Kleine_Uni_Anleitung.pdf)
+* [Spielplan](https://file.komapedia.org/Meine_Kleine_Uni_Plan.pdf)
+* [Ereigniskärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Ereignis.pdf)
+* [Punktekärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Punkte.pdf)
+* [Prüferkärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Profmak.pdf)
 
 ### Zum Drucken
 
@@ -45,9 +45,9 @@ Diese Versionen könnt ihr dann problemlos ändern und erweitern. In diesem Fall
 
 Ihr bekommt von uns eine Diskette [42], auf der sich alle Files befinden. Den Rest macht ihr dann selber. (Ausdrucken, kopieren, usw.) Falls ihr ein zuverlässiges e-mail-System besitzt, könnten die Files auch per e-mail kommen (Dann ohne Kosten).
 
-[42] [MS-DOS, 3,5''](https://komapedia.org/Spezial:Weiterleitung/file/Meine_Kleine_Uni_Dos.zip)
+[42] [MS-DOS, 3,5''](https://file.komapedia.org/Meine_Kleine_Uni_Dos.zip)
 
-und für [UNIX-Systeme](https://komapedia.org/Spezial:Weiterleitung/file/Meine_Kleine_Uni_Versand.zip)
+und für [UNIX-Systeme](https://file.komapedia.org/Meine_Kleine_Uni_Versand.zip)
 
 ### Version 2
 

@@ -36,7 +36,7 @@ Das Buch "Die KoMa in den Zeiten des Paulus" gibt Antworten auf diese Fragen. Es
 
 # Download des Buches
 
-Das Buch erhaltet ihr unter [diesem Link](https://komapedia.org/Spezial:Weiterleitung/file/Nico-Hauser_KoMa-Buch.pdf) (18 MB!).
+Das Buch erhaltet ihr unter [diesem Link](https://file.komapedia.org/Nico-Hauser_KoMa-Buch.pdf) (18 MB!).
 
 # Bestellung
 
