@@ -8,6 +8,19 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Augsburg
+
+[**84/1: Resolution zu Rechten vorläufig zugelassener Studierenden**](https://file.komapedia.org/84_1.pdf)
+
+[**84/2: Resolution zu Schadstoffbelastung an Hochschulgebäuden**](https://file.komapedia.org/84_2.pdf)
+
+[**84/3: Resolution zum Gesetzgebungsverfahren zur Änderung des Hochschulgesetzes NRW**](https://file.komapedia.org/84_3.pdf)
+
+[**84/4: Resolution zur Transzarenz von Protokollen hochschulöffentlicher Sitzungen**](https://file.komapedia.org/84_4.pdf)
+
+[**84/5: Resolution zur Raumvergabe an Fachschaften**](https://file.komapedia.org/84_5.pdf)
+
+
 ## Erlangen
 
 [**83/1: Resolution zu Beratungsgesprächen bei anstehendem letztmöglichen Prüfungsversuch**](https://file.komapedia.org/83_1.pdf)
