@@ -10,7 +10,7 @@ Der KoMa-Kurier ist der halbjährlich erscheinende Konferenzband der KoMa. Er is
 
 Er besteht vor allem aus Protokollen und AK-Berichten der jeweils letzten KoMa, dem legendären Vorwort und allem, was sonst noch von den KoMa-Teilnehmern beigesteuert wird.
 
-Der Kurier ist kostenlos sowohl in unserem [Wiki]() als auch im Archiv der Deutschen Nationalbibliothek erhältlich.
+Der Kurier ist kostenlos sowohl in unserem [Wiki](https://www.komapedia.org/Kurier) als auch im Archiv der Deutschen Nationalbibliothek erhältlich.
 
 ## Kontakt zur Redaktion
 
