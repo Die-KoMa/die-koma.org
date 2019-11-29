@@ -10,7 +10,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## Potsdam
 
-[**85/1: Resolution zur Nutzung kommerzieller Plattformen in Hochschulveranstaltungen](https://file.komapedia.org/85_1.pdf)
+[**85/1: Resolution zur Nutzung kommerzieller Plattformen in Hochschulveranstaltungen**](https://file.komapedia.org/85_1.pdf)
 
 ## Augsburg
 ￼
