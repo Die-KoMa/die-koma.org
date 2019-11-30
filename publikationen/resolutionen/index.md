@@ -10,10 +10,10 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## Potsdam
 
-[**85/1: Resolution zur Nutzung kommerzieller Plattformen in Hochschulveranstaltungen](https://file.komapedia.org/85_1.pdf)
+[**85/1: Resolution zur Nutzung kommerzieller Plattformen in Hochschulveranstaltungen**](https://file.komapedia.org/85_1.pdf)
 
 ## Augsburg
-￼
+
 [**84/1: Resolution zu Rechten vorläufig zugelassener Studierenden**](https://file.komapedia.org/84_1.pdf)
 
 [**84/2: Resolution zu Schadstoffbelastung an Hochschulgebäuden**](https://file.komapedia.org/84_2.pdf)
