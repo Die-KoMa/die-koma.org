@@ -5,7 +5,7 @@ order: 1
 ---
 # 12. Vorstand 2019/20
 
-In den 11. Vorstand des Fördervereins der KoMa e.V. wurde am 01.11.2019 gewählt:
+In den 12. Vorstand des Fördervereins der KoMa e.V. wurde am 01.11.2019 gewählt:
 
    * Sebastian Uschmann (Vorsitz)
    * Helene Glöckner (stellv. Vorsitz)
