@@ -10,4 +10,9 @@ Wer zum ersten Mal auf einer KoMa ist oder noch nie da war, für den ist es sich
 
 ## Download
 
-Das Heft gibt es entweder gedruckt auf der nächsten KoMa oder [hier als Datei](https://file.komapedia.org/Neulingsheft.pdf) (Stand: Frühjahr 2012).
+Das Heft gibt es entweder gedruckt auf der nächsten KoMa oder [hier als Datei](../Neulingsheft_2020-03-16.pdf) (Stand: März 2020).
+
+
+## Entwicklung
+
+Das Heft befindet sich auf Github in laufender Entwicklung. Eine rusprüngliche Version aus dem Frühjahr 2012 ist [hier](https://file.komapedia.org/Neulingsheft.pdf) zu finden.
