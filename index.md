@@ -4,6 +4,35 @@ title: KoMa Neuigkeiten
 order: 1
 ---
 
+# News
+
+
+Hallo zusammen, 
+
+wir freuen uns sehr, euch vom 30. April – 03. Mai zur ersten KoRoMa einzuladen: der _"Konferenz (Rein online) der deutschsprachigen Mathematikfachschaften"_ zum Thema digitale Lehre.
+Wegen Covid-19 ändert sich an unser aller Universitäten sehr viel. Wir möchten gerne das kommende lange Wochenende nutzen, um gemeinsam (natürlich digital) unsere Erfahrungen zu Online-Lehre, Fachschaftsarbeit unter Covid-19 und vielem mehr auszutauschen.
+Das Ganze soll in Form einer Online-Konferenz über 2-3 Tage stattfinden, das technische Tool unserer Wahl ist eine Big-Blue-Button-Instanz.
+Ihr müsstet natürlich nicht die gesamte Zeit anwesend sein, einzig Anfangs- und Endplenum wären ganz praktisch.
+
+Der Ablauf wird wie folgt sein:
+- am 30 April wird um 20:00 ein Anfangsplenum stattfinden. Den Link bekommt ihr bei der Anmeldung zugesendet.
+- am 01. Mai von 08–20:00 und 02.Mai von 08:00–16 Uhr werden Arbeitskreise stattfinden.
+- am 02. Mai schließt die KoRoMa mit einem Abschlussplenum um 17:00 ab.
+- am 03. Mai wird voraussichtlich nichts mehr passieren, außer wir beschließen am Samstag beim Abschlussplenum, dass wir noch einen Tag brauchen.
+- Neben Arbeitskreisen wird es natürlich auch Spaß geben: dafür gibt es unter anderem digitale KoRoMa-Café-Räume. 
+
+Anmelden könnt ihr euch auf [dieser Website](https://anmeldung.die-koma.org/KoRoMa/), die Anmeldung ist bis zum 30. April, 19:00 offen.
+In der Bestätigungs-E-Mail bekommt ihr alle wichtigen Informationen. 
+
+Wir freuen uns sehr auf alle Neu-KoRoMatiker, und ganz besonders, wenn sich aus möglichst vielen verschiedenen Fachschaften Teilnehmer finden. Eine Teilnahmebeschränkung pro Fachschaft gibt es nicht. 
+
+Viele Grüße und bleibt gesund!
+
+Das fachschaftsübergreifende KoRoMa-Organisationsteam aus Bonn, Dresden, Hamburg, Jena und Lübeck 
+
+
+
+
 # Was ist die KoMa?
 
 
