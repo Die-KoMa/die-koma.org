@@ -9,7 +9,7 @@ order: 1
 
 Hallo zusammen, 
 
-wir freuen uns sehr, euch vom 30. April – 02. Mai zur ersten KoRoMa einzuladen: der _"Konferenz (Rein online) der deutschsprachigen Mathematikfachschaften"_ zum Thema digitale Lehre.
+wir freuen uns sehr, euch vom 30. April – 03. Mai zur ersten KoRoMa einzuladen: der _"Konferenz (Rein online) der deutschsprachigen Mathematikfachschaften"_ zum Thema digitale Lehre.
 Wegen Covid-19 ändert sich an unser aller Universitäten sehr viel. Wir möchten gerne das kommende lange Wochenende nutzen, um gemeinsam (natürlich digital) unsere Erfahrungen zu Online-Lehre, Fachschaftsarbeit unter Covid-19 und vielem mehr auszutauschen.
 Das Ganze soll in Form einer Online-Konferenz über 2-3 Tage stattfinden, das technische Tool unserer Wahl ist eine Big-Blue-Button-Instanz.
 Ihr müsstet natürlich nicht die gesamte Zeit anwesend sein, einzig Anfangs- und Endplenum wären ganz praktisch.
