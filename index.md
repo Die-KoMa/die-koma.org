@@ -18,6 +18,7 @@ Der Ablauf wird wie folgt sein:
 - am 30 April wird um 20:00 ein Anfangsplenum stattfinden. Den Link bekommt ihr bei der Anmeldung zugesendet.
 - am 01. Mai von 08–20:00 und 02.Mai von 08:00–16 Uhr werden Arbeitskreise stattfinden.
 - am 02. Mai schließt die KoRoMa mit einem Abschlussplenum um 17:00 ab.
+- am 03. Mai wird voraussichtlich nichts mehr passieren, außer wir beschließen am Samstag beim Abschlussplenum, dass wir noch einen Tag brauchen.
 - Neben Arbeitskreisen wird es natürlich auch Spaß geben: dafür gibt es unter anderem digitale KoRoMa-Café-Räume. 
 
 Anmelden könnt ihr euch auf [dieser Website](https://anmeldung.die-koma.org/KoRoMa/), die Anmeldung ist bis zum 30. April, 19:00 offen.
