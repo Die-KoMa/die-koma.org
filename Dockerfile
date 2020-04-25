@@ -1,11 +1,9 @@
-FROM jekyll/jekyll:builder as builder
+FROM jekyll/builder:3 as builder
 
 COPY ./ ./
 
 # Build the website and move it outside the volume
 RUN jekyll build . && mv _site /srv/site
-
-
 
 FROM alpine:latest
 
