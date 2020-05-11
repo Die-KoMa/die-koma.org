@@ -8,6 +8,15 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## KoRoMa
+
+[**1: Resolution zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**](https://file.komapedia.org/85o_koroma_1.pdf)
+
+[**2: Resolution der zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**](
+https://file.komapedia.org/85o_koroma_2.pdf)
+
+**3: Resolution der zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**
+
 ## Potsdam
 
 [**85/1: Resolution zur Nutzung kommerzieller Plattformen in Hochschulveranstaltungen**](https://file.komapedia.org/85_1.pdf)
