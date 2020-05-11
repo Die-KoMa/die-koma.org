@@ -10,10 +10,10 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## KoRoMa
 
-[**1: Resolution zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**](https://komapedia.org/wiki/images/8/8f/85o_1_koroma_nichtsemester.pdf)
+[**1: Resolution zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**](https://file.komapedia.org/85o_koroma_1.pdf)
 
 [**2: Resolution der zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**](
-https://komapedia.org/wiki/images/6/6b/85o_2_koroma_gleichstellung.pdf)
+https://file.komapedia.org/85o_koroma_2.pdf)
 
 **3: Resolution der zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**
 
