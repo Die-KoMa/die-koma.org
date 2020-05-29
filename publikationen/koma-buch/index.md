@@ -6,7 +6,7 @@ order: 7
 
 # Das Buch zur KoMa
 
-Auf der [KoMa 56 in Zürich]() (damals noch unter anderer Nummer bekannt) wurde nach einer ausgiebigen Archivrecherche die [Neunummerierung der KoMa]() beschlossen.
+Auf der KoMa 56 in Zürich (damals noch unter anderer Nummer bekannt) wurde nach einer ausgiebigen Archivrecherche die [Neunummerierung der KoMa](https://file.komapedia.org/56_1.pdf) beschlossen.
 
 Von dieser Archivrecherche ausgehend begann Nico Hauser mit einer umfassenden Arbeit, in welcher die KoMa-Archive gesichtet und in eine übersichtliche Form gebracht werden sollten. Ergebnis dieser Arbeit war das KoMa-Geschichtsbuch, welches auf der KoMa 58 in Oldenburg präsentiert wurde.
 
@@ -40,6 +40,7 @@ Das Buch erhaltet ihr unter [diesem Link](https://file.komapedia.org/Nico-Hauser
 
 # Bestellung
 
-Das Buch wurde von der Konferenz der deutschsprachigen  Mathematikfachschaften herausgegeben, ist aber direkt beim Autor erhältlich. Es kostet 9,5 Euro zzgl. 2 Euro Versand, die im Voraus zu überweisen sind.
+[//]: # (Das Folgende ist vermutlich seit langem nciht mehr aktuell und sollte daher nicht mehr auf der Website stehen)
+[//]: # (Das Buch wurde von der Konferenz der deutschsprachigen  Mathematikfachschaften herausgegeben, ist aber direkt beim Autor erhältlich. Es kostet 9,5 Euro zzgl. 2 Euro Versand, die im Voraus zu überweisen sind.)
 
 Wer das Buch haben möchte, wende sich per Email an Nico Hauser, der dann weitere Informationen zu Bezahlung und Versand mitteilt: <nhauser@em.uni-frankfurt.de>.
