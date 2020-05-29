@@ -15,7 +15,8 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 [**2: Resolution zur Gleichstellung Studierender in der COVID-19-Pandemie**](
 https://file.komapedia.org/85o_koroma_2.pdf)
 
-**3: Resolution zu Datenschutz und Datensicherheit in der Online-Lehre**
+[**3: Resolution zu Datenschutz und Datensicherheit in der Online-Lehre**](
+https://file.komapedia.org/85o_koroma_3.pdf)
 
 ## Potsdam
 

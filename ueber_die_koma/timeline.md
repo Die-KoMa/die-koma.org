@@ -5,52 +5,54 @@ order: 6
 ---
 # Alle KoMata im Überblick
 
-| Semester    |   Name der KoMa        |	Hochschule            |	Zeitraum    |
-|:------------|:-----------------------------|:---------------------------------|:------------------|
-| WS 2020/21  | KoMa 87            | FSU Jena					| vsl. 18.11. -- 22.11.2020 |
-| SS 2020   | KoMa 86            | Uni Bonn						| geplant 03.06. -- 07.06.2020 |
-| WS 2019/20  | KoMa 85            | Uni Potsdam				| 30.10. -- 03.11.2019 |
-| SS 2019   | KoMa 84            | 	Uni Augsburg				| 29.05. -- 02.06.2019 |
-| WS 2018/19  | KoMa 83            |  Fau Erlangen				| 31.10. -- 04.11.2018 |
-| SS 2018   | KoMa 82            | 	HU Berlin					| 30.05. -- 03.06.2018 |
-| WS 2017/18  | KoMa 81            | TU Wien					| 01.11. -- 05.11.2017 |
-| SS 2017   | KoMa 80            | OTH Regensburg				| 14.06. -- 18.06.2017 |
-| WS 2016/17  | KoMa 79            | TU Dortmund            | 02.11.–06.11.2016 |
-| SS 2016   | KoMa 78            | Uni Heidelberg           | 25.05.–29.05.2016 |
-| WS 2015/16  | KoMa 77            | TU Ilmenau             | 18.11.–22.11.2015 |
-| SS 2015   | KoMa 76            | RWTH Aachen 				| 27.05.–31.05.2015 |
-| WS 2014/15  | KoMa 75            | Uni Lübeck             | 22.10.–26.10.2014 |
-| SS 2014   | KoMa 74            | HU Berlin            	| 28.05.–01.06.2014 |
-| WS 2013/14  | KoMa 73            | TU Chemnitz            | 30.10.–03.11.2013 |
-| SS 2013   | KoMa 72            | Uni Kiel             	| 22.05.–26.05.2013 |
-| WS 2012/13  | KoMa 71            | TU Wien              	| 31.10.–04.11.2012 |
-| SS 2012   |	KoMa 70            | Uni Augsburg           | 16.05.–20.05.2012 |
-| WS 2011/12  |	KoMa 69            | Uni Bremen             | 16.11.–19.11.2011 |
-| SS 2011   |	KoMa 68            | Uni Heidelberg         | 22.06.–26.06.2011 |
-| WS 2010/11  | KoMa 67            | Uni Magdeburg          | 25.11.–29.11.2010 |
-| SS 2010   |	KoMa 66            | TU Dresden             | 26.05.–30.05.2010 |
-| WS 2009/10  |	KoMa 65            | Uni Graz             	| 04.12.–08.12.2009 |
-| SS 2009   |	KoMa 64            | Uni Augsburg           | 29.05.–02.06.2009 |
-| WS 2008/09  |	KoMa 63            | Uni Paderborn          | 12.11.–16.11.2008 |
-| SS 2008   |	KoMa 62            | TU   Chemnitz          | 30.04.–04.05.2008 |
-| WS 2007/08  |	KoMa 61            | FH Regensburg          | 21.11.–25.11.2007 |
-| SS 2007   |	KoMa 60            | Uni Karlsruhe          | 16.05.–20.05.2007 |
-| WS 2006/07  |	KoMa 59            | Uni Bielefeld          | 27.10.–01.11.2006 |
-| SS 2006   |	KoMa 58            | Uni Oldenburg und Uni Bremen   | 24.05.–28.05.2006 |
+| Semester    | Name der KoMa          | Hochschule                 | Zeitraum             |
+|:------------|:-----------------------|:---------------------------|:---------------------|
+| SS 2021     | KoMa 88                | TU Dresden                 | vsl. SoSe 2021       |
+| WS 2020/21  | KoMa 87                | FSU Jena                   | vsl. Jan. 2021       |
+| SS 2020     | KoMa 86                | Uni Bonn                   | vsl. Sep. 2020       |
+| extra       | KoRoMa                 | Neuland (online)           | 30.04. -- 03.05.2020 |
+| WS 2019/20  | KoMa 85                | Uni Potsdam                | 30.10. -- 03.11.2019 |
+| SS 2019     | KoMa 84                | Uni Augsburg               | 29.05. -- 02.06.2019 |
+| WS 2018/19  | KoMa 83                | Fau Erlangen               | 31.10. -- 04.11.2018 |
+| SS 2018     | KoMa 82                | HU Berlin                  | 30.05. -- 03.06.2018 |
+| WS 2017/18  | KoMa 81                | TU Wien                    | 01.11. -- 05.11.2017 |
+| SS 2017     | KoMa 80                | OTH Regensburg             | 14.06. -- 18.06.2017 |
+| WS 2016/17  | KoMa 79                | TU Dortmund                | 02.11.–06.11.2016    |
+| SS 2016     | KoMa 78                | Uni Heidelberg             | 25.05.–29.05.2016    |
+| WS 2015/16  | KoMa 77                | TU Ilmenau                 | 18.11.–22.11.2015    |
+| SS 2015     | KoMa 76                | RWTH Aachen                | 27.05.–31.05.2015    |
+| WS 2014/15  | KoMa 75                | Uni Lübeck                 | 22.10.–26.10.2014    |
+| SS 2014     | KoMa 74                | HU Berlin                	| 28.05.–01.06.2014    |
+| WS 2013/14  | KoMa 73                | TU Chemnitz                | 30.10.–03.11.2013    |
+| SS 2013     | KoMa 72                | Uni Kiel                 	| 22.05.–26.05.2013    |
+| WS 2012/13  | KoMa 71                | TU Wien                  	| 31.10.–04.11.2012    |
+| SS 2012     |	KoMa 70                | Uni Augsburg               | 16.05.–20.05.2012    |
+| WS 2011/12  |	KoMa 69                | Uni Bremen                 | 16.11.–19.11.2011    |
+| SS 2011     |	KoMa 68                | Uni Heidelberg             | 22.06.–26.06.2011    |
+| WS 2010/11  | KoMa 67                | Uni Magdeburg              | 25.11.–29.11.2010    |
+| SS 2010     |	KoMa 66                | TU Dresden                 | 26.05.–30.05.2010    |
+| WS 2009/10  |	KoMa 65                | Uni Graz                 	| 04.12.–08.12.2009    |
+| SS 2009     |	KoMa 64                | Uni Augsburg               | 29.05.–02.06.2009    |
+| WS 2008/09  |	KoMa 63                | Uni Paderborn              | 12.11.–16.11.2008    |
+| SS 2008     |	KoMa 62                | TU Chemnitz                | 30.04.–04.05.2008    |
+| WS 2007/08  |	KoMa 61                | FH Regensburg              | 21.11.–25.11.2007    |
+| SS 2007     |	KoMa 60                | Uni Karlsruhe              | 16.05.–20.05.2007    |
+| WS 2006/07  |	KoMa 59                | Uni Bielefeld              | 27.10.–01.11.2006    |
+| SS 2006     |	KoMa 58                | Uni Oldenburg und Uni Bremen | 24.05.–28.05.2006  |
 | WS 2005/06  |	KoMa 57 (51 n.P.)        | Uni Duisburg-Essen         | 16.11.–20.11.2005 |
-| SS 2005   |	KoMa 56 (50 n.P.)        | ETH Zürich             | 04.05.–08.05.2005 |
+| SS 2005     |	KoMa 56 (50 n.P.)        | ETH Zürich             | 04.05.–08.05.2005 |
 | WS 2004/05  |	KoMa 55 (49 n.P.)        | TFH Berlin             | 17.11.–21.11.2004 |
-| SS 2004   |	KoMa 54 (48 n.P.)        | Uni Hamburg            | 19.05.–23.05.2004 |
-| WS 2003/04  |     KoMa 53 (47 n.P.)        | Uni Siegen           | 27.11.–30.11.2003 |
-| SS 2003   |	KoMa 52 (46 n.P.)        | TU München             | 28.05.–01.06.2003 |
+| SS 2004     |	KoMa 54 (48 n.P.)        | Uni Hamburg            | 19.05.–23.05.2004 |
+| WS 2003/04  | KoMa 53 (47 n.P.)        | Uni Siegen           | 27.11.–30.11.2003 |
+| SS 2003     |	KoMa 52 (46 n.P.)        | TU München             | 28.05.–01.06.2003 |
 | WS 2002/03  |	KoMa 51 (45 n.P.)        | Uni Karlsruhe (TH)         | 31.10.–03.11.2002 |
-| SS 2002   |	KoMa 50 (44 n.P.)        | Uni Dortmund           | 29.05.–02.06.2002 |
+| SS 2002     |	KoMa 50 (44 n.P.)        | Uni Dortmund           | 29.05.–02.06.2002 |
 | WS 2001/02  |	KoMa 49 (43 n.P.)        | Uni-GH Paderborn         | 31.10.–04.11.2001 |
-| SS 2001   |	KoMa 48 (42 n.P.)        | TU München             | 13.06.–17.06.2001 |
+| SS 2001     |	KoMa 48 (42 n.P.)        | TU München             | 13.06.–17.06.2001 |
 | WS 2000/01  |	KoMa 47 (41 n.P.)        | Uni Stuttgart          | 01.11.–05.11.2000 |
-| SS 2000   |	KoMa 46 (40 n.P.)        | Uni Freiburg           | 31.05.–04.06.2000 |
+| SS 2000     |	KoMa 46 (40 n.P.)        | Uni Freiburg           | 31.05.–04.06.2000 |
 | WS 1999/00  |	KoMa 45 (39 n.P.)        | TU Darmstadt           | 17.11.–21.11.1999 |
-| SS 1999   |	KoMa 44 (38 n.P.)        | Uni Halle            | 19.05.–23.05.1999 |
+| SS 1999     |	KoMa 44 (38 n.P.)        | Uni Halle            | 19.05.–23.05.1999 |
 | WS 1998/99  |	KoMa 43 (37 n.P.)        | Uni Hamburg            | 02.12.–06.12.1998 |
 | SS 1998   |	KoMa 42 (36 n.P.)        | TU Dresden             | 10.06.–14.06.1998 |
 | WS 1997/98  |	KoMa 41 (35 n.P.)        | Uni Bielefeld          | 19.11.–23.11.1997 |
