@@ -7,28 +7,32 @@ order: 1
 # News
 
 
-Hallo zusammen, 
+Hallo zusammen,
 
-wir freuen uns sehr, euch vom 30. April – 03. Mai zur ersten KoRoMa einzuladen: der _"Konferenz (Rein online) der deutschsprachigen Mathematikfachschaften"_ zum Thema digitale Lehre.
-Wegen Covid-19 ändert sich an unser aller Universitäten sehr viel. Wir möchten gerne das kommende lange Wochenende nutzen, um gemeinsam (natürlich digital) unsere Erfahrungen zu Online-Lehre, Fachschaftsarbeit unter Covid-19 und vielem mehr auszutauschen.
-Das Ganze soll in Form einer Online-Konferenz über 2-3 Tage stattfinden, das technische Tool unserer Wahl ist eine Big-Blue-Button-Instanz.
-Ihr müsstet natürlich nicht die gesamte Zeit anwesend sein, einzig Anfangs- und Endplenum wären ganz praktisch.
+wir freuen uns sehr, euch vom 23.–27. September zur zweiten Online-Konferenz der deutschsprachigen Mathematikfachschaften (KoRoMa02) einladen zu dürfen.
+
+Wegen Covid-19 ändert sich an unser aller Universitäten sehr viel. Nachdem wir nun alle ein Online-Semester hinter uns haben, möchten wir die Konferenz dazu nutzen, um gemeinsam Erfahrungen zur Online-Lehre und Online-Fachschaftsarbeit auszutauschen, über anstehende Herausforderungen wie die Erstiarbeit unter Corona-Bedingungen zu sprechen und weitere Themen zu diskutieren, die euch auf dem Herzen liegen.
+
+Das Ganze soll in Form einer Online-Konferenz über 4--5 Tage stattfinden; das technische Tool unserer Wahl ist eine Big-Blue-Button-Instanz.
+Wir wissen, dass Online-Sitzungen sehr anstrengend werden können. Deshalb versuchen wir, im Ablauf ausreichend viele Pausen einzuplanen. Auch müsst ihr natürlich nicht die gesamte Zeit anwesend sein. Allerdings besprechen wir im Anfangsplenum den Ablauf und die Themen der Konferenz und im Endplenum die Ergebnisse; eine Anwesenheit wäre bei beiden also von Vorteil.
 
 Der Ablauf wird wie folgt sein:
-- am 30 April wird um 20:00 ein Anfangsplenum stattfinden. Den Link bekommt ihr bei der Anmeldung zugesendet.
-- am 01. Mai von 08–20:00 und 02.Mai von 08:00–16 Uhr werden Arbeitskreise stattfinden.
-- am 02. Mai schließt die KoRoMa mit einem Abschlussplenum um 17:00 ab.
-- am 03. Mai wird voraussichtlich nichts mehr passieren, außer wir beschließen am Samstag beim Abschlussplenum, dass wir noch einen Tag brauchen.
-- Neben Arbeitskreisen wird es natürlich auch Spaß geben: dafür gibt es unter anderem digitale KoRoMa-Café-Räume. 
+- am 23. September wird um 19:00 ein Anfangsplenum in BigBlueButton stattfinden. Den Link bekommt ihr bei der Anmeldung zugesendet.
+- vom 24. bis zum 26. September werden Arbeitskreise stattfinden. Diese tagen zwischen 09:00 und 12:00 Uhr sowie zwischen 14:00 und 19:00 Uhr (außer am 25.).
+- am 25. September um 19:00 werden wir Resolutionen und Anderes in einem Zwischenplenum besprechen. Daher enden am 25. September die AKs bereits um 17:30 Uhr.
+- am 27. September schließt die KoRoMa ab 14:00 mit einem Abschlussplenum ab.
+- Neben Arbeitskreisen wird es natürlich auch Spaß geben: Dafür gibt es unter anderem digitale KoRoMa-Café-Räume.
 
-Anmelden könnt ihr euch auf [dieser Website](https://anmeldung.die-koma.org/KoRoMa/), die Anmeldung ist bis zum 30. April, 19:00 offen.
-In der Bestätigungs-E-Mail bekommt ihr alle wichtigen Informationen. 
+Anmelden könnt ihr euch auf [dieser Website](https://anmeldung.die-koma.org/KoRoMa/), die Anmeldung ist ab sofort bis zum 23. September, 18:00 offen.
+In der Anmeldebestätigung bekommt ihr alle wichtigen Informationen.
 
-Wir freuen uns sehr auf alle Neu-KoRoMatiker, und ganz besonders, wenn sich aus möglichst vielen verschiedenen Fachschaften Teilnehmer finden. Eine Teilnahmebeschränkung pro Fachschaft gibt es nicht. 
+Wir freuen uns sehr auf alle Neu-KoRoMatiker, und ganz besonders, wenn sich aus möglichst vielen verschiedenen Fachschaften Teilnehmer finden. Eine Teilnahmebeschränkung pro Fachschaft gibt es nicht.
 
-Viele Grüße und bleibt gesund!
+Wenn ihr noch Rückfragen oder Anmerkungen habt, schreibt uns gerne per E-Mail an koroma@fsmath.uni-bonn.de
 
-Das fachschaftsübergreifende KoRoMa-Organisationsteam aus Bonn, Dresden, Hamburg, Jena und Lübeck 
+Wir sehen uns hoffentlich beim Anfangsplenum. Bis dahin viele Grüße und bleibt gesund!
+
+das fachschaftsübergreifende KoRoMa-Organisationsteam aus Bonn, Dresden, Hamburg, Jena und Lübeck
 
 
 

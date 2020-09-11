@@ -9,14 +9,15 @@ order: 6
 |:------------|:-----------------------|:---------------------------|:---------------------|
 | SS 2021     | KoMa 88                | TU Dresden                 | vsl. SoSe 2021       |
 | WS 2020/21  | KoMa 87                | FSU Jena                   | vsl. Jan. 2021       |
-| SS 2020     | KoMa 86                | Uni Bonn                   | vsl. Sep. 2020       |
-| extra       | KoRoMa                 | Neuland (online)           | 30.04. -- 03.05.2020 |
-| WS 2019/20  | KoMa 85                | Uni Potsdam                | 30.10. -- 03.11.2019 |
-| SS 2019     | KoMa 84                | Uni Augsburg               | 29.05. -- 02.06.2019 |
-| WS 2018/19  | KoMa 83                | Fau Erlangen               | 31.10. -- 04.11.2018 |
-| SS 2018     | KoMa 82                | HU Berlin                  | 30.05. -- 03.06.2018 |
-| WS 2017/18  | KoMa 81                | TU Wien                    | 01.11. -- 05.11.2017 |
-| SS 2017     | KoMa 80                | OTH Regensburg             | 14.06. -- 18.06.2017 |
+| SS 2020     | KoMa 86                | Uni Bonn                   | ~~vsl. Sep. 2020~~   |
+| extra       | KoRoMa02               | Neuland (online)           | 23.09.–27.09.2020    |
+| extra       | KoRoMa                 | Neuland (online)           | 30.04.–03.05.2020    |
+| WS 2019/20  | KoMa 85                | Uni Potsdam                | 30.10.–03.11.2019    |
+| SS 2019     | KoMa 84                | Uni Augsburg               | 29.05.–02.06.2019    |
+| WS 2018/19  | KoMa 83                | Fau Erlangen               | 31.10.–04.11.2018    |
+| SS 2018     | KoMa 82                | HU Berlin                  | 30.05.–03.06.2018    |
+| WS 2017/18  | KoMa 81                | TU Wien                    | 01.11.–05.11.2017    |
+| SS 2017     | KoMa 80                | OTH Regensburg             | 14.06.–18.06.2017    |
 | WS 2016/17  | KoMa 79                | TU Dortmund                | 02.11.–06.11.2016    |
 | SS 2016     | KoMa 78                | Uni Heidelberg             | 25.05.–29.05.2016    |
 | WS 2015/16  | KoMa 77                | TU Ilmenau                 | 18.11.–22.11.2015    |
