@@ -78,7 +78,7 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
-  x86_64-darwin-19
+  ruby
 
 DEPENDENCIES
   html-proofer
