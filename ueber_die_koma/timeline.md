@@ -7,8 +7,9 @@ order: 6
 
 | Semester    | Name der KoMa          | Hochschule                 | Zeitraum             |
 |:------------|:-----------------------|:---------------------------|:---------------------|
-| SS 2021     | KoMa 87                | Uni Bonn                   | SS 2021              |
-| WS 2020/21  | KoMa 86                | FSU Jena                   | Anfang 2021          |
+| SS 2021     | KoMa 86                | Uni Bonn                   | SS 2021              |
+| extra       | KoRoMa02               | online                     | SS 2021              |
+| WS 2020/21  | KoMa 86                | FSU Jena                   | Anfang 2021 (durch KoRoMa 02 ersetzt)   |
 | extra       | KoRoMa02               | Neuland (online)           | 23.09.–27.09.2020 (nicht stattgefunden)    |
 | extra       | KoRoMa                 | Neuland (online)           | 30.04.–03.05.2020    |
 | WS 2019/20  | KoMa 85                | Uni Potsdam                | 30.10.–03.11.2019    |
