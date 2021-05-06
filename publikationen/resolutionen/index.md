@@ -8,6 +8,13 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## KoRoMa v2
+
+[**1: Resolution für dauerhafte, unbefristete Finanzierung des Übungsbetriebs**](https://file.komapedia.org/85o2_koroma_1.pdf)
+
+[**2: Resolution zu Tarifverträgen für studentische Beschäftigte**](https://file.komapedia.org/85o2_koroma_2.pdf)
+
+
 ## KoRoMa
 
 [**1: Resolution zum Umgang mit der Studierendensituation in der COVID-19-Pandemie**](https://file.komapedia.org/85o_koroma_1.pdf)
