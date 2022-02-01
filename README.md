@@ -31,3 +31,19 @@ same as above but use homebrew instead of apt.
 
 ## Windows
 you're lost anyways, I don't know how to handle that odyssee.
+
+
+## Windows with WSL Ubuntu
+    # clone "die-koma.org" to a directory without any spaces!
+    cd die-koma.org
+    # start wsl in the directory
+    # install ruby and packages for gem creation
+    sudo apt install bundler ruby ruby-dev make gcc g++
+    # configure to install gems locally (don't clutter wsl and system dirs)
+    bundle config set --local path './ruby-packages/'
+    # you might have to add the following to _config.yaml:
+    # exclude: ['ruby-packages']
+    bundle install
+    bundle exec jekyll serve --force-polling # should run now on 127.0.0.1:4000
+    # the Port is available on Windows, just use your normal browser without wsl
+
