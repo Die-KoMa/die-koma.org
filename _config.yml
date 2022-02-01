@@ -14,6 +14,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://die-koma.org" # the base hostname & protocol for your site
 github_username:  Die-KoMa
 
+# exclude local gem folder
+exclude: ['ruby-packages']
+
 # Build settings
 markdown: kramdown
 
