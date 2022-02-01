@@ -9,9 +9,9 @@ order: 1
 
 Hallo zusammen,
 
-die Präsenz-KoMa in Jena wird Covid-bedingt nicht stattfinden. Eine Online-Variante ist in Planung und soll noch im Frühjahr stattfinden.
-Wir halten euch auf dem Laufenden!
-
+aktuell ist eine Präsenz-KoMa in Jena über Himmelfahrt (25.-29. Mai 2022) geplant.
+Die konkreten Rahmenbedingungen sind aufgrund der Covid-19 Pandemie noch nicht sicher.
+Die Anmeldung wird jedoch vermutlich ab Mitte Februar möglich sein.
 
 
 # Was ist die KoMa?
