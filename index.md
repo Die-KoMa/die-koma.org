@@ -10,7 +10,7 @@ order: 1
 Hallo zusammen,
 
 aktuell ist eine Präsenz-KoMa in Jena über Himmelfahrt (25.-29. Mai 2022) geplant.
-Die konkreten Rahmenbedingunen sind aufgrund der Covid-19 Pandemie noch nicht sicher.
+Die konkreten Rahmenbedingungen sind aufgrund der Covid-19 Pandemie noch nicht sicher.
 Die Anmeldung wird jedoch vermutlich ab Mitte Februar möglich sein.
 
 
