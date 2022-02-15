@@ -10,7 +10,8 @@ Der KoMa-Kurier ist der halbjährlich erscheinende Konferenzband der KoMa. Er is
 
 Er besteht vor allem aus Protokollen und AK-Berichten der jeweils letzten KoMa, dem legendären Vorwort und allem, was sonst noch von den KoMa-Teilnehmern beigesteuert wird.
 
-Der Kurier ist kostenlos sowohl in unserem [Wiki](https://komapedia.org/wiki/Kurier) als auch im Archiv der Deutschen Nationalbibliothek erhältlich. Die aktuelle Band ist der folgende:
+Der Kurier ist kostenlos sowohl in unserem [Wiki](https://komapedia.org/wiki/Kurier) als auch im Archiv der Deutschen Nationalbibliothek erhältlich. Die neueste veröffentlichte Band ist der folgende:
+
 [![KoMa Kurier der 84. Koma in Augsburg](https://file.komapedia.org/Kurier84_prev.jpg)](https://file.komapedia.org/Kurier84_OnlineVersion.pdf)
 
 
