@@ -13,6 +13,10 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+p + h1 {
+  padding-top: 20px;
+}
+
 body {
   font-feature-settings: "kern" 1;
   font-kerning: normal;
