@@ -7,12 +7,14 @@ order: 1
 # News
 
 
-Hallo zusammen,
+Gute Neuigkeiten!
 
-aktuell ist eine Präsenz-KoMa in Jena über Himmelfahrt (25.-29. Mai 2022) geplant.
-Die konkreten Rahmenbedingungen sind aufgrund der Covid-19 Pandemie noch nicht sicher.
-Die Anmeldung wird jedoch vermutlich ab Mitte Februar möglich sein.
+Die KoMa 86 in Jena wird stattfinden und geht vom 25. Mai bis 29. Mai 2022 -- also über das Himmelfahrtwohlenende.
+Die Anmeldung ist via [koma86.uni-jena.de](https://koma86.uni-jena.de/) möglich.
+Dort solltet ihr auch einige Informationen finden können.
+Falls eine Information fehlt, ihr neu seid oder einfach etwas loswerden wollt und wen zum reden braucht, sind wir via [koma86@uni-jena.de](mailto://koma86@uni-jena.de) und in den Telegramgruppen für euch da. 
 
+Wir freuen uns auf euch! <3
 
 # Was ist die KoMa?
 
