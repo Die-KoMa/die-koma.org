@@ -16,9 +16,9 @@ Das KoMa-ABC befindet sich übrigens auch im [KoMa-Neulingsheft](/publikationen/
 
 ## Die Fragen
 
-### Abschlussparty
+[//]: # ### Abschlussparty
 
-Im Anschluss an das Abschlussplenum gibt's in der Regel die Abschlussparty. Teilweise ist sie gleichzeitig die örtliche Mathe-/ Fachschaftsparty.
+[//]: # Im Anschluss an das Abschlussplenum gibt's in der Regel die Abschlussparty. Teilweise ist sie gleichzeitig die örtliche Mathe-/ Fachschaftsparty.
 
 ### Abschlussplenum
 
