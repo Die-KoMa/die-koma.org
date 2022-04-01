@@ -7,6 +7,10 @@
   ul > li > ul{
     margin-left: 15px;
   }
+  
+  > ul > li > label > a > span {
+    font-weight: bold;
+  }
 
   li {
     list-style-type: none;

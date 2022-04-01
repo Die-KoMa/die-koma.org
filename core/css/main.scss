@@ -13,6 +13,10 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+p + h1 {
+  padding-top: 20px;
+}
+
 body {
   font-feature-settings: "kern" 1;
   font-kerning: normal;
@@ -69,6 +73,7 @@ $arrowheadWidthScreen: 30px;
   padding: 10px;
   margin: 10px;
   margin-right: 0px;
+  border-radius: 15px;
 }
 
 .next-koma ul {
@@ -92,14 +97,15 @@ h1 {
 
 ul {
   /*! list-style: inside; */
+  padding-bottom: 10px;
 }
 
 ul li {
-  /*! margin-left: 20px; */
+  margin-left: 20px;
 }
 
 ol li {
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .float-right {

@@ -10,7 +10,7 @@ order: 3
 
 ### Was bitte heißt "KoMa"?
 
-KoMa, 1 [die], um den Kern eines Kometen liegende Nebelhülle (Gasatmosphäre). - 2. [die], Bildfehler bei Linsen oder Linsensystemen: Seitl. der opt. Achse gelegene Punkte werden nicht punktförmig, sondern in Form eines Kometenschweifs abgebildet. - 3. [das], Coma, tiefe Bewusstlosigkeit, z.B. bei Zuckerkrankheit, Harnvergiftung, u.a. (Quelle: Bertelsmann Universallexikon)
+KoMa, 1. [die], um den Kern eines Kometen liegende Nebelhülle (Gasatmosphäre). - 2. [die], Bildfehler bei Linsen oder Linsensystemen: Seitl. der opt. Achse gelegene Punkte werden nicht punktförmig, sondern in Form eines Kometenschweifs abgebildet. - 3. [das], Coma, tiefe Bewusstlosigkeit, z.B. bei Zuckerkrankheit, Harnvergiftung, u.a. (Quelle: Bertelsmann Universallexikon)
 
 Und die wichtigste Bedeutung ist: 4. [die], Konferenz der deutschsprachigen Mathematikfachschaften. Die stand merkwürdigerweise nicht im Lexikon!
 
@@ -38,13 +38,13 @@ Leider gibt es auf jeder KoMa auch Leute, die nicht jeden Tag um 5.30 Uhr aufste
 
 ### Was muss ich auf die KoMa mitbringen?
 
-Einen Schlafsack+Isomatte, Frühstücksgeschirr (Besteck, Teller, Tasse, Müslischüssel), gute Laune (wichtig! nicht zu Hause vergessen), ev. Ideen/Materialien für Arbeitskreise (AKs). Und wenn möglich noch ein paar Leute aus Deiner Fachschaft. (Idealerweise schaust Du vorher kurz in der [Packliste]() nach. Vielleicht hat die ausrichtende Fachschaft nämlich auch Sonderwünsche)
+Einen Schlafsack+Isomatte, Frühstücksgeschirr (Besteck, Teller, Tasse, Müslischüssel), gute Laune (wichtig! nicht zu Hause vergessen), ev. Ideen/Materialien für Arbeitskreise (AKs). Und wenn möglich noch ein paar Leute aus Deiner Fachschaft. (Idealerweise schaust Du vorher kurz in der [Packliste](/ueber_die_koma/Packliste) nach. Vielleicht hat die ausrichtende Fachschaft nämlich auch Sonderwünsche)
 
 ### Wieviel kostet eine KoMa?
 
 Wirklich aktuelle Zahlen hab ich grad nicht zur Hand, aber die KoMa in Bremen kostete 3.782,51 DM. Keine Panik. Das sind die Gesamtkosten der KoMa. Finanziert wird das über Teilnehmerbeiträge (ca. 25 - 30 EUR  incl. Dauerfrühstück für 4 Tage)
 
-Dich kostet die KoMa also ca. 30 EUR + An/Abreisekosten + was Du halt so während der Koma brauchst (Bier? :-)). Die Fahrtkosten sollten aber von Deinem AStA (Deutschland) bzw. der ÖH (Österreich) übernommen werden, ist das nicht der Fall hat die KoMa auch (beschränkte) Zuschussmöglichkeiten. Hierzu wendest du dich am besten an den [Förderverein der KoMa e.V.]()
+Dich kostet die KoMa also ca. 30 EUR + An/Abreisekosten + was Du halt so während der Koma brauchst (Bier? :-)). Die Fahrtkosten sollten aber von Deinem AStA (Deutschland) bzw. der ÖH (Österreich) übernommen werden, ist das nicht der Fall hat die KoMa auch (beschränkte) Zuschussmöglichkeiten. Hierzu wendest du dich am besten an den [Förderverein der KoMa e.V.](/foerderverein)
 
 ### Wird es für mich am Anfang leicht sein, mich auf der KoMa zurechtzufinden?
 
@@ -64,7 +64,7 @@ Eine Umfrage auf der KoMa in Hamburg, ob es leicht war, sich auf der ersten KoMa
 
 ### Wie kann ich interessierte Leute von der KoMa kontaktieren, wenn gerade keine KoMa ist?
 
-Es gibt eine KoMa-Mailingliste. Details findest du in der Rubrik [Mailingliste](../kommunikation/mailinglisten).
+Es gibt eine KoMa-Mailingliste. Details findest du in der Rubrik [Mailingliste](/kommunikation/mailinglisten/).
 
 ## Mehr Fragen?
 
