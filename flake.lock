@@ -1,0 +1,48 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1648830526,
+        "narHash": "sha256-vXaBIvst+KvXSRAjYBDzX4vtQERL5R4fe0/7585Msqk=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "6f88260faaaa3cda8f4e478be72be6c0861c47ad",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs",
+        "wat": "wat"
+      }
+    },
+    "wat": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1631478181,
+        "narHash": "sha256-IB3uhDCInqB7UR93aJx8QdWAvXHwS5CFe1v87wLIB8Y=",
+        "owner": "thelegy",
+        "repo": "wat",
+        "rev": "0c4722acce65bafdfab6f99bcef8f24b5f9b3255",
+        "type": "github"
+      },
+      "original": {
+        "owner": "thelegy",
+        "repo": "wat",
+        "type": "github"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

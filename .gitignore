@@ -5,3 +5,4 @@ _site/
 vendor/
 ruby-packages/
 .bundle/
+/result
