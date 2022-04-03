@@ -3,26 +3,22 @@ on:
   pull_request:
     branches:
       - main
-      - master
-      - nix
   push:
      branches:
       - main
-      - master
-      - nix
 jobs:
   build:
-    name:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2.4.0
-        - uses: cachix/install-nix-action@v16
-        - uses: cachix/cachix-action@v10
+    name: "Build the die-koma.org website"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.4.0
+      - uses: cachix/install-nix-action@v16
+      - uses: cachix/cachix-action@v10
+        with:
           name: die-koma
           authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
-          extraPullNames: nix-community
-        - env:
-            BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
-        - run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
-        - run: echo "name=PR_NUMBER::$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
-        - run: nix build .#KoMaHomepage
+      - env:
+          BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
+        run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
+      - run: echo "name=PR_NUMBER::$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+      - run: nix --print-build-logs build .#KoMaHomepage
