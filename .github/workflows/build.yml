@@ -3,13 +3,9 @@ on:
   pull_request:
     branches:
       - main
-      - master
-      - nix
   push:
      branches:
       - main
-      - master
-      - nix
 jobs:
   build:
     name: "Build the die-koma.org website"
