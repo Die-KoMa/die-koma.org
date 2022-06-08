@@ -8,6 +8,16 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Jena
+
+[**1: Resolution zu kooperativen Lernräumen für das Mathematikstudium**](https://file.komapedia.org/86_1.pdf)
+
+[**2: Resolution zur niederschwelligen Bereitstellung von Menstruationsprodukten an Hochschulen**](https://file.komapedia.org/86_2.pdf)
+
+[**3: Resolution zum Arbeitsrecht Studierender**](https://file.komapedia.org/86_3.pdf)
+
+[**4: Resolution zu asynchronen und hybriden Lehrangeboten**](https://file.komapedia.org/86_4.pdf)
+
 ## KoRoMa v2
 
 [**1: Resolution für dauerhafte, unbefristete Finanzierung des Übungsbetriebs**](https://file.komapedia.org/85o2_koroma_1.pdf)
