@@ -1,5 +1,26 @@
 {
   "nodes": {
+    "dependencyDagOfSubmodule": {
+      "inputs": {
+        "nixpkgs": [
+          "wat",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1655242631,
+        "narHash": "sha256-GoB43hCj7wf/QL2J4afDsWQJZSAnRuNQi97uOWKryD8=",
+        "owner": "thelegy",
+        "repo": "nix-dependencyDagOfSubmodule",
+        "rev": "b565ef8f48c82955a1f46ecea56ff4ca06929ab8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "thelegy",
+        "repo": "nix-dependencyDagOfSubmodule",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1648830526,
@@ -24,16 +45,17 @@
     },
     "wat": {
       "inputs": {
+        "dependencyDagOfSubmodule": "dependencyDagOfSubmodule",
         "nixpkgs": [
           "nixpkgs"
         ]
       },
       "locked": {
-        "lastModified": 1631478181,
-        "narHash": "sha256-IB3uhDCInqB7UR93aJx8QdWAvXHwS5CFe1v87wLIB8Y=",
+        "lastModified": 1655243683,
+        "narHash": "sha256-/3BeBgs5D1Bv3erfuQwKhbvq1/It60zTYKmVBfd839k=",
         "owner": "thelegy",
         "repo": "wat",
-        "rev": "0c4722acce65bafdfab6f99bcef8f24b5f9b3255",
+        "rev": "7d3297eb3a7697be4a1a4b0fa8e55c780aa3a339",
         "type": "github"
       },
       "original": {

@@ -11,14 +11,22 @@
 
   };
 
-  outputs = { wat, ... }: wat.lib.eachDefaultSystem (system: pkgs: rec {
-    systemOverlays = [ (import ./nix/overlay.nix) ];
+  outputs = { self, nixpkgs, wat }: {
 
-    packages.KoMaHomepage = pkgs.KoMaHomepage;
-    packages.KoMaHomepageDocker = pkgs.KoMaHomepageDocker;
+    overlays.default = final: prev: {
+      KoMaHomepage = final.callPackage ./nix/homepage.nix {};
+      KoMaHomepageDocker = final.callPackage ./nix/docker.nix {};
+    };
 
-    defaultPackage = packages.KoMaHomepage;
+    packages = wat.lib.withPkgsForLinux nixpkgs [ self.overlays.default ] (pkgs: {
 
-  });
+      KoMaHomepage = pkgs.KoMaHomepage;
+      KoMaHomepageDocker = pkgs.KoMaHomepageDocker;
+
+      default = pkgs.KoMaHomepage;
+
+    });
+
+  };
 
 }
