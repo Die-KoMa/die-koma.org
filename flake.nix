@@ -15,12 +15,14 @@
 
     overlays.default = final: prev: {
       KoMaHomepage = final.callPackage ./nix/homepage.nix {};
+      KoMaHomepageTar = final.callPackage ./nix/homepage.nix { doTar = true; };
       KoMaHomepageDocker = final.callPackage ./nix/docker.nix {};
     };
 
     packages = wat.lib.withPkgsForLinux nixpkgs [ self.overlays.default ] (pkgs: {
 
       KoMaHomepage = pkgs.KoMaHomepage;
+      KoMaHomepageTar = pkgs.KoMaHomepageTar;
       KoMaHomepageDocker = pkgs.KoMaHomepageDocker;
 
       default = pkgs.KoMaHomepage;
