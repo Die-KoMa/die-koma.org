@@ -7,6 +7,7 @@ order: 6
 
 | Semester    | Name der KoMa            | Hochschule                   | Zeitraum              |
 |:------------|:-------------------------|:-----------------------------|:----------------------|
+| WS 2022/23  | KoMa 87                  | TU Wien                      | 29.10.–02.11.2022     |
 | SS 2022     | KoMa 86                  | FSU Jena                     | 25.05.–29.05.2022     |
 | SS 2021     | KoMa 86                  | Uni Bonn                     | August 2021 (abgesagt)|
 | extra       | KoRoMa02                 | online                       | SS 2021               |
