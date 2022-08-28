@@ -19,7 +19,7 @@
       KoMaHomepageDocker = final.callPackage ./nix/docker.nix {};
     };
 
-    packages = wat.lib.withPkgsForLinux nixpkgs [ self.overlays.default ] (pkgs: {
+    packages = wat.lib.withPkgsFor [ "x86_64-linux" ] nixpkgs [ self.overlays.default ] (pkgs: {
 
       KoMaHomepage = pkgs.KoMaHomepage;
       KoMaHomepageTar = pkgs.KoMaHomepageTar;
