@@ -8,7 +8,7 @@ order: 1
 
 Gute Neuigkeiten!
 
-Die (KoMa 87)[https://fsmat.at/content/koma-87] in Wien wird stattfinden und geht vom 29. Oktober bis 02. November 2022.
+Die [KoMa 87](https://fsmat.at/content/koma-87) in Wien wird stattfinden und geht vom 29. Oktober bis 02. November 2022.
 Weitere Informationen werden wir hier bereitstellen, sobald sie bekannt werden.
 
 Bitte denkt daran, in der [KoMaPedia](./KoMaPedia) schon im Vorhinein Arbeitskreise anzumelden.
