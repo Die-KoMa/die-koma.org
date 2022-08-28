@@ -1,4 +1,4 @@
-FROM jekyll/builder:3 as builder
+FROM jekyll/builder:4 as builder
 
 COPY ./ ./
 
