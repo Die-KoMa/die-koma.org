@@ -8,9 +8,8 @@ order: 1
 
 Gute Neuigkeiten!
 
-Die KoMa 86 in Jena wird stattfinden und geht vom 25. Mai bis 29. Mai 2022 -- also über das Himmelfahrtwohlenende.
-Die Anmeldung ist via [koma86.uni-jena.de](https://koma86.uni-jena.de/) möglich.
-Dort solltet ihr auch einige Informationen finden können.
+Die (KoMa 87)[https://fsmat.at/content/koma-87] in Wien wird stattfinden und geht vom 29. Oktober bis 02. November 2022.
+Weitere Informationen werden wir hier bereitstellen, sobald sie bekannt werden.
 
 Bitte denkt daran, in der [KoMaPedia](./KoMaPedia) schon im Vorhinein Arbeitskreise anzumelden.
 Ihr gebt damit der Orga Planungssicherheit und anderen Fachschaften die Möglichkeit, passende Informationen zu sammeln und sich vorher zu besprechen.
