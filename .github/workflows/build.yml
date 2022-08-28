@@ -7,18 +7,42 @@ on:
      branches:
       - main
 jobs:
+
   build:
     name: "Build the die-koma.org website"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.4.0
       - uses: cachix/install-nix-action@v16
-      - uses: cachix/cachix-action@v10
-        with:
-          name: die-koma
-          authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
       - env:
           BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
       - run: echo "name=PR_NUMBER::$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
-      - run: nix --print-build-logs build .#KoMaHomepage
+      - run: nix --print-build-logs build .#KoMaHomepageTar -o homepage.tar.xz
+      - uses: actions/upload-artifact@v3
+        with:
+          name: build-artifacts
+          path: homepage.tar.xz
+
+  release:
+    if: github.repository == 'Die-KoMa/die-koma.org' && github.event_name == 'push' && github.ref == 'refs/heads/main'
+    name: "Release the website on the github page"
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.4.0
+      - uses: actions/download-artifact@v3
+        with:
+          name: build-artifacts
+      - uses: mini-bomba/create-github-release@v1.1.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: latest
+          name: Latest
+          body: Built from the latest main branch by ci
+          files: ./homepage.tar.xz
+          fail_on_no_files: true
+          clear_attachments: true
+          prerelease: true
+          draft: false
+
