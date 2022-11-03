@@ -3,7 +3,16 @@ title: Vorstände
 menutitle: Vorstände
 order: 1
 ---
-# 13. Vorstand 2020/21
+# 14. Vorstand ab 2022
+In den 14. Vorstand des Fördervereins der KoMa e.V. wurde am 28.05.2022 gewählt:
+   * Sebastian Uschmann (Vorsitz)
+   * Jonathan Schäfer (Kassenwart)
+   * Felix Blanke
+   * Tamara Linke
+  
+Helene Glöckner bleibt kommissarisch die stellvertretende Vorsitzende.
+
+# 13. Vorstand 2020
 
 In den 13. Vorstand des Fördervereins der KoMa e.V. wurde am 07.11.2020 gewählt:
 

@@ -9,12 +9,9 @@ order: 1
 Gute Neuigkeiten!
 
 Die [KoMa 87](https://fsmat.at/content/koma-87) in Wien wird stattfinden und geht vom 29. Oktober bis 02. November 2022.
-Weitere Informationen werden wir hier bereitstellen, sobald sie bekannt werden.
 
 Bitte denkt daran, in der [KoMaPedia](./KoMaPedia) schon im Vorhinein Arbeitskreise anzumelden.
 Ihr gebt damit der Orga Planungssicherheit und anderen Fachschaften die Möglichkeit, passende Informationen zu sammeln und sich vorher zu besprechen.
-
-Falls eine Information fehlt, ihr neu seid oder einfach etwas loswerden wollt und wen zum reden braucht, sind wir via [koma86@uni-jena.de](mailto://koma86@uni-jena.de) und in den Telegramgruppen für euch da. 
 
 Wir freuen uns auf euch! <3
 
