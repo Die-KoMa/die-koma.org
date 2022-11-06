@@ -37,12 +37,14 @@ Die Rückseite wird dieses Mal von einer Julia-Menge geziert. Hierbei gibt es zw
 
 ## Bestellung
 
-**Das Skatblatt ist ausverkauft und wird nicht mehr nachgedruckt! Es kann somit auch nicht mehr bestellt werden.**
+Die Bestellung des (halben) Romméblattes (2014) erfolgt über das KoMa-Büro per [Mail](mailto:buero@die-koma.org).
+Bitte geben Sie ggf. Wünsche bzgl. der Rückseitenfarben an. Falls Sie keine Wünsche äußern, wählen wir die Rückseiten etwa Hälfte rot, Hälfte grün.
 
-Die Bestellung des (halben) Rommeblattes (2014) erfolgt über das KoMa-Büro per [Mail](mailto:buero@die-koma.org).  Bitte geben Sie ggf. Wünsche bzgl. der Rückseitenfarben an. Falls Sie keine Wünsche äußern, wählen wir die Rückseiten etwa Hälfte rot, Hälfte grün.
+Die Zahlung erfolgt per Rechnung auf das Konto des Fördervereins der KoMa e.V. oder bar. Die Zustellung erfolgt entweder kostenfrei im Rahmen der nächsten KoMa oder durch Versand, wobei beim Versand zudem Versandkosten anfallen (für zwei bis acht Spiele 2,60 € bei Versand als Maxibrief).
+Wir versenden auch außerhalb Deutschlands, hierbei fällt der Versand natürlich höher aus (für ein bis vier Spiele 3,70 €, für bis zu acht Spiele 7 €).
+Die Angabe einer Mehrwertsteuer entfällt aufgrund der Kleinunternehmerregelung.
 
-Die Zahlung erfolgt per Rechnung auf das Konto des Fördervereins der KoMa e.V. oder bar. Die Zustellung erfolgt entweder kostenfrei im Rahmen der nächsten KoMa oder durch Versand, wobei beim Versand zudem Versandkosten anfallen (für zwei bis acht Spiele 2,60 € bei Versand als Maxibrief). Wir versenden auch außerhalb Deutschlands, hierbei fällt der Versand natürlich höher aus (für ein bis vier Spiele 3,70 €, für bis zu acht Spiele 7 €).
+Bitte haben Sie Verständnis dafür, dass es einige Tage dauern kann, bis wir die Spiele versenden, da wir dies neben unserem eigentlich Studium tun und nicht immer sofort Zeit dafür finden.
 
-Bitte haben Sie Verständnis dafür, dass es einige Tage dauern kann, bis wir die Spiele versenden, da wir dies neben unserem eigentlich Studium tun und nicht immer sofort Zeit dafür finden. Bei sehr großen Bestellungen freuen wir uns, wenn die bestellte Stückzahl ein Vielfaches von 65 ist, da dies der vorhandenen Kartongröße entspricht. Bitte beachten Sie, dass wir wegen der Mindestgröße für Briefe  keine einzelnen Exemplare versenden.
-
-Die Angabe einer Mehrwertsteuer entfällt aufgrund der Kleinunternehmerregelung
+Das (halbe) Rommé ist aktuell leider **vergriffen**.
+Ein weiterer Druck ist jedoch bereits in Arbeit, sodass wir vermutlich Anfang 2023 neue Kartenspiele liefern können.
