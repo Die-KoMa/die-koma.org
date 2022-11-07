@@ -38,13 +38,17 @@ Die Rückseite wird dieses Mal von einer Julia-Menge geziert. Hierbei gibt es zw
 ## Bestellung
 
 Die Bestellung des (halben) Romméblattes (2014) erfolgt über das KoMa-Büro per [Mail](mailto:buero@die-koma.org).
-Bitte geben Sie ggf. Wünsche bzgl. der Rückseitenfarben an. Falls Sie keine Wünsche äußern, wählen wir die Rückseiten etwa Hälfte rot, Hälfte grün.
+Bitte gib ggf. Wünsche bzgl. der Rückseitenfarben an.
+Falls keine Wünsche geäußert werden, wählen wir die Rückseiten etwa Hälfte rot, Hälfte grün.
 
-Die Zahlung erfolgt per Rechnung auf das Konto des Fördervereins der KoMa e.V. oder bar. Die Zustellung erfolgt entweder kostenfrei im Rahmen der nächsten KoMa oder durch Versand, wobei beim Versand zudem Versandkosten anfallen (für zwei bis acht Spiele 2,60 € bei Versand als Maxibrief).
+<!--Die Zahlung erfolgt per Rechnung auf das Konto des Fördervereins der KoMa e.V. oder bar.
+Die Zustellung erfolgt entweder kostenfrei im Rahmen der nächsten KoMa oder durch Versand, wobei beim Versand zudem Versandkosten anfallen.
+(für zwei bis acht Spiele 2,60 € bei Versand als Maxibrief).
 Wir versenden auch außerhalb Deutschlands, hierbei fällt der Versand natürlich höher aus (für ein bis vier Spiele 3,70 €, für bis zu acht Spiele 7 €).
 Die Angabe einer Mehrwertsteuer entfällt aufgrund der Kleinunternehmerregelung.
 
-Bitte haben Sie Verständnis dafür, dass es einige Tage dauern kann, bis wir die Spiele versenden, da wir dies neben unserem eigentlich Studium tun und nicht immer sofort Zeit dafür finden.
+Bitte habt Verständnis dafür, dass es einige Tage dauern kann, bis wir die Spiele versenden, da wir dies neben unserem eigentlich Studium tun und nicht immer sofort Zeit dafür finden.
+-->
 
 Das (halbe) Rommé ist aktuell leider **vergriffen**.
 Ein weiterer Druck ist jedoch bereits in Arbeit, sodass wir vermutlich Anfang 2023 neue Kartenspiele liefern können.
