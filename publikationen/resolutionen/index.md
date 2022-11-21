@@ -8,6 +8,22 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Wien
+
+[**1: Resolution zu finanziellen Entlastungen für Studierende**](https://file.komapedia.org/87_1.pdf)
+
+[**2: Resolution zur Barrierefreiheit**](https://file.komapedia.org/87_2.pdf)
+
+[**3: Resolution zu Energiesparmaßnahmen an Universit¨aten**](https://file.komapedia.org/87_3.pdf)
+
+[**4: Resolution zur Entlastung bed¨urftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/87_4.pdf)
+
+[**5: Resolution zur Finanzierung von Hochschulen und Studierendenwerken**](https://file.komapedia.org/87_5.pdf)
+
+[**6: Resolution zur Abschaffung der Beschränkung von Wiederholungsmöglichkeiten von Prüfungen**](https://file.komapedia.org/87_6.pdf)
+
+[**7: Resolution zur Novellierung des Sächsischen Hochschulfreiheitsgesetzes**](https://file.komapedia.org/87_7.pdf)
+
 ## Jena
 
 [**1: Resolution zu kooperativen Lernräumen für das Mathematikstudium**](https://file.komapedia.org/86_1.pdf)
