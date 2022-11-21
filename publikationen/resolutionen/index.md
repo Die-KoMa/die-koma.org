@@ -14,7 +14,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [**2: Resolution zur Barrierefreiheit**](https://file.komapedia.org/87_2.pdf)
 
-[**3: Resolution zu Energiesparmaßnahmen an Universit¨aten**](https://file.komapedia.org/87_3.pdf)
+[**3: Resolution zu Energiesparmaßnahmen an Universitäten**](https://file.komapedia.org/87_3.pdf)
 
 [**4: Resolution zur Entlastung bed¨urftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/87_4.pdf)
 
