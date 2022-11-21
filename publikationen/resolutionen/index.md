@@ -16,7 +16,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [**3: Resolution zu Energiesparmaßnahmen an Universitäten**](https://file.komapedia.org/87_3.pdf)
 
-[**4: Resolution zur Entlastung bed¨urftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/87_4.pdf)
+[**4: Resolution zur Entlastung bedürftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/87_4.pdf)
 
 [**5: Resolution zur Finanzierung von Hochschulen und Studierendenwerken**](https://file.komapedia.org/87_5.pdf)
 
