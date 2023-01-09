@@ -27,6 +27,10 @@ jobs:
   release:
     if: github.repository == 'Die-KoMa/die-koma.org' && github.event_name == 'push' && github.ref == 'refs/heads/main'
     name: "Release the website on the github page"
+    concurrency:
+      # Allow one concurrent deployment
+      group: "release"
+      cancel-in-progress: true
     needs: build
     runs-on: ubuntu-latest
     steps:
