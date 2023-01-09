@@ -31,22 +31,21 @@ jobs:
       # Allow one concurrent deployment
       group: "release"
       cancel-in-progress: true
+    permissions:
+      contents: write
     needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: git tag -f latest; git push origin +refs/tags/latest
       - uses: actions/download-artifact@v3
         with:
           name: build-artifacts
-      - uses: mini-bomba/create-github-release@v1.1.2
+      - uses: ncipollo/release-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           tag: latest
           name: Latest
           body: Built from the latest main branch by ci
-          files: ./homepage.tar.xz
-          fail_on_no_files: true
-          clear_attachments: true
-          prerelease: true
-          draft: false
-
+          artifacts: ./homepage.tar.xz
+          allowUpdates: true
+          removeArtifacts: true
