@@ -2,4 +2,14 @@
   background-color: #dcdcf2;
   padding: 10px;
   font-weight: bold;
+
+  .sponsoring {
+    float: right;
+    position: relative;
+    top: -.2em;
+
+    img {
+      height: 1.5em;
+    }
+  }
 }
