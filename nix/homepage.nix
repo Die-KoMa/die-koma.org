@@ -13,7 +13,7 @@ stdenvNoCC.mkDerivation {
   nativeBuildInputs = [ jekyll ];
 
   buildPhase = ''
-    rm -rf Dockerfile env-vars flake.lock flake.nix Makefile nix README.md
+    rm -rf env-vars flake.lock flake.nix Makefile nix README.md
     jekyll build --destination=build
   '';
 
