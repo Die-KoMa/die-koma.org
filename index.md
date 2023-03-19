@@ -1,5 +1,5 @@
 ---
-layout: startpage
+show_next_koma: true
 title: KoMa Neuigkeiten
 order: 1
 ---
