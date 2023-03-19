@@ -7,9 +7,20 @@ Short: Use [Jekyll](https://jekyllrb.com/).
 
 Long: This may be arbitrary hard, depending on your Operating System and how fucked up your ruby installation is, to re-install ruby and install the proper version see following guides:
 
+## Nix (best support)
+    # nix packet manager works in almost any linux distribution, mac and wsl1/2
+    # https://nixos.org/download.html
+
+    # with flake-support enabled (https://nixos.wiki/wiki/Flakes)
+
+    # building:
+    nix build -L .
+
+    # development server:
+    nix develop -c jekyll serve
+
 
 ## Debian / Ubuntu
-
     # ruby installation stuff:
     sudo apt remove ruby   # um ruby einmal zu deinstallieren, eigentlich nicht nötig im idealfall
     sudo apt install ruby  # oder sudo apt --upgrade ruby
@@ -25,12 +36,13 @@ Long: This may be arbitrary hard, depending on your Operating System and how fuc
     bundle install  # you have to be in the repository
     bundle exec jekyll serve  # should run now on 127.0.0.1
 
+
 ## Mac
 same as above but use homebrew instead of apt.
 
 
 ## Windows
-you're lost anyways, I don't know how to handle that odyssee.
+you're lost anyways, I don't know how to handle that odyssee. WSL2 with Nix should work though.
 
 
 ## Windows with WSL Ubuntu
