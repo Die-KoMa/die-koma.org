@@ -1,30 +1,22 @@
 <!DOCTYPE html>
 {% include head.html %}
 
-<div class="koma">
+{% include header.html %}
 
-  {% include header.html %}
+{% include navroot.html active=page.url %}
 
-  <div class="site-content">
+<div lang="de" class="content">
 
-    {% include navroot.html active=page.url %}
+  {% if page.show_next_koma %}
+  {% include next_koma.html %}
+  {% endif %}
 
-    <div class="content">
-
-      {% if page.show_next_koma %}
-      {% include next_koma.html %}
-      {% endif %}
-
-      <div class="page-content2">
-        <div class="wrapper2">
-          {{ content }}
-        </div>
-      </div>
-
+  <div class="page-content2">
+    <div class="wrapper2">
+      {{ content }}
     </div>
-
   </div>
 
-  {% include footer.html %}
-
 </div>
+
+{% include footer.html %}

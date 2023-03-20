@@ -6,13 +6,13 @@
   position: relative;
 
   span {
-    color: #000000; 
+    color: #000000;
   }
 
   a:hover span {
     text-decoration: underline;
   }
-  
+
   .logo {
     height: $mobileHeaderHeight;
     margin-left: 35vw;
@@ -27,7 +27,7 @@
       left: calc(-35vw + 5px);
       font-size: 5vmin;
     }
-    
+
     .svg {
       width: 30vw;
       height: auto;
@@ -35,11 +35,11 @@
       position: absolute;
     }
   }
-  
+
   .arrow {
-    height: 0.5vw;
+    height: $headerBorderWidth;
     position: absolute;
-    top: $mobileHeaderHeight; 
+    top: $mobileHeaderHeight;
     width: calc(100vw - 20px);
 
     &::before, &::after {
@@ -49,12 +49,12 @@
       height: 100%;
       position: absolute;
     }
-    
+
     &::before {
       left: 0px;
       width: 35vw;
     }
-    
+
     &::after {
       left: 65vw;
       right: 0;
@@ -67,11 +67,11 @@
     right: 15px;
     position: absolute;
   }
-  
+
   a {
     text-decoration: none !important;
   }
-  
+
   .subtitle {
     position: relative;
     top: 3vh;
@@ -83,68 +83,43 @@
         font-size: 3vw;
         line-height: 3vh;
     }
-  }  
-}
-
-@media all and (max-width: 300px){
-  .site-header {
-    .logo {
-      span {
-        display: none;
-      }
-    }
-
-    .subtitle {
-      position: relative;
-      top: 10px;
-      left: auto;
-      text-align: center;
-      width: auto;
-
-      span {
-        font-size: 12px;
-        line-height: 15px;
-      }
-    }
   }
 }
 
 @media all and (min-width: 800px){
   .site-header {
-    height: $headerHeight; 
+    height: $headerHeight;
     background-size: inherit;
-    
+
     .arrow {
-      height: $headerBorderWidth;
       position: absolute;
-      top: $headerHeight - $headerBottomOffset; 
-      width: calc(100vw - 20px);
-      max-width: calc(1100px - 20px);
+      top: $headerHeight - $headerBottomOffset;
+      width: calc(100% - 20px);
 
       &::before {
         left: 0px;
         width: $headerLeftBar;
       }
-      
+
       &::after {
         left: $headerLeftBar + $headerLogoWidth - 5px;
         right: 15px;
       }
     }
-    
+
     .arrowhead {
       width: $arrowheadWidthScreen;
       bottom: calc(-0.3 * #{$arrowheadWidthScreen} + 35px);
       right: 15px;
     }
-  
+
     .logo {
       height: $headerLogoHeight;
       margin-left: $headerLeftBar;
       top: $headerHeight - $headerLogoHeight - $headerBottomOffset + $headerBorderWidth - 3px;
       position: relative;
       width: $headerLogoWidth;
-      
+
       span {
         position: absolute;
         top: auto;
@@ -153,7 +128,7 @@
         font-size: 27px;
         left: 17px;
       }
-      
+
       .svg {
         width: 243px;
         top: 7px;
@@ -161,20 +136,20 @@
         position: relative;
       }
     }
-    
+
     .subtitle {
       position: relative;
       top: 10px;
       left: 50px;
       text-align: right;
       width: calc(100% - 100px);
-      
+
       span {
         font-size: 20px;
         line-height: $headerBottomOffset - $headerBorderWidth + .5 * $headerBorderWidth;
       }
     }
-    
+
     &::after {
       content: " ";
       display: block;
@@ -187,16 +162,28 @@
   }
 }
 
-@media all and (max-width:799px) and (min-aspect-ratio: 5/3) {
+@media all and (max-width:799px) {
   .site-header {
-    height: 80vh;
- 
     .logo {
-      height: 80vh;
+      width: 50%;
+      margin-left: 2em;
+      span {
+        display: none;
+      }
+      .svg {
+        width: 100%;
+      }
     }
- 
     .arrow {
-      top: 80vh;
+      &::before {
+        display: none;
+      }
+      &::after {
+        left: 0;
+      }
+    }
+    .subtitle {
+      display: none;
     }
   }
 }

@@ -1,13 +1,9 @@
-.site-nav-wrapper {
-  margin: auto;
-  line-height: 24px; 
-}
-
 .site-nav {
+  line-height: 24px;
   ul > li > ul{
     margin-left: 15px;
   }
-  
+
   > ul > li > label > a > span {
     font-weight: bold;
   }
@@ -33,14 +29,10 @@
     margin: 0 20px 0 0;
     width: $headerLeftBar;
     border-right: $headerBorderWidth solid black;
-    line-height: 24px; 
+    line-height: 24px;
   }
-  
-  .site-nav {
-    width: 180px;
 
-    ul {
-      margin: 0 20px 0 15px;
-    }
+  .site-nav ul {
+    margin: 0 20px 0 15px;
   }
 }

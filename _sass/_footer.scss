@@ -1,7 +1,13 @@
-.footer {
+footer {
   background-color: #dcdcf2;
-  padding: 10px;
   font-weight: bold;
+  padding-inline: 10px;
+  height: $footerHeight;
+
+  > * {
+    margin-block: 10px;
+    display: inline-block;
+  }
 
   .sponsoring {
     float: right;

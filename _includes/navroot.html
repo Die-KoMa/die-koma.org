@@ -9,7 +9,7 @@
 {%- endfor -%}
 {%- assign navigation = navigation | sort: 'path' -%}
 {%- assign menudepth = navigation | group_by_exp: 'item', 'item.url | remove_first: "/" | split: "/" | size' -%}
-<div class="site-nav-wrapper">
+
 <nav class="site-nav">
 {%- comment -%}
 <pre>
@@ -35,4 +35,3 @@
 {%- endcomment -%}
 {%- include navtree.html treeprefix="menu-0" active=include.active depth=1 parent_path="/" -%}
 </nav>
-</div>
