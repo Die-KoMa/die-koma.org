@@ -3,6 +3,8 @@
 ---
 @charset "utf-8";
 
+$komaLogoHeight: 33;
+$komaLogoWidth: 58.5;
 /* configure header */
 $headerBorderWidth: .5em;
 $headerBottomOffset: 37px;
@@ -45,7 +47,7 @@ body {
     ". sidebar content ."
     ". footer footer .";
   grid-template-columns: 1fr $headerLeftBar auto 1fr;
-  font-size: calc(min(2vw, 1rem));
+  font-size: calc(min(2vw, .7rem));
 }
 
 .content {
