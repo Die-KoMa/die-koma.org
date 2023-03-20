@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 /* configure header */
-$headerBorderWidth: 4px;
+$headerBorderWidth: .5em;
 $headerBottomOffset: 37px;
 $headerHeight: 190px;
 $headerLeftBar: 180px;
@@ -31,17 +31,21 @@ p + h1 {
   padding-top: 20px;
 }
 
+html {
+  font-size: 12px;
+}
+
 body {
   font-feature-settings: "kern" 1;
   font-kerning: normal;
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 12px;
   display: grid;
   grid-template-areas:
     ". header header ."
     ". sidebar content ."
     ". footer footer .";
   grid-template-columns: 1fr $headerLeftBar auto 1fr;
+  font-size: calc(min(2vw, 1rem));
 }
 
 .content {
@@ -50,10 +54,15 @@ body {
   padding: 20px;
   padding-left: 24px;
   max-width: 876px;
+  min-width: 200px;
+  font-size: 1rem;
 }
 
 nav {
   grid-area: sidebar;
+  > * {
+    font-size: 1rem;
+  }
 }
 
 header {
@@ -86,12 +95,9 @@ ul, ol, dl, figure {
 }
 
 .next-koma {
-  float: right;
-  width: 250px;
   background-color: #dcdcf2;
   padding: 10px;
-  margin: 10px;
-  margin-right: 0px;
+  margin-block: 10px;
   border-radius: 15px;
 }
 
@@ -145,4 +151,12 @@ ol li {
 .site-nav ul li a{
   text-decoration: none;
   color: black;
+}
+
+@media (min-width: 800px){
+  .next-koma {
+    float: right;
+    width: 250px;
+    margin-left: 10px;
+  }
 }

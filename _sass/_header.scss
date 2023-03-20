@@ -2,188 +2,50 @@
   background-image: url("/core/image/header_banner.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: $mobileHeaderHeight;
-  position: relative;
 
-  span {
-    color: #000000;
-  }
-
-  a:hover span {
-    text-decoration: underline;
+  a {
+    text-decoration: none !important;
+    &:hover span {
+      text-decoration: underline;
+    }
   }
 
   .logo {
-    height: $mobileHeaderHeight;
-    margin-left: 35vw;
-    top: 0.5vw;
-    bottom: 0px;
-    position: relative;
-    width: 30vw;
-
-    span {
-      position: absolute;
-      bottom: 5px;
-      left: calc(-35vw + 5px);
-      font-size: 5vmin;
+    svg {
+      margin-left: 2em;
+      height: calc(33 * .5em);
+      margin-bottom: -.5em;
     }
-
-    .svg {
-      width: 30vw;
-      height: auto;
-      bottom: 0px;
-      position: absolute;
+    span {
+      display: none;
     }
   }
 
   .arrow {
-    height: $headerBorderWidth;
-    position: absolute;
-    top: $mobileHeaderHeight;
-    width: calc(100vw - 20px);
-
-    &::before, &::after {
-      background: #000000;
-      content: " ";
+    height: .5em;
+    width: 100%;
+    svg {
       display: block;
-      height: 100%;
-      position: absolute;
+      margin-inline: auto 2em;
+      height: 2em;
+      top: calc(50% - 1em);
+      position: relative;
+      margin-bottom: -2em;
     }
-
-    &::before {
-      left: 0px;
-      width: 35vw;
-    }
-
     &::after {
-      left: 65vw;
-      right: 0;
+      content: "";
+      display: block;
+      height: .5em;
+      width: calc(100% - 3em);
+      background: black;
     }
-  }
-
-  .arrowhead {
-    width: $arrowheadWidthMobile;
-    bottom: calc(-0.3125 * #{$arrowheadWidthMobile} - 0.25vw);
-    right: 15px;
-    position: absolute;
-  }
-
-  a {
-    text-decoration: none !important;
   }
 
   .subtitle {
-    position: relative;
-    top: 3vh;
-    left: 5vw;
-    text-align: right;
-    width: calc(100% - 10vw);
+    display: none;
+  }
 
-    span {
-        font-size: 3vw;
-        line-height: 3vh;
-    }
+
   }
 }
 
-@media all and (min-width: 800px){
-  .site-header {
-    height: $headerHeight;
-    background-size: inherit;
-
-    .arrow {
-      position: absolute;
-      top: $headerHeight - $headerBottomOffset;
-      width: calc(100% - 20px);
-
-      &::before {
-        left: 0px;
-        width: $headerLeftBar;
-      }
-
-      &::after {
-        left: $headerLeftBar + $headerLogoWidth - 5px;
-        right: 15px;
-      }
-    }
-
-    .arrowhead {
-      width: $arrowheadWidthScreen;
-      bottom: calc(-0.3 * #{$arrowheadWidthScreen} + 35px);
-      right: 15px;
-    }
-
-    .logo {
-      height: $headerLogoHeight;
-      margin-left: $headerLeftBar;
-      top: $headerHeight - $headerLogoHeight - $headerBottomOffset + $headerBorderWidth - 3px;
-      position: relative;
-      width: $headerLogoWidth;
-
-      span {
-        position: absolute;
-        top: auto;
-        right: auto;
-        bottom: -5px;
-        font-size: 27px;
-        left: 17px;
-      }
-
-      .svg {
-        width: 243px;
-        top: 7px;
-        height: auto;
-        position: relative;
-      }
-    }
-
-    .subtitle {
-      position: relative;
-      top: 10px;
-      left: 50px;
-      text-align: right;
-      width: calc(100% - 100px);
-
-      span {
-        font-size: 20px;
-        line-height: $headerBottomOffset - $headerBorderWidth + .5 * $headerBorderWidth;
-      }
-    }
-
-    &::after {
-      content: " ";
-      display: block;
-      height: $headerBottomOffset;
-      width: $headerLeftBar;
-      top: $headerHeight - $headerBottomOffset;
-      border-right: $headerBorderWidth solid #000000;
-      position: absolute;
-    }
-  }
-}
-
-@media all and (max-width:799px) {
-  .site-header {
-    .logo {
-      width: 50%;
-      margin-left: 2em;
-      span {
-        display: none;
-      }
-      .svg {
-        width: 100%;
-      }
-    }
-    .arrow {
-      &::before {
-        display: none;
-      }
-      &::after {
-        left: 0;
-      }
-    }
-    .subtitle {
-      display: none;
-    }
-  }
-}
