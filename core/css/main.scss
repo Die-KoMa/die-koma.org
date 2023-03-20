@@ -47,12 +47,13 @@ body {
     ". sidebar content ."
     ". footer footer .";
   grid-template-columns: 1fr $headerLeftBar auto 1fr;
+  grid-template-rows: auto 1fr auto;
   font-size: calc(min(2vw, .7rem));
+  min-height: 100vh;
 }
 
 .content {
   grid-area: content;
-  min-height: calc(100vh - #{$headerHeight} - #{$footerHeight} - 40px);
   padding: 20px;
   padding-left: 24px;
   max-width: 876px;
