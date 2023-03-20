@@ -2,7 +2,6 @@
 , stdenvNoCC
 , jekyll
 , doTar ? false
-, gnutar
 }:
 with lib;
 
@@ -12,9 +11,11 @@ stdenvNoCC.mkDerivation {
 
   nativeBuildInputs = [ jekyll ];
 
+  dontConfigure = true;
+
   buildPhase = ''
     rm -rf env-vars flake.lock flake.nix Makefile nix README.md
-    jekyll build --destination=build
+    jekyll build --destination=build --verbose
   '';
 
   installPhase =
