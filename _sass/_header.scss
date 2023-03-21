@@ -22,9 +22,9 @@
     display: flow-root;
     svg {
       display: block;
-      height: calc(#{$komaLogoHeight} * .5em);
-      margin-left: 2em;
-      margin-bottom: -.5em;
+      height: calc(#{$komaLogoHeight} * 1em);
+      margin-left: 4em;
+      margin-bottom: -1em;
     }
   }
 
@@ -33,26 +33,26 @@
   }
 
   .arrow {
-    height: .5em;
+    height: 1em;
     width: 100%;
     svg {
       display: block;
-      margin-inline: auto 2em;
-      height: 2em;
-      top: calc(50% - 1em);
+      margin-inline: auto 4em;
+      height: 4em;
+      top: calc(50% - 2em);
       position: relative;
-      margin-bottom: -2em;
+      margin-bottom: -4em;
     }
     &::before, &::after {
       display: block;
-      height: .5em;
+      height: 1em;
       background: black;
     }
     &::after {
       content: "";
       --margin-left: 0em;
       margin-left: var(--margin-left);
-      width: calc(100% - var(--margin-left) - 3em);
+      width: calc(100% - var(--margin-left) - 6em);
     }
   }
 
@@ -63,7 +63,7 @@
 
     .logo {
       svg {
-        margin-top: 2em;
+        margin-top: 4em;
         margin-left: $headerLeftBar;
       }
     }
@@ -71,7 +71,7 @@
     h1 {
       display: block;
       position: absolute;
-      font-size: 3em;
+      font-size: 6em;
       margin-top: -1em;
       margin-left: calc(#{$headerLeftBar} + 1em);
     }
@@ -79,24 +79,24 @@
     .arrow {
       &::before {
         content: "";
-        width: calc(#{$headerLeftBar} + .25em);
+        width: calc(#{$headerLeftBar} + .5em);
         position: absolute;
       }
       &::after {
-        --margin-left: calc(#{$headerLeftBar} + #{$komaLogoWidth} * .5em - .25em);
+        --margin-left: calc(#{$headerLeftBar} + #{$komaLogoWidth} * 1em - .5em);
       }
     }
 
     .subtitle {
       display: block;
-      margin-inline: calc(#{$headerLeftBar}) 6em;
+      margin-inline: calc(#{$headerLeftBar}) 12em;
       text-align: right;
-      border-left: .5em solid black;
-      padding-top: 1em;
+      border-left: 1em solid black;
+      padding-top: 2em;
       h2 {
         margin: 0;
         font-weight: normal;
-        font-size: 2.5em;
+        font-size: 5em;
       }
     }
 

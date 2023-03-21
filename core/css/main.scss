@@ -37,7 +37,7 @@ body {
     ". footer footer .";
   grid-template-columns: 1fr $headerLeftBar auto 1fr;
   grid-template-rows: auto 1fr auto;
-  font-size: calc(min(2vw, .7rem));
+  font-size: calc(min(1vw, .35rem));
   min-height: 100vh;
 }
 
@@ -133,7 +133,7 @@ ol li {
 
 .site-nav {
   width: 100%;
-  border-right: .5em solid black;
+  border-right: 1em solid black;
 }
 
 .site-nav ul{
