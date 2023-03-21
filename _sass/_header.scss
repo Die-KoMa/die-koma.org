@@ -1,5 +1,9 @@
 .site-header {
 
+  h1, h2 {
+    color: black;
+  }
+
   a {
     text-decoration: none !important;
     &:hover span {
@@ -24,7 +28,7 @@
     }
   }
 
-  h1 {
+  h1, .subtitle {
     display: none;
   }
 
@@ -50,10 +54,6 @@
       margin-left: var(--margin-left);
       width: calc(100% - var(--margin-left) - 3em);
     }
-  }
-
-  .subtitle {
-    display: none;
   }
 
 }
@@ -93,7 +93,9 @@
       text-align: right;
       border-left: .5em solid black;
       padding-top: 1em;
-      span {
+      h2 {
+        margin: 0;
+        font-weight: normal;
         font-size: 2.5em;
       }
     }
