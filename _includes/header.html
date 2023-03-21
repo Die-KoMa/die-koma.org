@@ -1,11 +1,13 @@
 <header class="site-header">
   <a href="/">
     <div class="logo">
-      {% include koma.svg %}
+      {% capture koma_logo %}{% include koma.svg %}{% endcapture -%}
+      {{ koma_logo | normalize_whitespace | replace: "> <", "><" }}
       <span href="/">die-koma.org</span>
     </div>
     <div class="arrow">
-    {% include arrowhead.svg %}
+      {% capture arrowhead %}{% include arrowhead.svg %}{% endcapture -%}
+      {{ arrowhead | normalize_whitespace | replace: "> <", "><" }}
     </div>
     <div class="subtitle">
       <span>Konferenz der deutschsprachigen Mathematikfachschaften</span>
