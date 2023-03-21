@@ -5,19 +5,8 @@
 
 $komaLogoHeight: 33;
 $komaLogoWidth: 58.5;
-/* configure header */
-$headerBorderWidth: .5em;
-$headerBottomOffset: 37px;
-$headerHeight: 190px;
 $headerLeftBar: 180px;
-$headerLogoHeight: 146px;
-$headerLogoWidth: 245px;
-$headerRightOffset: 40px;
-$headerWidth: 1100px;
 $footerHeight: 42px;
-$mobileHeaderHeight: 30vh;
-$arrowheadWidthMobile: 5vmin;
-$arrowheadWidthScreen: 30px;
 
 /**
  * Reset some basic elements
@@ -144,7 +133,7 @@ ol li {
 
 .site-nav {
   width: 100%;
-  border-right: $headerBorderWidth solid black;
+  border-right: .5em solid black;
 }
 
 .site-nav ul{
