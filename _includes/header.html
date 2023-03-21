@@ -3,8 +3,8 @@
     <div class="logo">
       {% capture koma_logo %}{% include koma.svg %}{% endcapture -%}
       {{ koma_logo | normalize_whitespace | replace: "> <", "><" }}
-      <span href="/">die-koma.org</span>
     </div>
+    <h1>die-koma.org</h1>
     <div class="arrow">
       {% capture arrowhead %}{% include arrowhead.svg %}{% endcapture -%}
       {{ arrowhead | normalize_whitespace | replace: "> <", "><" }}
@@ -14,3 +14,4 @@
     </div>
   </a>
 </header>
+{{- '' -}}
