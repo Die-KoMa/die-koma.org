@@ -6,7 +6,6 @@
 $komaLogoHeight: 33;
 $komaLogoWidth: 58.5;
 $headerLeftBar: 180px;
-$footerHeight: 42px;
 
 /**
  * Reset some basic elements
@@ -59,9 +58,6 @@ nav {
 
 header {
   grid-area: header;
-}
-footer {
-  grid-area: footer;
 }
 
 /**

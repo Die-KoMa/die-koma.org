@@ -1,21 +1,13 @@
 footer {
+  grid-area: footer;
   background-color: #dcdcf2;
-  font-weight: bold;
-  padding-inline: 10px;
-  height: $footerHeight;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1rem;
+  padding: 1em;
 
-  > * {
-    margin-block: 10px;
-    display: inline-block;
-  }
-
-  .sponsoring {
-    float: right;
-    position: relative;
-    top: -.2em;
-
-    img {
-      height: 1.5em;
-    }
+  .sponsoring img {
+    height: 2.5em;
   }
 }
