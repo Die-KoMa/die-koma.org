@@ -2,12 +2,32 @@ footer {
   grid-area: footer;
   background-color: #dcdcf2;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  flex-flow: column;
+  justify-content: space-between;
+  gap: 1em;
   font-size: 1rem;
-  padding: 1em;
+  padding: 2em;
+
+  > div {
+    display: flex;
+    flex-flow: column;
+    > * {
+      padding-top: .6em;
+    }
+  }
+
+  h1 {
+    font-size: 1.2em;
+    font-weight: bold;
+    padding-bottom: .4em;
+  }
 
   .sponsoring img {
     height: 2.5em;
   }
+
+  @media (min-width: 800px) {
+    flex-flow: row wrap;
+  }
 }
+
