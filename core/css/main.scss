@@ -5,7 +5,7 @@
 
 $komaLogoHeight: 33;
 $komaLogoWidth: 58.5;
-$headerLeftBar: 180px;
+$headerLeftBar: 15rem;
 
 /**
  * Reset some basic elements
@@ -18,7 +18,7 @@ dl, dd, ol, ul, figure {
 }
 
 p + h1 {
-  padding-top: 20px;
+  padding-top: 1em;
 }
 
 html {
@@ -34,7 +34,7 @@ body {
     ". header header ."
     ". sidebar content ."
     ". footer footer .";
-  grid-template-columns: 1fr $headerLeftBar auto 1fr;
+  grid-template-columns: 1fr $headerLeftBar minmax(auto, 85rem) 1fr;
   grid-template-rows: auto 1fr auto;
   font-size: calc(min(1vw, .35rem));
   min-height: 100vh;
@@ -44,7 +44,6 @@ body {
   grid-area: content;
   padding: 20px;
   padding-left: 24px;
-  max-width: 876px;
   min-width: 200px;
   font-size: 1rem;
 }
