@@ -5,18 +5,14 @@
 
 {% include navroot.html active=page.url %}
 
-<div lang="de" class="content">
+<main lang="de">
 
   {% if page.show_next_koma %}
   {% include next_koma.html %}
   {% endif %}
 
-  <div class="page-content2">
-    <div class="wrapper2">
-      {{ content }}
-    </div>
-  </div>
+  {{ content }}
 
-</div>
+</main>
 
 {% include footer.html %}
