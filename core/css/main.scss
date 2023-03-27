@@ -38,6 +38,10 @@ body {
   grid-template-rows: auto 1fr auto;
   font-size: calc(min(1vw, .35rem));
   min-height: 100vh;
+  background-color: white;
+  color: black;
+  fill: black;
+  border-color: black;
 }
 
 main {
@@ -123,19 +127,19 @@ ol li {
 
 .site-nav {
   width: 100%;
-  border-right: 1em solid black;
+  border-right: 1em solid;
 }
 
 .site-nav ul{
   margin-right:0;
 }
 
-.site-nav ul li a{
+.site-nav ul li a {
   text-decoration: none;
-  color: black;
+  color: inherit;
 }
 
-@media (min-width: 800px){
+@media (min-width: 800px) {
   .next-koma {
     float: right;
     width: 250px;

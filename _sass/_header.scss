@@ -1,18 +1,14 @@
 .site-header {
 
-  h1, h2 {
-    color: black;
+  h1, h2, a {
+    color: inherit;
   }
 
   a {
     text-decoration: none !important;
-    &:hover span {
+    &:hover * {
       text-decoration: underline;
     }
-  }
-
-  span {
-    color: black;
   }
 
   .logo {
@@ -91,7 +87,7 @@
       display: block;
       margin-inline: calc(#{$headerLeftBar}) 12em;
       text-align: right;
-      border-left: 1em solid black;
+      border-left: 1em solid;
       padding-top: 2em;
       h2 {
         margin: 0;
