@@ -90,14 +90,19 @@ main p {
   padding: 10px;
   margin-block: 10px;
   border-radius: 15px;
+}
 
-  ul {
-    margin-top: 10px;
-    margin-left: 20px;
-    a {
-      font-weight: 800;
-    }
-  }
+.next-koma ul {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.next-koma .name {
+  font-weight: 800;
+}
+
+.next-koma .date {
+  display: block;
 }
 
 h1 {
