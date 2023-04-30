@@ -47,7 +47,7 @@ jobs:
       - run: mv build homepage
       - run: git add homepage
       - run: git status
-      - run: git config --global user.email "GIT_AUTHOR_EMAIL="homepage@die-koma.org""
+      - run: git config --global user.email "homepage@die-koma.org"
       - run: git config --global user.name "KoMa GitHub Runner"
       - run: git commit -m "Update homepage built from $GITHUB_SHA" || true
       - run: git push
