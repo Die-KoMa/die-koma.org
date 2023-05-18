@@ -10,7 +10,7 @@ Wer zum ersten Mal auf einer KoMa ist oder noch nie da war, für den ist es sich
 
 ## Download
 
-Das Heft gibt es entweder gedruckt auf der nächsten KoMa oder [hier als Datei](https://file.komapedia.org/Neulingsheft_2020-03-16.pdf) (Stand: März 2020).
+Das Heft gibt es entweder gedruckt auf der nächsten KoMa oder [hier als Datei](https://file.komapedia.org/Neulingsheft.pdf) (Stand: Mai 2023).
 
 
 ## Entwicklung
