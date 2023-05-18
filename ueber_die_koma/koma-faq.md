@@ -38,7 +38,7 @@ Leider gibt es auf jeder KoMa auch Leute, die nicht jeden Tag um 5.30 Uhr aufste
 
 ### Was muss ich auf die KoMa mitbringen?
 
-Einen Schlafsack+Isomatte, Frühstücksgeschirr (Besteck, Teller, Tasse, Müslischüssel), gute Laune (wichtig! nicht zu Hause vergessen), ev. Ideen/Materialien für Arbeitskreise (AKs). Und wenn möglich noch ein paar Leute aus Deiner Fachschaft. (Idealerweise schaust Du vorher kurz in der [Packliste](/ueber_die_koma/Packliste) nach. Vielleicht hat die ausrichtende Fachschaft nämlich auch Sonderwünsche)
+Einen Schlafsack+Isomatte, Frühstücksgeschirr (Besteck, Teller, Tasse, Müslischüssel), gute Laune (wichtig! nicht zu Hause vergessen), ev. Ideen/Materialien für Arbeitskreise (AKs). Und wenn möglich noch ein paar Leute aus Deiner Fachschaft. (Idealerweise schaust Du vorher kurz in der [Packliste](/ueber_die_koma/packliste) nach. Vielleicht hat die ausrichtende Fachschaft nämlich auch Sonderwünsche)
 
 ### Wieviel kostet eine KoMa?
 
