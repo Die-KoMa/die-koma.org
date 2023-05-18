@@ -10,29 +10,29 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ## Wien
 
-[**1: Resolution zu finanziellen Entlastungen für Studierende**](https://file.komapedia.org/87_1.pdf)
+[**87/1: Resolution zu finanziellen Entlastungen für Studierende**](https://file.komapedia.org/87_1.pdf)
 
-[**2: Resolution zur Barrierefreiheit**](https://file.komapedia.org/87_2.pdf)
+[**87/2: Resolution zur Barrierefreiheit**](https://file.komapedia.org/87_2.pdf)
 
-[**3: Resolution zu Energiesparmaßnahmen an Universitäten**](https://file.komapedia.org/87_3.pdf)
+[**87/3: Resolution zu Energiesparmaßnahmen an Universitäten**](https://file.komapedia.org/87_3.pdf)
 
-[**4: Resolution zur Entlastung bedürftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/87_4.pdf)
+[**87/4: Resolution zur Entlastung bedürftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/87_4.pdf)
 
-[**5: Resolution zur Finanzierung von Hochschulen und Studierendenwerken**](https://file.komapedia.org/87_5.pdf)
+[**87/5: Resolution zur Finanzierung von Hochschulen und Studierendenwerken**](https://file.komapedia.org/87_5.pdf)
 
-[**6: Resolution zur Abschaffung der Beschränkung von Wiederholungsmöglichkeiten von Prüfungen**](https://file.komapedia.org/87_6.pdf)
+[**87/6: Resolution zur Abschaffung der Beschränkung von Wiederholungsmöglichkeiten von Prüfungen**](https://file.komapedia.org/87_6.pdf)
 
-[**7: Resolution zur Novellierung des Sächsischen Hochschulfreiheitsgesetzes**](https://file.komapedia.org/87_7.pdf)
+[**87/7: Resolution zur Novellierung des Sächsischen Hochschulfreiheitsgesetzes**](https://file.komapedia.org/87_7.pdf)
 
 ## Jena
 
-[**1: Resolution zu kooperativen Lernräumen für das Mathematikstudium**](https://file.komapedia.org/86_1.pdf)
+[**86/1: Resolution zu kooperativen Lernräumen für das Mathematikstudium**](https://file.komapedia.org/86_1.pdf)
 
-[**2: Resolution zur niederschwelligen Bereitstellung von Menstruationsprodukten an Hochschulen**](https://file.komapedia.org/86_2.pdf)
+[**86/2: Resolution zur niederschwelligen Bereitstellung von Menstruationsprodukten an Hochschulen**](https://file.komapedia.org/86_2.pdf)
 
-[**3: Resolution zum Arbeitsrecht Studierender**](https://file.komapedia.org/86_3.pdf)
+[**86/3: Resolution zum Arbeitsrecht Studierender**](https://file.komapedia.org/86_3.pdf)
 
-[**4: Resolution zu asynchronen und hybriden Lehrangeboten**](https://file.komapedia.org/86_4.pdf)
+[**86/4: Resolution zu asynchronen und hybriden Lehrangeboten**](https://file.komapedia.org/86_4.pdf)
 
 ## KoRoMa v2
 
