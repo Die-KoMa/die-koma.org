@@ -20,6 +20,10 @@ exclude: ['ruby-packages']
 # Build settings
 markdown: kramdown
 
+# markdown processing options
+kramdown:
+  smart_quotes: sbquo,lsquo,bdquo,ldquo
+
 # Remove .html from generated website as https://jekyllrb.com/docs/permalinks/#posts suggests
 permalink: pretty
 
