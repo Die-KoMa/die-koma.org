@@ -6,3 +6,5 @@ vendor/
 ruby-packages/
 .bundle/
 /result
+#*#
+*~
