@@ -45,7 +45,7 @@ jobs:
       cancel-in-progress: true
     permissions:
       contents: write
-    needs: check-links
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
