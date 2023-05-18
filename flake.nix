@@ -31,27 +31,27 @@
 
       });
 
-      apps = withPackages (pkgs:
-        let
-          checkLinks = pkgs.writeShellScript "check-links" ''
-            LANG="C.UTF-8" ${pkgs.html-proofer}/bin/htmlproofer --allow-hash-href --assume-extension --empty-alt-ignore --http-status-ignore 401 ${pkgs.KoMaHomepage}
-          '';
-          serve = pkgs.writeShellScript "serve" ''
-            ${pkgs.jekyll}/bin/jekyll serve
-          '';
-        in rec {
-          check-links = {
-            type = "app";
-            program = "${checkLinks}";
-          };
+      apps = withPackages (pkgs: rec {
+        check-links = {
+          type = "app";
+          program = let
+            checkLinks = pkgs.writeShellScript "check-links" ''
+              LANG="C.UTF-8" ${pkgs.html-proofer}/bin/htmlproofer --allow-hash-href --assume-extension --empty-alt-ignore --http-status-ignore 401 ${pkgs.KoMaHomepage}
+            '';
+          in "${checkLinks}";
+        };
 
-          serve = {
-            type = "app";
-            program = "${serve}";
-          };
+        serve = {
+          type = "app";
+          program = let
+            serve = pkgs.writeShellScript "serve" ''
+              ${pkgs.jekyll}/bin/jekyll serve
+            '';
+          in "${serve}";
+        };
 
-          default = serve;
-        });
+        default = serve;
+      });
     };
 
 }
