@@ -1,6 +1,14 @@
 # die-koma.org
-Jekyll Code of the new website
+Jekyll Code of the KoMa website.
 
+[Jekyll](https://jekyllrb.com/) is a static site generator that takes
+these [Markdown](https://kramdown.gettalong.org/quickref.html) templates and produces static HTML files.
+
+# How to contribute
+
+Fork this repository, make your changes, and open a pull request. Once
+the pull request is merged, the changes will be deployed
+automatically.
 
 # Installation
 Short: Use [Jekyll](https://jekyllrb.com/).
@@ -18,7 +26,7 @@ Long: This may be arbitrary hard, depending on your Operating System and how fuc
 nix build -L .
 
 # development server:
-nix develop -c jekyll serve
+nix run
 ```
 
 
