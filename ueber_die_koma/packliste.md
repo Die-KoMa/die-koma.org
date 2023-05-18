@@ -12,7 +12,7 @@ order: 5
 - [ ] Schlafsack
 - [ ] Isomatte/ LuMaTra
 - [ ] Schlafanzug
-- [ ] Tasse (für das ewige Frühstück und Mittagessen), falls euch ein Becher nicht reicht (der wird gestellt)
+- [ ] Tasse (für das ewige Frühstück und Mittagessen), falls dieser nicht von der Orga gestellt wird
 - [ ] Unterwäsche (wer die vergisst, darf draußen schlafen)
 - [ ] Socken
 - [ ] Hosen/ Röcke
@@ -41,7 +41,7 @@ order: 5
 - [ ] Materialien für AKs (vor der Fahrt mal auf die AK-Liste schauen, vielleicht habt Ihr etwas, das auf der KoMa nützlich sein könnte)
 - [ ] Schreibzeug
 - [ ] Ggf. KoMa-Doku
-- [ ] Erstsemestrige/ Neu-KoMatiker
+- [ ] Erstsemestrige/ Neu-KoMatiker\*innen
 - [ ] Zugtickets
 - [ ] Proviant für die Fahrt (Essen und Trinken)
 - [ ] (gültigen) Personalausweis (Reisepass für Gäste aus Nicht EU-Ländern)
@@ -59,7 +59,6 @@ order: 5
 - [ ] Ideen für AKs
 - [ ] Gute Laune
 - [ ] Eine Packerl Schlaf
-- [ ] Schnuffeltier/ Schnuffelkissen
 - [ ] Musik
 - [ ] Badehose/Badeanzug
 - [ ] Tischtennisschläger
