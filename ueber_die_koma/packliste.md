@@ -12,7 +12,7 @@ order: 5
 - [ ] Schlafsack
 - [ ] Isomatte/ LuMaTra
 - [ ] Schlafanzug
-- [ ] Tasse (für das ewige Frühstück und Mittagessen), falls dieser nicht von der Orga gestellt wird
+- [ ] Tasse (für das ewige Frühstück und Mittagessen), falls diese nicht von der Orga gestellt wird
 - [ ] Unterwäsche (wer die vergisst, darf draußen schlafen)
 - [ ] Socken
 - [ ] Hosen/ Röcke
