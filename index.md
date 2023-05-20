@@ -8,7 +8,9 @@ order: 1
 
 Gute Neuigkeiten!
 
-Die [KoMa 87](https://fsmat.at/content/koma-87) in Wien wird stattfinden und geht vom 29. Oktober bis 02. November 2022.
+Die [KoMa 88](https://koma88.de) in Kaiserslautern hat vom 17. bis zum 23. Mai stattgefunden, verabschiedete [Resolutionen](./publikationen/resolutionen) werden in Kürze veröffentlicht werden.
+
+Im kommenden Wintersemester wird die [89. KoMa](https://www.koma89.tu-darmstadt.de/) vom 23. bis 27. November in Darmstadt stattfinden.
 
 Bitte denkt daran, in der [KoMaPedia](./KoMaPedia) schon im Vorhinein Arbeitskreise anzumelden.
 Ihr gebt damit der Orga Planungssicherheit und anderen Fachschaften die Möglichkeit, passende Informationen zu sammeln und sich vorher zu besprechen.
