@@ -8,7 +8,7 @@ order: 1
 
 Gute Neuigkeiten!
 
-Die [KoMa 88](https://koma88.de) in Kaiserslautern hat vom 17. bis zum 23. Mai stattgefunden, verabschiedete [Resolutionen](./publikationen/resolutionen) werden in Kürze veröffentlicht werden.
+Die [KoMa 88](https://koma88.de) in Kaiserslautern hat vom 17. bis zum 21. Mai stattgefunden, verabschiedete [Resolutionen](./publikationen/resolutionen) werden in Kürze veröffentlicht werden.
 
 Im kommenden Wintersemester wird die [89. KoMa](https://www.koma89.tu-darmstadt.de/) vom 23. bis 27. November in Darmstadt stattfinden.
 
