@@ -15,4 +15,4 @@ Das Heft gibt es entweder gedruckt auf der nächsten KoMa oder [hier als Datei](
 
 ## Entwicklung
 
-Das Heft befindet sich auf [Github](https://github.com/Die-KoMa/neulingsheft.git) in laufender Entwicklung. Eine ursprüngliche Version aus dem Frühjahr 2012 ist [hier](https://file.komapedia.org/Neulingsheft.pdf) zu finden.
+Das Heft befindet sich auf [Github](https://github.com/Die-KoMa/neulingsheft.git) in laufender Entwicklung. Für historisch Interessierte steht auch die [ursprüngliche Version aus dem Frühjahr 2012](https://komapedia.org/wiki/images/archive/c/c2/20230518080022%21Neulingsheft.pdf) bereit.
