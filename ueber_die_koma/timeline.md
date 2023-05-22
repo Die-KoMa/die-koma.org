@@ -7,6 +7,9 @@ order: 6
 
 | Semester    | Name der KoMa            | Hochschule                   | Zeitraum              |
 |:------------|:-------------------------|:-----------------------------|:----------------------|
+| SS 2023     | KoMa 88                  | Uni Bonn                | vsl. 22.05.–26-05.2024     |
+| WS 2022/23  | KoMa 87                  | TU Darmstadt            | vsl. 23.11.–27.11.2023     |
+| SS 2023     | KoMa 88                  | RPTU Kaiserslautern          | 17.05.–21.05.2023     |
 | WS 2022/23  | KoMa 87                  | TU Wien                      | 29.10.–02.11.2022     |
 | SS 2022     | KoMa 86                  | FSU Jena                     | 25.05.–29.05.2022     |
 | SS 2021     | KoMa 86                  | Uni Bonn                     | August 2021 (abgesagt)|
