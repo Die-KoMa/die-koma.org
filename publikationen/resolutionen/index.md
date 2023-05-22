@@ -8,6 +8,30 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Kaiserslautern
+(Die fehlenden Links werden nach dem Lektorat ergänzt)
+[**88/1: Resolution zu finanziellen Entlastungen für Studierende**](https://file.komapedia.org/88_1.pdf)
+
+[**88/2: Resolution zur Barrierefreiheit**](https://file.komapedia.org/88_2.pdf)
+
+[**88/3: Resolution zu Energiesparmaßnahmen an Universitäten**](https://file.komapedia.org/88_3.pdf)
+
+[**88/4: Resolution zur Entlastung bedürftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/88_4.pdf)
+
+[**88/5: Resolution zur Finanzierung von Hochschulen und Studierendenwerken**](https://file.komapedia.org/88_5.pdf)
+
+[**88/6: Resolution zur Abschaffung der Beschränkung von Wiederholungsmöglichkeiten von Prüfungen**](https://file.komapedia.org/88_6.pdf)
+
+[**88/7: Resolution zur Novellierung des Sächsischen Hochschulfreiheitsgesetzes**](https://file.komapedia.org/88_7.pdf)
+
+[**88/8: Resolution zur gesetzlichen Verankerung von Studierendenschaften**](https://file.komapedia.org/88_8.pdf)
+
+### Zudem wurde sich auf der KoMa 88 folgenden Forderungen der MeTaFa per Resolution im Konsens angeschlossen
+
+[**Tarifvertrag für studentische Beschäftigte (TVStud)**](https://www.fzs.de/buendnisse-zusammenarbeit-und-mitgliedschaften/meta-tagung-der-fachschaften-metafa/forderung-tarifvertrag-fuer-studentische-beschaeftigte-tvstud-2/) [Archivlink](https://web.archive.org/web/20230522204118/https://www.fzs.de/buendnisse-zusammenarbeit-und-mitgliedschaften/meta-tagung-der-fachschaften-metafa/forderung-tarifvertrag-fuer-studentische-beschaeftigte-tvstud-2/)
+
+[**Abschaffung der Pflicht zur Angabe von Symptomen bei krankheitsbedingter Prüfungsunfähigkeit**](https://www.fzs.de/buendnisse-zusammenarbeit-und-mitgliedschaften/meta-tagung-der-fachschaften-metafa/forderung-abschaffung-der-pflicht-zur-angabe-von-symptomen-bei-krankheitsbedingter-pruefungsunfaehigkeit/) [Archivlink](https://web.archive.org/web/20230522204221/https://www.fzs.de/buendnisse-zusammenarbeit-und-mitgliedschaften/meta-tagung-der-fachschaften-metafa/forderung-abschaffung-der-pflicht-zur-angabe-von-symptomen-bei-krankheitsbedingter-pruefungsunfaehigkeit/)
+
 ## Wien
 
 [**87/1: Resolution zu finanziellen Entlastungen für Studierende**](https://file.komapedia.org/87_1.pdf)
