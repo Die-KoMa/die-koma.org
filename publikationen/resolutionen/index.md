@@ -9,7 +9,8 @@ order: 2
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
 ## Kaiserslautern
-(Die fehlenden Links werden nach dem Lektorat ergänzt)
+(Die fehlenden Linkziele werden nach dem Lektorat ergänzt.)
+
 [**88/1: Resolution zu finanziellen Entlastungen für Studierende**](https://file.komapedia.org/88_1.pdf)
 
 [**88/2: Resolution zur Barrierefreiheit**](https://file.komapedia.org/88_2.pdf)
