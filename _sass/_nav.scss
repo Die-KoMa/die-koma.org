@@ -1,10 +1,11 @@
 .site-nav {
   line-height: 24px;
+
   ul > li > ul{
     margin-left: 15px;
   }
 
-  > ul > li > label > a > span {
+  > ul > li > a {
     font-weight: bold;
   }
 
@@ -13,9 +14,6 @@
     margin: auto;
   }
 
-  label {
-    display: block;
-  }
 }
 
 @media all and (max-width: 799px){
