@@ -9,6 +9,6 @@
 {%- assign navigation = navigation | sort: 'path' -%}
 {%- assign menudepth = navigation | group_by_exp: 'item', 'item.url | remove_first: "/" | split: "/" | size' -%}
 
-<nav class="site-nav">
+<nav>
 {%- include navtree.html depth=1 parent_path="/" %}
 </nav>
