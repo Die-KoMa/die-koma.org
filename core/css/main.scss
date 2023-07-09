@@ -31,11 +31,11 @@ body {
   font-family: verdana, arial, helvetica, sans-serif;
   display: grid;
   grid-template-areas:
-    ". header header ."
-    ". sidebar content ."
-    ". footer footer .";
-  grid-template-columns: 1fr $headerLeftBar minmax(auto, 85rem) 1fr;
-  grid-template-rows: auto 1fr auto;
+    "header"
+    "navlink"
+    "content"
+    "sidebar"
+    "footer";
   font-size: calc(min(1vw, .35rem));
   min-height: 100vh;
   background-color: white;
@@ -46,32 +46,48 @@ body {
 
 main {
   grid-area: content;
-  padding: 20px;
-  padding-left: 24px;
+  padding: 1em;
   min-width: 200px;
   font-size: 1rem;
 }
 
+#navlink {
+  grid-area: navlink;
+  font-size: 1rem;
+  margin-inline: auto;
+  margin-block: 1.5em .5em;
+}
+
 nav {
   grid-area: sidebar;
-  width: 100%;
-  border-right: 1em solid;
+  text-align: center;
+  font-size: 1rem;
   > * {
     font-size: 1rem;
     line-height: 2em;
+    margin-inline: 1em;
   }
   ul li {
     list-style-type: none;
     margin-left: 0;
   }
-  li > ul {
-    margin-left: 1em;
-  }
   ul li a {
     text-decoration: none;
     color: inherit;
+    display: inline-block;
+    width:100%;
   }
   > ul > li > a {
+    font-weight: bold;
+  }
+  &::before {
+    content: "Menü";
+    display: block;
+    margin-inline: 0;
+    margin-block: 1em .5em;
+    padding: .5em;
+    background-color: #dcdcf2;
+    font-size: 1.5em;
     font-weight: bold;
   }
 }
@@ -101,9 +117,8 @@ main p {
 
 .next-koma {
   background-color: #dcdcf2;
-  padding: 10px;
-  margin-block: 10px;
-  border-radius: 15px;
+  padding: 1em;
+  border-radius: 1.5em;
 }
 
 .next-koma ul {
@@ -144,12 +159,37 @@ ol li {
 }
 
 @media (min-width: 800px) {
+  body {
+    grid-template-areas:
+      ". header header ."
+      ". sidebar content ."
+      ". footer footer .";
+    grid-template-columns: 1fr $headerLeftBar minmax(auto, 85rem) 1fr;
+    grid-template-rows: auto 1fr auto;
+  }
   .next-koma {
     float: right;
     width: 250px;
     margin-left: 10px;
+    margin-block: 10px;
   }
-  nav ul {
-    margin: 0 0 0 0.5em;
+  #navlink {
+    display: none;
+  }
+  nav {
+    width: 100%;
+    margin: 0;
+    border-right: 1em solid;
+    font-size: inherit;
+    text-align: left;
+    &::before {
+      content: unset;
+    }
+    li > ul {
+      margin-left: 1em;
+    }
+    ul {
+      margin: 0 0 0 0.5em;
+    }
   }
 }
