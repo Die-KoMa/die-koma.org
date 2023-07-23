@@ -11,19 +11,19 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 ## Kaiserslautern
 (Die fehlenden Linkziele werden nach dem Lektorat ergänzt.)
 
-[**88/1: Resolution zu finanziellen Entlastungen für Studierende**](https://file.komapedia.org/88_1.pdf)
+[**88/1: Resolution zum Lehrkräftemangel**](https://file.komapedia.org/88_1.pdf)
 
-[**88/2: Resolution zur Barrierefreiheit**](https://file.komapedia.org/88_2.pdf)
+[**88/2: Resolution zur Arbeitszeiterfassung studentischer Beschäftigter**](https://file.komapedia.org/88_2.pdf)
 
-[**88/3: Resolution zu Energiesparmaßnahmen an Universitäten**](https://file.komapedia.org/88_3.pdf)
+[**88/3: Resolution zu studentischer Armut**](https://file.komapedia.org/88_3.pdf)
 
-[**88/4: Resolution zur Entlastung bedürftiger Studierender bei der Anschaffung von Menstruationsprodukten**](https://file.komapedia.org/88_4.pdf)
+[**88/4: Resolution zur Bekanntgabe von Prüfungsterminen**](https://file.komapedia.org/88_4.pdf)
 
-[**88/5: Resolution zur Finanzierung von Hochschulen und Studierendenwerken**](https://file.komapedia.org/88_5.pdf)
+[**88/5: Resolution für ein bundesweites Semesterticket**](https://file.komapedia.org/88_5.pdf)
 
-[**88/6: Resolution zur Abschaffung der Beschränkung von Wiederholungsmöglichkeiten von Prüfungen**](https://file.komapedia.org/88_6.pdf)
+[**88/6: Resolution zur räumlichen und zeitlichen Verfügbarkeit von Wahlurnen**](https://file.komapedia.org/88_6.pdf)
 
-[**88/7: Resolution zur Novellierung des Sächsischen Hochschulfreiheitsgesetzes**](https://file.komapedia.org/88_7.pdf)
+[**88/7: Resolution zu Mentaler Gesundheit an Hochschulen**](https://file.komapedia.org/88_7.pdf)
 
 [**88/8: Resolution zur gesetzlichen Verankerung von Studierendenschaften**](https://file.komapedia.org/88_8.pdf)
 
