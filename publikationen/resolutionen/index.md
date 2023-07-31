@@ -9,7 +9,6 @@ order: 2
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
 ## Kaiserslautern
-(Die fehlenden Linkziele werden nach dem Lektorat ergänzt.)
 
 [**88/1: Resolution zum Lehrkräftemangel**](https://file.komapedia.org/88_1.pdf)
 
