@@ -26,7 +26,7 @@ order: 5
 - [ ] Zahnbürste/ Zahnpasta/ Zahnseide/ Mundspülung
 - [ ] Handtuch
 - [ ] Seife/ Deo/ Duschgel/ Shampoo/ Conditioner
-- [ ] Damenhygiene/Herrenhygiene
+- [ ] Menstruationsprodukte
 - [ ] Haartrockner
 - [ ] Taschentücher
 - [ ] Medikamente
