@@ -5,7 +5,7 @@ order: 3
 ---
 
 # Mathematisches Romméblatt (2023)
-Die Neuauflage des Kartenspielsist eingetroffen!
+Die Neuauflage des Kartenspiels ist eingetroffen!
 Verfügbar sind wieder (halbe) Romméblätter mit bekannten Mathematikern.
 Das Deckblatt ziehrt Emmy Noether und die Rückseiten sind wahlweise rot oder grün.
 Beide Varianten zusammen ergeben ein Standard Romméblatt.
