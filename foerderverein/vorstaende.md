@@ -3,6 +3,14 @@ title: Vorstände
 menutitle: Vorstände
 order: 1
 ---
+
+# 15. Vorstand ab 2023
+In den 15. Vorstand des Fördervereins der KoMa e.V. wurde am 20.05.2023 gewählt:
+   * Sebastian Uschmann (Vorsitz)
+   * Lilian Witters (stellv. Vorsitz)
+   * Jonathan Schäfer (Kassenwart)
+   * Felix Blanke
+
 # 14. Vorstand ab 2022
 In den 14. Vorstand des Fördervereins der KoMa e.V. wurde am 28.05.2022 gewählt:
    * Sebastian Uschmann (Vorsitz)
