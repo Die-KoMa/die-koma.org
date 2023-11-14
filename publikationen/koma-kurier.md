@@ -13,7 +13,7 @@ Er besteht vor allem aus Protokollen und AK-Berichten der jeweils letzten KoMa, 
 Der Kurier ist kostenlos sowohl in unserem [Wiki](https://komapedia.org/wiki/Kurier) als auch im Archiv der Deutschen Nationalbibliothek erhältlich.
 Der neueste veröffentlichte Band ist der folgende:
 
-[![KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_prev.jpg)](https://file.komapedia.org/Kurier84_OnlineVersion.pdf)
+[![KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_prev.jpg)](https://file.komapedia.org/Kurier88_OnlineVersion.pdf)
 
 (Hinweis: Aktuell werden noch Ergänzungen am Kurier vorgenommen.)
 
