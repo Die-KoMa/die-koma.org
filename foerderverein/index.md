@@ -41,9 +41,6 @@ Der Förderverein kann über folgende Postadresse erreicht werden:
 **Rathenaustr. 2**\\
 **D-07745 Jena**
 
-<!---
-**c/o {% include buero-adresse.md %}**
---->
 
 Alternativ lautet die E-Mail-Adresse des Vereins [foerderverein@die-koma.org](mailto:foerderverein@die-koma.org).
 
