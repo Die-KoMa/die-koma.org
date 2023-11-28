@@ -7,9 +7,10 @@ order: 6
 
 | Semester    | Name der KoMa            | Hochschule                   | Zeitraum              |
 |:------------|:-------------------------|:-----------------------------|:----------------------|
-| WS 2023/24  | KoMa 91                  | Uni Magdeburg                | vsl. November 2024    |
-| SS 2023     | KoMa 90                  | Uni Bonn                | vsl. 22.05.–26-05.2024     |
-| WS 2022/23  | KoMa 89                  | TU Darmstadt                 | 23.11.–27.11.2023     |
+| SS 2025     | KoMa 91 (KIF 53)         | Uni Passau                   | vsl. Sommer 2025      |
+| WS 2024/25  | KoMa 91                  | Uni Magdeburg                | vsl. November 2024    |
+| SS 2024     | KoMa 90                  | Uni Bonn                     | vsl. 22.05.–26-05.2024|
+| WS 2023/24  | KoMa 89                  | TU Darmstadt                 | 23.11.–27.11.2023     |
 | SS 2023     | KoMa 88                  | RPTU Kaiserslautern          | 17.05.–21.05.2023     |
 | WS 2022/23  | KoMa 87                  | TU Wien                      | 29.10.–02.11.2022     |
 | SS 2022     | KoMa 86                  | FSU Jena                     | 25.05.–29.05.2022     |
@@ -23,11 +24,11 @@ order: 6
 | WS 2018/19  | KoMa 83                  | Fau Erlangen                 | 31.10.–04.11.2018     |
 | SS 2018     | KoMa 82                  | HU Berlin                    | 30.05.–03.06.2018     |
 | WS 2017/18  | KoMa 81                  | TU Wien                      | 01.11.–05.11.2017     |
-| SS 2017     | KoMa 80                  | OTH Regensburg               | 14.06.–18.06.2017     |
+| SS 2017     | KoMa 80 (KIF 45)         | OTH Regensburg               | 14.06.–18.06.2017     |
 | WS 2016/17  | KoMa 79                  | TU Dortmund                  | 02.11.–06.11.2016     |
 | SS 2016     | KoMa 78                  | Uni Heidelberg               | 25.05.–29.05.2016     |
 | WS 2015/16  | KoMa 77                  | TU Ilmenau                   | 18.11.–22.11.2015     |
-| SS 2015     | KoMa 76                  | RWTH Aachen                  | 27.05.–31.05.2015     |
+| SS 2015     | KoMa 76 (KIF 43 + ZaPf)  | RWTH Aachen                  | 27.05.–31.05.2015     |
 | WS 2014/15  | KoMa 75                  | Uni Lübeck                   | 22.10.–26.10.2014     |
 | SS 2014     | KoMa 74                  | HU Berlin                    | 28.05.–01.06.2014     |
 | WS 2013/14  | KoMa 73                  | TU Chemnitz                  | 30.10.–03.11.2013     |
