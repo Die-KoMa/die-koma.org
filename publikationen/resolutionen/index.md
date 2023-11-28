@@ -14,15 +14,15 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ### originäre Resolutionen der KoMa 89
 
-[**89/1: Resolution zu fairen Prüfungsan- und Abmeldebedingungen**](https://file.komapedia.org/89_1.pdf)
+[**89/1: Resolution zu fairen Prüfungsan- und Abmeldebedingungen** (Linkziel fehlt)](https://file.komapedia.org/89_1.pdf)
 
-[**89/2: Resolution gegen Pflichtanmeldung zu Nachprüfungen**](https://file.komapedia.org/89_2.pdf)
+[**89/2: Resolution gegen Pflichtanmeldung zu Nachprüfungen** (Linkziel fehlt)](https://file.komapedia.org/89_2.pdf)
 
-[**89/3: Resolution zur Gestaltung inklusiver Lehrveranstaltungen**](https://file.komapedia.org/89_3.pdf)
+[**89/3: Resolution zur Gestaltung inklusiver Lehrveranstaltungen** (Linkziel fehlt)](https://file.komapedia.org/89_3.pdf)
 
-[**89/4: Resolution zu Ruheräumen**](https://file.komapedia.org/89_4.pdf)
+[**89/4: Resolution zu Ruheräumen** (Linkziel fehlt)](https://file.komapedia.org/89_4.pdf)
 
-[**89/5: Resolution zu barriefreien Gebäuden**](https://file.komapedia.org/89_5.pdf)
+[**89/5: Resolution zu barriefreien Gebäuden** (Linkziel fehlt)](https://file.komapedia.org/89_5.pdf)
 
 ### Zudem wurde sich auf der KoMa 89 folgenden Forderungen per Resolution im Konsens angeschlossen
 
@@ -30,7 +30,7 @@ Aufgrund der beständigen Aktualität der Problematik wurden im Konsens beschlos
 
 [**88/5: Resolution für ein bundesweites Semesterticket**](https://file.komapedia.org/88_5.pdf)
 
-[**ZaPF: Resolution zum Deutschlandticket**]()
+**ZaPF: Resolution zum Deutschlandticket** (link fehlt) 
 
 
 ## Kaiserslautern
