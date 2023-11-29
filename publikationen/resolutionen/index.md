@@ -14,15 +14,15 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ### originäre Resolutionen der KoMa 89
 
-[**89/1: Resolution zu fairen Prüfungsan- und Abmeldebedingungen** (Linkziel fehlt)](https://file.komapedia.org/89_1.pdf)
+**89/1: Resolution zu fairen Prüfungsan- und Abmeldebedingungen** (Link fehlt)
 
-[**89/2: Resolution gegen Pflichtanmeldung zu Nachprüfungen** (Linkziel fehlt)](https://file.komapedia.org/89_2.pdf)
+**89/2: Resolution gegen Pflichtanmeldung zu Nachprüfungen** (Link fehlt)
 
-[**89/3: Resolution zur Gestaltung inklusiver Lehrveranstaltungen** (Linkziel fehlt)](https://file.komapedia.org/89_3.pdf)
+**89/3: Resolution zur Gestaltung inklusiver Lehrveranstaltungen** (Link fehlt)
 
-[**89/4: Resolution zu Ruheräumen** (Linkziel fehlt)](https://file.komapedia.org/89_4.pdf)
+**89/4: Resolution zu Ruheräumen** (Link fehlt)
 
-[**89/5: Resolution zu barriefreien Gebäuden** (Linkziel fehlt)](https://file.komapedia.org/89_5.pdf)
+**89/5: Resolution zu barriefreien Gebäuden** (Link fehlt)
 
 ### Zudem wurde sich auf der KoMa 89 folgenden Forderungen per Resolution im Konsens angeschlossen
 
