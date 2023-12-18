@@ -14,6 +14,8 @@ Beide Varianten zusammen ergeben ein Standard Romméblatt.
 
 ## Bestellung und Versand
 Die Bestellung des (halben) Romméblattes (2023) erfolgt über das KoMa-Büro per [Mail](mailto:buero@die-koma.org).
+Das Blatt kostet kostet **3,00€** pro Stück.
+
 Bitte gib ggf. Wünsche bzgl. der Rückseitenfarben an.
 Falls keine Wünsche geäußert werden, wählen wir die Rückseiten etwa Hälfte rot, Hälfte grün.
 Die Zahlung erfolgt per Rechnung auf das Konto des Fördervereins der KoMa e.V. (Auf einer KoMa auch in bar möglich).
