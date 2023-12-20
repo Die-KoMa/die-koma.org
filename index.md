@@ -6,16 +6,14 @@ order: 1
 
 # News
 
-Gute Neuigkeiten!
+Die [KoMa 89](https://komapedia.org/wiki/KoMa_89) hat vom 23. bis 27. November 2023 in Darmstadt stattgefunden. Verabschiedete [Resolutionen](./publikationen/resolutionen) werden in Kürze veröffentlicht werden.
 
-Die [KoMa 88](https://komapedia.org/wiki/KoMa_88) in Kaiserslautern hat vom 17. bis zum 21. Mai stattgefunden, verabschiedete [Resolutionen](./publikationen/resolutionen) werden in Kürze veröffentlicht werden.
-
-Im kommenden Wintersemester wird die [89. KoMa](https://www.koma89.tu-darmstadt.de/) vom 23. bis 27. November in Darmstadt stattfinden.
-
-Bitte denkt daran, in der [KoMaPedia](./KoMaPedia) schon im Vorhinein Arbeitskreise anzumelden.
+Im kommenden Sommersemester wird die 90. KoMa in Bonn stattfinden.
+Bitte denkt daran, in der [KoMaPedia](https://komapedia.org/wiki/KoMa_90) schon im Vorhinein Arbeitskreise anzumelden.
 Ihr gebt damit der Orga Planungssicherheit und anderen Fachschaften die Möglichkeit, passende Informationen zu sammeln und sich vorher zu besprechen.
 
-Wir freuen uns auf euch! <3
+Außerdem können wieder [Kartenspiele](./publikationen/kartenspiel/) bestellt werden.
+
 
 # Was ist die KoMa?
 

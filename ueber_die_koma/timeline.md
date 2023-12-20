@@ -8,7 +8,7 @@ order: 6
 | Semester    | Name der KoMa            | Hochschule                   | Zeitraum              |
 |:------------|:-------------------------|:-----------------------------|:----------------------|
 | SS 2025     | KoMa 92 (KIF 53)         | Uni Passau                   | vsl. Sommer 2025      |
-| WS 2024/25  | KoMa 91                  | Uni Magdeburg                | vsl. November 2024    |
+| WS 2024/25  | KoMa 91                  | Uni Magdeburg                | vsl. 30.10.–03.11.2024|
 | SS 2024     | KoMa 90                  | Uni Bonn                     | vsl. 22.05.–26-05.2024|
 | WS 2023/24  | KoMa 89                  | TU Darmstadt                 | 23.11.–27.11.2023     |
 | SS 2023     | KoMa 88                  | RPTU Kaiserslautern          | 17.05.–21.05.2023     |
