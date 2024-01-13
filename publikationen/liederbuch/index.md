@@ -11,3 +11,15 @@ Traditionell findet auf der KoMa der AK Pella statt. Dieser hat sich der Aufgabe
 ## Liederbuch
 
 [Download](https://file.komapedia.org/KoMa-Liederbuch.pdf) (Stand: 29. Mai 2022)
+
+## Einzellieder
+<ul>
+{% for item in site.pages %}
+    {% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
+    {% if item_crumbs.size == 1  %}
+    <li>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>
