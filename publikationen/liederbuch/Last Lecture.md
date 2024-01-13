@@ -37,13 +37,3 @@ title: Last Lecture
 > And maybe the reader will not find it at all.\
 > Let's see if it will stay unrecognized\
 > And I will pass the course with it.
-
-::: {.section .footnotes role="doc-endnotes"}
-
-------------------------------------------------------------------------
-
-1.  ::: {#fn1}
-    Abkürzung für "(Wissenschaftlicher)
-    Assistent"[↩︎](#fnref1){.footnote-back}
-    :::
-:::
