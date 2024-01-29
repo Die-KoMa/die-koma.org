@@ -1,0 +1,38 @@
+---
+import Footer from '@components/Footer.astro'
+import Header from '@components/Header.astro'
+import Menu from '@components/Menu.astro'
+import Test from '@components/Test.astro'
+---
+
+<html lang="de">
+  <meta charset="utf-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="shortcut icon" href="/static/favicon.ico" />
+  <meta name="viewport" content="width=device-width" />
+  <meta name="generator" content={Astro.generator} />
+  <title>KoMa</title>
+
+  <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100">
+    <div class="z-10">
+      <Header />
+    </div>
+
+    <div class="z-10 row-start-3">
+      <Footer />
+    </div>
+
+    <div class="flex justify-self-center">
+      <nav id="nav" class="fixed -left-80 min-h-full w-80 px-6 py-8 leading-snug md:static">
+        <Menu />
+      </nav>
+
+      <div
+        class="prose prose-teal max-w-[70ch] hyphens-auto bg-slate-50 px-4 py-8 shadow prose-a:text-teal-700 md:px-8"
+      >
+        <button class="md:hidden">Open Menu</button>
+        <Test />
+      </div>
+    </div>
+  </body>
+</html>
