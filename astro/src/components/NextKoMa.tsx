@@ -1,6 +1,7 @@
-import { useState, useRef, useEffect } from 'react'
-const url =
-  'https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E2024-01-20]]|sort=KoMaNr|order=asc|limit=2|?Ort|?Beginn|?Ende'
+import { useState, useEffect } from 'react'
+
+const [isoDate] = new Date().toISOString().split('T')
+const url = `https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E${isoDate}]]|sort=KoMaNr|order=asc|limit=2|?Ort|?Beginn|?Ende`
 
 type KoMa = {
   name: string
