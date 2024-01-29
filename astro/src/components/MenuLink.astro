@@ -1,0 +1,16 @@
+---
+const { href, depth = '0', active = false } = Astro.props
+let pl = ''
+if (depth === '0') pl = 'pl-4'
+if (depth === '1') pl = 'pl-8'
+---
+
+<li>
+  <a
+    class=`block break-normal font-semibold text-slate-600 border-l-4 border-slate-200 py-2 ${pl} hover:text-teal-500 hover:border-teal-500 ${active === "true" ? "text-teal-800 border-teal-600" :""}`
+    href={href}
+  >
+    <slot />
+  </a>
+  <slot name="subpages" />
+</li>

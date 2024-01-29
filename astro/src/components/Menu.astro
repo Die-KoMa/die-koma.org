@@ -1,0 +1,53 @@
+---
+import MenuLink from '@components/MenuLink.astro'
+---
+
+<ul>
+  <MenuLink active="true" href="/">More and more and more and more and more News</MenuLink>
+  <MenuLink href="/kommunikation/">
+    Kommunikation
+    <ul slot="subpages">
+      <MenuLink depth="1" href="/kommunikation/koma-buero/">KoMa-Büro</MenuLink>
+      <MenuLink depth="1" href="/kommunikation/koma-kurier/">KoMa-Kurier</MenuLink>
+      <MenuLink depth="1" href="/kommunikation/mailinglisten/">Mailinglisten</MenuLink>
+    </ul>
+  </MenuLink>
+  <MenuLink href="/ueber_die_koma/">
+    Über die KoMa
+    <ul slot="subpages">
+      <MenuLink depth="1" href="/ueber_die_koma/neulinge/">Neulinge</MenuLink>
+      <MenuLink depth="1" href="/ueber_die_koma/koma-faq/">KoMa-FAQ</MenuLink>
+      <MenuLink depth="1" href="/ueber_die_koma/koma-abc/">KoMa-ABC</MenuLink>
+      <MenuLink depth="1" href="/ueber_die_koma/packliste/">Packliste</MenuLink>
+      <MenuLink depth="1" href="/ueber_die_koma/timeline/">Timeline</MenuLink>
+    </ul>
+  </MenuLink>
+  <MenuLink href="/foerderverein/">
+    Förderverein
+    <ul slot="subpages">
+      <MenuLink depth="1" href="/foerderverein/vorstaende/">Vorstände</MenuLink>
+    </ul>
+  </MenuLink>
+  <MenuLink href="/publikationen/">
+    Publikationen
+    <ul slot="subpages">
+      <MenuLink depth="1" href="/publikationen/koma-kurier/">KoMa-Kurier</MenuLink>
+      <MenuLink depth="1" href="/publikationen/resolutionen/">Resolutionen</MenuLink>
+      <MenuLink depth="1" href="/publikationen/kartenspiel/">Kartenspiel</MenuLink>
+      <MenuLink depth="1" href="/publikationen/minimalstandards/">Minimalstandard</MenuLink>
+      <MenuLink depth="1" href="/publikationen/neulingsheft/">Neulingsheft</MenuLink>
+      <MenuLink depth="1" href="/publikationen/berufungshandbuch/">Berufungshandbuch</MenuLink>
+      <MenuLink depth="1" href="/publikationen/koma-buch/">KoMa-Buch</MenuLink>
+      <MenuLink depth="1" href="/publikationen/liederbuch/">Liederbuch</MenuLink>
+      <MenuLink depth="1" href="/publikationen/meine_kleine_uni/">Meine kleine Uni</MenuLink>
+    </ul>
+  </MenuLink>
+  <MenuLink href="https://www.komapedia.org">KoMaPedia</MenuLink>
+  <MenuLink href="/archiv/">
+    Archiv
+    <ul slot="subpages">
+      <MenuLink depth="1" href="/archiv/kartenspiel/">Kartenspiel</MenuLink>
+      <MenuLink depth="1" href="/archiv/jahr_der_mathematik/">Jahr der Mathematik</MenuLink>
+    </ul>
+  </MenuLink>
+</ul>
