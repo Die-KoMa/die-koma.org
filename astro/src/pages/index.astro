@@ -14,23 +14,26 @@ import Test from '@components/Test.astro'
   <title>KoMa</title>
 
   <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100">
-    <div class="z-10">
+    <div class="z-10 print:hidden">
       <Header />
     </div>
 
-    <div class="z-10 row-start-3">
+    <div class="z-10 row-start-3 print:hidden">
       <Footer />
     </div>
 
     <div class="flex justify-self-center">
-      <nav id="nav" class="fixed -left-80 min-h-full w-80 px-6 py-8 leading-snug md:static">
+      <nav
+        id="nav"
+        class="fixed -left-80 min-h-full w-80 px-6 py-8 leading-snug md:static print:hidden"
+      >
         <Menu />
       </nav>
 
       <div
-        class="prose prose-teal max-w-[70ch] hyphens-auto bg-slate-50 px-4 py-8 shadow prose-a:text-teal-700 md:px-8"
+        class="prose prose-teal max-w-[70ch] hyphens-auto bg-slate-50 px-4 py-8 shadow prose-a:text-teal-700 md:px-8 print:shadow-none"
       >
-        <button class="md:hidden">Open Menu</button>
+        <button class="md:hidden print:hidden">Open Menu</button>
         <Test />
       </div>
     </div>

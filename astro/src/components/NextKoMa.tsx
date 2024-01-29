@@ -84,7 +84,7 @@ export default function NextKoMa() {
         <h1 className="px-2 pb-1 text-sm font-bold uppercase tracking-wide text-zinc-500">
           Termine
         </h1>
-        <div className=" relative z-10 h-4 w-full bg-gradient-to-b from-orange-100"></div>
+        <div className=" relative z-10 h-4 w-full bg-gradient-to-b from-orange-100 print:invisible"></div>
         <ul className="relative -top-4 h-full overflow-y-auto px-2 pb-2">
           {komata.map((koma) => {
             const { name, url, location, start, end } = koma
@@ -101,7 +101,7 @@ export default function NextKoMa() {
             )
           })}
         </ul>
-        <div className=" relative -top-10 z-10 h-6 w-full bg-gradient-to-t from-orange-100"></div>
+        <div className=" relative -top-10 z-10 h-6 w-full bg-gradient-to-t from-orange-100 print:invisible"></div>
       </div>
     </div>
   )
