@@ -1,7 +1,6 @@
 {
   "headwind.runOnSave": true,
   "prettier.requireConfig": true,
-  "prettier.configPath": ".prettierrc",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true
 }

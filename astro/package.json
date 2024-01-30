@@ -26,5 +26,16 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10"
+  },
+  "prettier": {
+    "useTabs": false,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": false,
+    "printWidth": 100,
+    "plugins": [
+      "prettier-plugin-astro",
+      "prettier-plugin-tailwindcss"
+    ]
   }
 }
