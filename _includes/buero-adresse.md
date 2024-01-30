@@ -7,7 +7,7 @@ Haus 28, Raum 0.085 \\
 D-14476 Golm
 -->
 
-KoMa Büro
+KoMa Büro \\
 c/o Fachschaft Mathematik\\
 Endenicher Allee 60\\
 D-53115 Bonn
