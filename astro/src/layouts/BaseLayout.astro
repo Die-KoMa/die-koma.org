@@ -31,10 +31,6 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
       <Header />
     </div>
 
-    <div class="z-10 row-start-3 print:hidden">
-      <Footer />
-    </div>
-
     <div class="flex justify-self-center">
       <nav
         id="menu"
@@ -68,6 +64,10 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
         </button>
         <slot />
       </div>
+    </div>
+
+    <div class="z-10 print:hidden">
+      <Footer />
     </div>
   </body>
 </html>
