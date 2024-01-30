@@ -1,74 +1,62 @@
 ---
-import Footer from '@components/Footer.astro'
-import Header from '@components/Header.astro'
-import Menu from '@components/Menu.astro'
-import Test from '@components/Test.astro'
-import KoMaLogo from '@components/KoMaLogo.astro'
-import Bars3 from 'astro-heroicons/outline/Bars3.astro'
-import XMark from 'astro-heroicons/outline/XMark.astro'
+import BaseLayout from '@layouts/BaseLayout.astro'
+import NextKoMa from '@components/NextKoMa.tsx'
 ---
 
-<html class="no-theme" lang="de">
-  <meta charset="utf-8" />
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <meta name="viewport" content="width=device-width" />
-  <meta name="generator" content={Astro.generator} />
-  <title>KoMa</title>
+<BaseLayout>
+  <NextKoMa client:load />
 
-  <script is:inline>
-    {
-      const theme = localStorage.getItem('theme')
-      if (theme != null) {
-        document.documentElement.classList.remove('no-theme')
-        if (theme == 'dark') {
-          document.documentElement.classList.add('dark')
-        }
-      }
-    }
-  </script>
+  <main class="">
+    <h1 id="news">News</h1>
 
-  <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100 dark:bg-slate-800">
-    <div class="z-10 print:hidden">
-      <Header />
-    </div>
+    <p>Gute Neuigkeiten!</p>
 
-    <div class="z-10 row-start-3 print:hidden">
-      <Footer />
-    </div>
+    <p>
+      Die <a href="https://komapedia.org/wiki/KoMa_88">KoMa 88</a> in Kaiserslautern hat vom 17. bis
+      zum 21. Mai stattgefunden, verabschiedete <a href="./publikationen/resolutionen"
+        >Resolutionen</a
+      > werden in Kürze veröffentlicht werden.
+    </p>
 
-    <div class="flex justify-self-center">
-      <nav
-        id="menu"
-        class="fixed -left-80 top-0 z-20 h-full w-80 overflow-y-auto bg-slate-100 px-6 py-4 leading-snug shadow focus:left-0 has-[:focus]:left-0 md:static md:bg-transparent md:py-8 md:shadow-none print:hidden"
-      >
-        <div class="flex justify-between pb-4 pt-1 md:hidden">
-          <KoMaLogo className="h-8 self-center fill-teal-900" />
-          <button
-            type="button"
-            id="menuClose"
-            class="size-12 self-center rounded-xl bg-slate-100 shadow"
-            onclick="this.blur()"
-            aria-label="Menü schließen"
-          >
-            <XMark class="stroke-teal-700 p-2" />
-          </button>
-        </div>
-        <Menu />
-      </nav>
+    <p>
+      Im kommenden Wintersemester wird die <a href="https://www.koma89.tu-darmstadt.de/">89. KoMa</a
+      > vom 23. bis 27. November in Darmstadt stattfinden.
+    </p>
 
-      <div
-        class="prose prose-teal max-w-[70ch] hyphens-auto bg-slate-50 px-4 py-8 shadow prose-a:text-teal-700 md:px-8 print:shadow-none"
-      >
-        <button
-          type="button"
-          class="size-12 rounded-xl bg-slate-100 shadow md:hidden print:hidden"
-          onclick="menuClose.focus()"
-          aria-label="Menü öffnen"
-        >
-          <Bars3 class="stroke-teal-700 p-2" />
-        </button>
-        <Test />
-      </div>
-    </div>
-  </body>
-</html>
+    <p>
+      Bitte denkt daran, in der <a href="./KoMaPedia">KoMaPedia</a> schon im Vorhinein Arbeitskreise
+      anzumelden. Ihr gebt damit der Orga Planungssicherheit und anderen Fachschaften die Möglichkeit,
+      passende Informationen zu sammeln und sich vorher zu besprechen.
+    </p>
+
+    <p>Wir freuen uns auf euch! &lt;3</p>
+
+    <h1 id="was-ist-die-koma">Was ist die KoMa?</h1>
+
+    <p>
+      Ganz kurz: Einmal im Semester treffen sich Fachschaftsvertreter*innen und Studierende
+      mathematischer Studiengänge aus Deutschland, Österreich und der Schweiz zur KoMa. Ziel ist der
+      Austausch von Informationen und Erfahrungen sowie die Bildung von Kontakten zwischen den
+      Hochschulen. Arbeitskreise (AKs) behandeln fachliche aber auch allgemeinpolitische oder
+      kulturelle Themen. Darüber hinaus gibt es auf der KoMa aber auch immer viel Spaß. Neben diesen
+      Treffen gibt es Zwischentreffen der AKs sowie einen ganzjährigen Informationsaustausch über
+      E-Mail und postwendend durch den KoMa-Kurier sowie auch über das WWW.
+    </p>
+
+    <p>
+      Detailliertere Informationen darüber, was die KoMa ist, finden sich in der Kategorie „<a
+        href="./ueber_die_koma/">Über die KoMa</a
+      >“, insbesondere im <a href="./publikationen/neulingsheft/">Neulingsheft</a>. Bisherige
+      Arbeiten der KoMa sind in der Kategorie in der „<a href="./KoMaPedia/">KoMaPedia</a>“ und im „<a
+        href="./publikationen/koma-kurier/">KoMa-Kurier</a
+      >“ zu finden.
+    </p>
+
+    <h1 id="neue-besetzung-des-koma-büros">Neue Besetzung des KoMa-Büros</h1>
+    <p>
+      Das KoMa-Büro ist kürzlich von Potsdam nach Bonn umgezogen. Weitere Informationen finden sich <a
+        href="./kommunikation/koma-buero/">hier</a
+      >.
+    </p>
+  </main>
+</BaseLayout>
