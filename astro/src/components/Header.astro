@@ -1,16 +1,12 @@
 ---
-
+import KoMaLogo from './KoMaLogo.astro'
 ---
 
 <header
   class="flex h-fit border-t-8 border-teal-600 bg-gradient-to-tr from-slate-200 to-cyan-100 shadow shadow-slate-300"
 >
   <a class="p-2" aria-label="KoMa" href="/">
-    <svg class="h-8 fill-teal-900" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 132">
-      <path
-        d="M 204.7,85 217.2,60 H 234 v 72 h -8 V 68 h -5.8 l -21.7,44.5 c -1.6,3.3 -6.3,3.3 -8,0 L 167.8,68 H 152 V 17 l -15.5,31 c -1.7,3.3 -7.4,3.3 -9,0 L 112,17 V 56 H 96 c 11.5,13.6 2.4,36 -17,36 H 48 L 8,52 v 80 H 0 V 22 H 8 V 36 L 44,0 H 54 L 10,44 50,84 H 62 C 50.7,70.7 59.6,48 79,48 h 26 V 0 h 6.5 L 132,42 153.5,0 h 6.5 v 60 h 11.8 l 12.5,25 z m -16.9,7 6.7,13.5 6.7,-13.5 z M 79,56 c -6,0 -14,4 -14,14 0,6 4,14 14,14 6,0 14,-4 14,-14 0,-6 -4,-14 -14,-14"
-      ></path>
-    </svg>
+    <KoMaLogo className="h-8 fill-teal-900" />
   </a>
   <h1 class="hidden font-semibold uppercase tracking-wider text-teal-800 md:inline">
     Konferenz der deutschsprachigen <br /> Mathematikfachschaften
