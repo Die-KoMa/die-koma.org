@@ -1,0 +1,73 @@
+---
+import Footer from '@components/Footer.astro'
+import Header from '@components/Header.astro'
+import Menu from '@components/Menu.astro'
+import KoMaLogo from '@components/KoMaLogo.astro'
+import Bars3 from 'astro-heroicons/outline/Bars3.astro'
+import XMark from 'astro-heroicons/outline/XMark.astro'
+---
+
+<html class="no-theme" lang="de">
+  <meta charset="utf-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width" />
+  <meta name="generator" content={Astro.generator} />
+  <title>KoMa</title>
+
+  <script is:inline>
+    {
+      const theme = localStorage.getItem('theme')
+      if (theme != null) {
+        document.documentElement.classList.remove('no-theme')
+        if (theme == 'dark') {
+          document.documentElement.classList.add('dark')
+        }
+      }
+    }
+  </script>
+
+  <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100 dark:bg-slate-800">
+    <div class="z-10 print:hidden">
+      <Header />
+    </div>
+
+    <div class="z-10 row-start-3 print:hidden">
+      <Footer />
+    </div>
+
+    <div class="flex justify-self-center">
+      <nav
+        id="menu"
+        class="fixed -left-80 top-0 z-20 h-full w-80 overflow-y-auto bg-slate-100 px-6 py-4 leading-snug shadow focus:left-0 has-[:focus]:left-0 md:static md:bg-transparent md:py-8 md:shadow-none print:hidden"
+      >
+        <div class="flex justify-between pb-4 pt-1 md:hidden">
+          <KoMaLogo className="h-8 self-center fill-teal-900" />
+          <button
+            type="button"
+            id="menuClose"
+            class="size-12 self-center rounded-xl bg-slate-100 shadow"
+            onclick="this.blur()"
+            aria-label="Menü schließen"
+          >
+            <XMark class="stroke-teal-700 p-2" />
+          </button>
+        </div>
+        <Menu />
+      </nav>
+
+      <div
+        class="prose prose-teal max-w-[70ch] hyphens-auto bg-slate-50 px-4 py-8 shadow prose-a:text-teal-700 md:px-8 print:shadow-none"
+      >
+        <button
+          type="button"
+          class="size-12 rounded-xl bg-slate-100 shadow md:hidden print:hidden"
+          onclick="menuClose.focus()"
+          aria-label="Menü öffnen"
+        >
+          <Bars3 class="stroke-teal-700 p-2" />
+        </button>
+        <slot />
+      </div>
+    </div>
+  </body>
+</html>
