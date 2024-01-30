@@ -81,11 +81,11 @@ export default function NextKoMa() {
 
   return (
     <div className="not-prose float-right size-fit p-2 pr-0">
-      <div className="h-44 w-60 rounded-md bg-orange-50 p-3 pb-6 pt-5 leading-5 text-zinc-600 shadow-md md:w-64 md:px-4 md:pb-6">
+      <div className=" h-44 w-60 rounded-md border-2 border-orange-200 bg-orange-50 p-3 pb-6 pt-5 leading-5 text-zinc-600 shadow-inner shadow-zinc-300 md:w-64 md:px-4 md:pb-6 dark:border-orange-900 dark:bg-orange-950 dark:text-zinc-400 dark:shadow-zinc-900">
         <h1 className="px-2 pb-1 text-sm font-bold uppercase tracking-wide text-zinc-500">
           Termine
         </h1>
-        <div className="relative z-10 h-4 w-full bg-gradient-to-b from-orange-50 print:invisible"></div>
+        <div className="relative z-10 h-4 w-full bg-gradient-to-b from-inherit print:invisible"></div>
         <ul className="relative -top-4 h-full overflow-y-auto px-2 pb-2">
           <noscript>
             <div className="pt-4">
@@ -110,7 +110,7 @@ export default function NextKoMa() {
             )
           })}
         </ul>
-        <div className="relative -top-10 z-10 h-6 w-full bg-gradient-to-t from-orange-50 print:invisible"></div>
+        <div className="relative -top-10 z-10 h-6 w-full bg-gradient-to-t from-inherit print:invisible"></div>
       </div>
     </div>
   )
