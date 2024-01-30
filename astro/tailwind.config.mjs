@@ -4,5 +4,6 @@ export default {
   theme: {
     extend: {},
   },
+  darkMode: ['variant', ['@media(prefers-color-scheme: dark) {.no-theme &}', '.dark &']],
   plugins: [require('@tailwindcss/typography')],
 }
