@@ -2,5 +2,8 @@
   "headwind.runOnSave": true,
   "prettier.requireConfig": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "bounded",
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 120
 }
