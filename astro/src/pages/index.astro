@@ -8,14 +8,26 @@ import Bars3 from 'astro-heroicons/outline/Bars3.astro'
 import XMark from 'astro-heroicons/outline/XMark.astro'
 ---
 
-<html lang="de">
+<html class="no-theme" lang="de">
   <meta charset="utf-8" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <meta name="viewport" content="width=device-width" />
   <meta name="generator" content={Astro.generator} />
   <title>KoMa</title>
 
-  <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100">
+  <script is:inline>
+    {
+      const theme = localStorage.getItem('theme')
+      if (theme != null) {
+        document.documentElement.classList.remove('no-theme')
+        if (theme == 'dark') {
+          document.documentElement.classList.add('dark')
+        }
+      }
+    }
+  </script>
+
+  <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100 dark:bg-slate-800">
     <div class="z-10 print:hidden">
       <Header />
     </div>

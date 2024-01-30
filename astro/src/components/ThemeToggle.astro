@@ -1,0 +1,23 @@
+---
+import Moon from 'astro-heroicons/outline/Moon.astro'
+import Sun from 'astro-heroicons/outline/Sun.astro'
+---
+
+<div {...Astro.props}>
+  <button
+    type="button"
+    class="size-[inherit] self-center rounded-xl bg-slate-100 shadow dark:hidden"
+    onclick="document.documentElement.classList.remove('no-theme'); document.documentElement.classList.add('dark'); localStorage.setItem('theme', 'dark')"
+    aria-label="zum Darktheme wechseln"
+  >
+    <Moon class="size-[inherit] stroke-teal-700 p-2" />
+  </button>
+  <button
+    type="button"
+    class="hidden size-[inherit] self-center rounded-xl bg-slate-100 shadow dark:inline-block"
+    onclick="document.documentElement.classList.remove('no-theme'); document.documentElement.classList.remove('dark'); localStorage.setItem('theme', 'light')"
+    aria-label="zum Lighttheme wechseln"
+  >
+    <Sun class="size-[inherit] stroke-teal-700 p-2" />
+  </button>
+</div>
