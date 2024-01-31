@@ -81,8 +81,8 @@ export default function NextKoMa() {
 
   return (
     <div className="not-prose float-right size-fit p-2 pr-0">
-      <div className=" h-44 w-60 rounded-md border-2 border-orange-200 bg-orange-50 p-3 pb-6 pt-5 leading-5 text-zinc-600 shadow-inner shadow-zinc-300 md:w-64 md:px-4 md:pb-6 dark:border-orange-900 dark:bg-orange-950 dark:text-zinc-400 dark:shadow-zinc-900">
-        <h1 className="px-2 pb-1 text-sm font-bold uppercase tracking-wide text-zinc-500">
+      <div className=" h-44 w-60 rounded-md border-2 border-orange-200 bg-orange-50 p-3 pb-6 pt-5 leading-5 text-zinc-600 shadow-inner shadow-zinc-300 md:w-64 md:px-4 md:pb-6 dark:border-orange-900 dark:bg-orange-950 dark:text-zinc-300 dark:shadow-zinc-900">
+        <h1 className="px-2 pb-1 text-sm font-bold uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
           Termine
         </h1>
         <div className="relative z-10 h-4 w-full bg-gradient-to-b from-inherit print:invisible"></div>
@@ -100,11 +100,11 @@ export default function NextKoMa() {
             return (
               <li key={name} className="pb-2">
                 <a href={url}>
-                  <span className="block pb-1 pt-3 text-xs font-bold tracking-wider text-zinc-500">
+                  <span className="block pb-1 pt-3 text-xs font-bold tracking-wider text-zinc-500 dark:text-zinc-400">
                     {formatDateRange(start, end)}
                   </span>
                   <span> {name} in </span>
-                  <span className="font-semibold text-zinc-500">{location}</span>
+                  <span className="font-semibold text-zinc-500 dark:text-zinc-400">{location}</span>
                 </a>
               </li>
             )
