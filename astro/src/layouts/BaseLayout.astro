@@ -34,21 +34,29 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
     <div class="flex justify-self-center">
       <nav
         id="menu"
-        class="fixed -left-80 top-0 z-20 h-full w-72 overflow-y-auto bg-slate-100 px-6 py-4 leading-snug shadow-2xl focus:left-0 has-[:focus]:left-0 md:static md:bg-transparent md:py-8 md:pl-2 md:shadow-none dark:bg-slate-900 dark:md:bg-transparent print:hidden"
+        class="fixed inset-0 z-20 hidden w-full aria-expanded:block md:static md:block md:w-fit print:hidden"
       >
-        <div class="flex justify-between pb-4 pt-1 md:hidden">
-          <KoMaLogo className="h-8 self-center fill-teal-900 dark:fill-teal-300" />
-          <button
-            type="button"
-            id="menuClose"
-            class="size-12 self-center rounded-xl bg-slate-100 shadow dark:bg-slate-600"
-            onclick="this.blur()"
-            aria-label="Menü schließen"
-          >
-            <XMark class="stroke-teal-700 p-2 dark:stroke-teal-300" />
-          </button>
+        <div
+          class="absolute inset-0 -z-10 bg-slate-50/50 backdrop-blur-sm md:hidden dark:bg-slate-950/50"
+        >
         </div>
-        <Menu />
+        <div
+          class="h-full w-72 overflow-y-auto bg-slate-100 px-6 py-4 leading-snug shadow-2xl md:bg-transparent md:py-8 md:pl-2 md:shadow-none dark:bg-slate-900 dark:md:bg-transparent"
+        >
+          <div class="flex justify-between pb-4 pt-1 md:hidden">
+            <KoMaLogo className="h-8 self-center fill-teal-900 dark:fill-teal-300" />
+            <button
+              type="button"
+              id="menuClose"
+              class="size-12 self-center rounded-xl bg-slate-100 shadow dark:bg-slate-600"
+              onclick="menu.ariaExpanded='false'"
+              aria-label="Menü schließen"
+            >
+              <XMark class="size-[inherit] stroke-teal-700 p-2 dark:stroke-teal-300" />
+            </button>
+          </div>
+          <Menu />
+        </div>
       </nav>
 
       <div
@@ -57,7 +65,7 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
         <button
           type="button"
           class="size-12 rounded-xl bg-slate-100 shadow md:hidden dark:bg-slate-800 print:hidden"
-          onclick="menuClose.focus()"
+          onclick="menu.ariaExpanded='true'"
           aria-label="Menü öffnen"
         >
           <Bars3 class="size-[inherit] stroke-teal-700 p-2 dark:stroke-teal-300" />
