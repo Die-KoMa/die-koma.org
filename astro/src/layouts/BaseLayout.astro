@@ -1,11 +1,9 @@
 ---
-import Footer from '@components/Footer.astro'
-import Header from '@components/Header.astro'
-import Menu from '@components/Menu.astro'
-import KoMaLogo from '@components/KoMaLogo.astro'
 import Bars3 from 'astro-heroicons/outline/Bars3.astro'
+import Footer from '@components/Footer.astro'
+import KoMaLogo from '@components/KoMaLogo.astro'
+import Menu from '@components/Menu.astro'
 import ThemeToggle from '@components/ThemeToggle.astro'
-import XMark from 'astro-heroicons/outline/XMark.astro'
 ---
 
 <html class="no-theme" lang="de">
@@ -25,15 +23,34 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
         }
       }
     }
+    const toggleMenu = () => {
+      if (menu.dataset.menu == 'open') {
+        menu.dataset.menu = ''
+        menuToggle.ariaExpanded = 'false'
+      } else {
+        menu.dataset.menu = 'open'
+        menuToggle.ariaExpanded = 'true'
+      }
+    }
   </script>
 
   <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100 dark:bg-slate-900">
-    <div class="z-10 print:hidden">
+    <div class="fixed inset-x-0 z-30 h-14 print:hidden">
       <header
         class="flex h-fit border-t-8 border-teal-600 bg-gradient-to-tr from-slate-200 to-cyan-100 shadow shadow-slate-300 dark:from-slate-800 dark:to-cyan-900 dark:shadow-slate-900"
       >
-        <a class="p-2" aria-label="KoMa" href="/">
-          <KoMaLogo className="h-8 fill-teal-900 dark:fill-teal-100" />
+        <button
+          type="button"
+          id="menuToggle"
+          class="h-11 self-center md:hidden"
+          aria-expanded="false"
+          onclick="toggleMenu()"
+          aria-label="Menü öffnen/schließen"
+        >
+          <Bars3 class="size-[inherit] stroke-teal-700 p-2 dark:stroke-teal-200" />
+        </button>
+        <a class="p-2" tabindex="-1" aria-label="KoMa" href="/">
+          <KoMaLogo className="h-8 fill-teal-900 dark:fill-teal-200" />
         </a>
         <h1
           class="hidden font-semibold uppercase tracking-wider text-teal-800 md:inline dark:text-teal-200"
@@ -44,48 +61,28 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
         <ThemeToggle class="h-9 self-center stroke-teal-800 pr-2 dark:stroke-cyan-200" />
       </header>
     </div>
+    <div class="h-14 print:hidden"></div>
 
     <div class="flex justify-self-center">
       <nav
         id="menu"
-        class="fixed inset-0 z-20 hidden w-full aria-expanded:block md:static md:block md:w-fit print:hidden"
+        class="invisible fixed bottom-0 top-14 z-20 w-full data-[menu=open]:visible md:visible md:static md:w-fit print:hidden"
       >
-        <div
-          class="absolute inset-0 -z-10 bg-slate-50/50 backdrop-blur-sm md:hidden dark:bg-slate-950/50"
-          onclick="menu.ariaExpanded='false'"
-        >
-        </div>
         <div
           class="h-full w-72 overflow-y-auto bg-slate-100 px-6 py-4 leading-snug opacity-[.99999] shadow-2xl md:bg-transparent md:py-8 md:pl-2 md:shadow-none dark:bg-slate-900 dark:md:bg-transparent"
         >
-          <div class="flex justify-between pb-4 pt-1 md:hidden">
-            <KoMaLogo className="h-8 self-center fill-teal-900 dark:fill-teal-300" />
-            <button
-              type="button"
-              id="menuClose"
-              class="size-12 self-center rounded-xl bg-slate-100 shadow dark:bg-slate-600"
-              onclick="menu.ariaExpanded='false'; menuOpen.focus()"
-              aria-label="Menü schließen"
-            >
-              <XMark class="size-[inherit] stroke-teal-700 p-2 dark:stroke-teal-300" />
-            </button>
-          </div>
           <Menu />
+        </div>
+        <div
+          class="absolute inset-0 -z-10 bg-slate-50/50 backdrop-blur-sm md:hidden dark:bg-slate-950/50"
+          onclick="toggleMenu()"
+        >
         </div>
       </nav>
 
       <div
         class="prose prose-slate w-full max-w-full flex-1 hyphens-auto bg-slate-50 px-4 py-8 shadow dark:prose-invert prose-headings:text-slate-700 prose-a:text-teal-700 md:max-w-[70ch] md:px-8 dark:bg-slate-950 dark:shadow-black dark:prose-headings:text-slate-400 dark:prose-a:text-teal-300 print:shadow-none"
       >
-        <button
-          type="button"
-          id="menuOpen"
-          class="size-12 rounded-xl bg-slate-100 shadow md:hidden dark:bg-slate-800 print:hidden"
-          onclick="menu.ariaExpanded='true'; menuClose.focus()"
-          aria-label="Menü öffnen"
-        >
-          <Bars3 class="size-[inherit] stroke-teal-700 p-2 dark:stroke-teal-300" />
-        </button>
         <slot />
       </div>
     </div>
