@@ -66,15 +66,15 @@ import ThemeToggle from '@components/ThemeToggle.astro'
     <div class="flex justify-self-center">
       <nav
         id="menu"
-        class="invisible fixed bottom-0 top-14 z-20 w-full data-[menu=open]:visible md:visible md:static md:w-fit print:hidden"
+        class="group invisible fixed bottom-0 top-14 z-20 w-full data-[menu=open]:visible motion-safe:transition-[visibility] md:visible md:static md:w-fit print:hidden"
       >
         <div
-          class="h-full w-72 overflow-y-auto bg-slate-100 px-6 py-4 leading-snug opacity-[.99999] shadow-2xl md:bg-transparent md:py-8 md:pl-2 md:shadow-none dark:bg-slate-900 dark:md:bg-transparent"
+          class="relative -left-72 h-full w-72 overflow-y-auto bg-slate-100 py-4 pl-2 pr-6 leading-snug opacity-[.99999] shadow-2xl group-data-[menu=open]:left-0 motion-safe:transition-[left] md:static md:bg-transparent md:py-8 md:shadow-none dark:bg-slate-900 dark:md:bg-transparent"
         >
           <Menu />
         </div>
         <div
-          class="absolute inset-0 -z-10 bg-slate-50/50 backdrop-blur-sm md:hidden dark:bg-slate-950/50"
+          class="absolute inset-0 -z-10 bg-slate-50/50 opacity-0 backdrop-blur-sm group-data-[menu=open]:opacity-100 motion-safe:transition-opacity md:hidden dark:bg-slate-950/50"
           onclick="toggleMenu()"
         >
         </div>
