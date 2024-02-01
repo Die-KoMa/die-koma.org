@@ -50,7 +50,7 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
               type="button"
               id="menuClose"
               class="size-12 self-center rounded-xl bg-slate-100 shadow dark:bg-slate-600"
-              onclick="menu.ariaExpanded='false'"
+              onclick="menu.ariaExpanded='false'; menuOpen.focus()"
               aria-label="Menü schließen"
             >
               <XMark class="size-[inherit] stroke-teal-700 p-2 dark:stroke-teal-300" />
@@ -65,8 +65,9 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
       >
         <button
           type="button"
+          id="menuOpen"
           class="size-12 rounded-xl bg-slate-100 shadow md:hidden dark:bg-slate-800 print:hidden"
-          onclick="menu.ariaExpanded='true'"
+          onclick="menu.ariaExpanded='true'; menuClose.focus()"
           aria-label="Menü öffnen"
         >
           <Bars3 class="size-[inherit] stroke-teal-700 p-2 dark:stroke-teal-300" />
