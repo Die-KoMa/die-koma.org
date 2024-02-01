@@ -4,6 +4,7 @@ import Header from '@components/Header.astro'
 import Menu from '@components/Menu.astro'
 import KoMaLogo from '@components/KoMaLogo.astro'
 import Bars3 from 'astro-heroicons/outline/Bars3.astro'
+import ThemeToggle from '@components/ThemeToggle.astro'
 import XMark from 'astro-heroicons/outline/XMark.astro'
 ---
 
@@ -28,7 +29,20 @@ import XMark from 'astro-heroicons/outline/XMark.astro'
 
   <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100 dark:bg-slate-900">
     <div class="z-10 print:hidden">
-      <Header />
+      <header
+        class="flex h-fit border-t-8 border-teal-600 bg-gradient-to-tr from-slate-200 to-cyan-100 shadow shadow-slate-300 dark:from-slate-800 dark:to-cyan-900 dark:shadow-slate-900"
+      >
+        <a class="p-2" aria-label="KoMa" href="/">
+          <KoMaLogo className="h-8 fill-teal-900 dark:fill-teal-100" />
+        </a>
+        <h1
+          class="hidden font-semibold uppercase tracking-wider text-teal-800 md:inline dark:text-teal-200"
+        >
+          Konferenz der deutschsprachigen <br /> Mathematikfachschaften
+        </h1>
+        <div class="flex-1"></div>
+        <ThemeToggle class="h-9 self-center stroke-teal-800 pr-2 dark:stroke-cyan-200" />
+      </header>
     </div>
 
     <div class="flex justify-self-center">
