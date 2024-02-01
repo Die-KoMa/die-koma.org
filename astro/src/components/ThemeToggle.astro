@@ -10,7 +10,7 @@ import Sun from 'astro-heroicons/outline/Sun.astro'
     onclick="document.documentElement.classList.remove('no-theme'); document.documentElement.classList.add('dark'); localStorage.setItem('theme', 'dark')"
     aria-label="zum Darktheme wechseln"
   >
-    <Moon class="size-[inherit] stroke-teal-800 p-2" />
+    <Moon class="size-[inherit] stroke-inherit p-2" />
   </button>
   <button
     type="button"
@@ -18,6 +18,6 @@ import Sun from 'astro-heroicons/outline/Sun.astro'
     onclick="document.documentElement.classList.remove('no-theme'); document.documentElement.classList.remove('dark'); localStorage.setItem('theme', 'light')"
     aria-label="zum Lighttheme wechseln"
   >
-    <Sun class="size-[inherit] stroke-cyan-200 p-1" />
+    <Sun class="size-[inherit] stroke-inherit p-1" />
   </button>
 </div>
