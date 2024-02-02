@@ -7,7 +7,7 @@ import Sun from 'astro-heroicons/outline/Sun.astro'
   <button
     type="button"
     class="size-[inherit] self-center dark:hidden"
-    onclick="document.documentElement.classList.remove('no-theme'); document.documentElement.classList.add('dark'); localStorage.setItem('theme', 'dark')"
+    onclick="toggleTheme()"
     aria-label="zum Darktheme wechseln"
   >
     <Moon class="size-[inherit] stroke-inherit p-2" />
@@ -15,7 +15,7 @@ import Sun from 'astro-heroicons/outline/Sun.astro'
   <button
     type="button"
     class="hidden size-[inherit] self-center dark:inline-block"
-    onclick="document.documentElement.classList.remove('no-theme'); document.documentElement.classList.remove('dark'); localStorage.setItem('theme', 'light')"
+    onclick="toggleTheme()"
     aria-label="zum Lighttheme wechseln"
   >
     <Sun class="size-[inherit] stroke-inherit p-1" />
