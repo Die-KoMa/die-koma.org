@@ -6,18 +6,11 @@ import Sun from 'astro-heroicons/outline/Sun.astro'
 <div {...Astro.props}>
   <button
     type="button"
-    class="size-[inherit] self-center dark:hidden"
+    class="size-[inherit] self-center"
     onclick="toggleTheme()"
-    aria-label="zum Darktheme wechseln"
+    aria-label="zwischen Dark- und Lighttheme wechseln"
   >
-    <Moon class="size-[inherit] stroke-inherit p-2" />
-  </button>
-  <button
-    type="button"
-    class="hidden size-[inherit] self-center dark:inline-block"
-    onclick="toggleTheme()"
-    aria-label="zum Lighttheme wechseln"
-  >
-    <Sun class="size-[inherit] stroke-inherit p-1" />
+    <Moon class="size-[inherit] stroke-inherit p-2 dark:hidden" />
+    <Sun class="hidden size-[inherit] stroke-inherit p-1 dark:block" />
   </button>
 </div>
