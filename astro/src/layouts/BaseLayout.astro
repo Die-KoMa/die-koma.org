@@ -23,6 +23,23 @@ import ThemeToggle from '@components/ThemeToggle.astro'
         }
       }
     }
+    const toggleTheme = () => {
+      let currentDarkTheme
+      if (document.documentElement.classList.contains('no-theme')) {
+        currentDarkTheme = window.matchMedia('(prefers-color-scheme: dark').matches
+        document.documentElement.classList.remove('no-theme')
+      } else {
+        currentDarkTheme = document.documentElement.classList.contains('dark')
+      }
+      if (currentDarkTheme) {
+        document.documentElement.classList.remove('dark')
+        localStorage.setItem('theme', 'light')
+      } else {
+        document.documentElement.classList.add('dark')
+        localStorage.setItem('theme', 'dark')
+        document.documentElement.classList.remove('no-theme')
+      }
+    }
     const toggleMenu = () => {
       if (menu.dataset.menu == 'open') {
         menu.dataset.menu = ''
