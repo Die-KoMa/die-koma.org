@@ -14,23 +14,24 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 ### originäre Resolutionen der KoMa 89
 
-**89/1: Resolution zu fairen Prüfungsan- und Abmeldebedingungen** (Link fehlt)
+[**89/1: Resolution zu fairen Prüfungsan- und Abmeldebedingungen**](https://file.komapedia.org/89_1.pdf)
 
 **89/2: Resolution gegen Pflichtanmeldung zu Nachprüfungen** (Link fehlt)
 
-**89/3: Resolution zur Gestaltung inklusiver Lehrveranstaltungen** (Link fehlt)
+[**89/3: Resolution zur Gestaltung inklusiver Lehrveranstaltungen**](https://file.komapedia.org/89_3.pdf)
 
-**89/4: Resolution zu Ruheräumen** (Link fehlt)
+[**89/4: Resolution zu Ruheräumen**](https://file.komapedia.org/89_4.pdf)
 
-**89/5: Resolution zu barriefreien Gebäuden** (Link fehlt)
+[**89/5: Resolution zu barriefreien Gebäuden**](https://file.komapedia.org/89_5.pdf)
 
 ### Zudem wurde sich auf der KoMa 89 folgenden Forderungen per Resolution im Konsens angeschlossen
 
-Aufgrund der beständigen Aktualität der Problematik wurden im Konsens beschlossen, sich folgenden Resolutionen anzuschließen und diese zu unterstützen:
+Aufgrund der beständigen Aktualität der Problematik wurden im Konsens beschlossen, sich folgender Resolution der KoMa 88 anzuschließen und diese zu unterstützen:
 
 [**88/5: Resolution für ein bundesweites Semesterticket**](https://file.komapedia.org/88_5.pdf)
 
-**ZaPF: Resolution zum Deutschlandticket** (link fehlt) 
+Zudem wurde beschlossen, sich einer Resolution der [ZaPF](https://zapf.wiki/Sammlung_aller_Resolutionen_und_Positionspapiere) zum Deutschlandticket anzuschließen, welche sich zum Deutschlandticket äußert und der KoMa 89 als Entwurf vorlag.
+Aufgrund der Einführung eines vergünstigten Semesterticket für Studierende hat der [StAPF](https://zapfev.de/zapf/stapf/) [beschlossen](https://zapf.wiki/StAPF22:Sitzung03#TOP_2:_Deutschlandticketreso), die Resolution jedoch nicht zu verbreiten.
 
 
 ## Kaiserslautern
