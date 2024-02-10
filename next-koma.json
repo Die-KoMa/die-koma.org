@@ -1,0 +1,74 @@
+{
+  "KoMa 90": {
+    "printouts": {
+      "Ort": [
+        "Bonn"
+      ],
+      "Beginn": [
+        {
+          "timestamp": "1716336000",
+          "raw": "1/2024/5/22"
+        }
+      ],
+      "Ende": [
+        {
+          "timestamp": "1716681600",
+          "raw": "1/2024/5/26"
+        }
+      ]
+    },
+    "fulltext": "KoMa 90",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_90",
+    "namespace": 0,
+    "exists": "1",
+    "displaytitle": "90. KoMa in Bonn"
+  },
+  "KoMa 91": {
+    "printouts": {
+      "Ort": [
+        "Magdeburg"
+      ],
+      "Beginn": [
+        {
+          "timestamp": "1730419200",
+          "raw": "1/2024/11/1"
+        }
+      ],
+      "Ende": [
+        {
+          "timestamp": "1732924800",
+          "raw": "1/2024/11/30"
+        }
+      ]
+    },
+    "fulltext": "KoMa 91",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_91",
+    "namespace": 0,
+    "exists": "1",
+    "displaytitle": "91. KoMa in Magdeburg"
+  },
+  "KoMa 92": {
+    "printouts": {
+      "Ort": [
+        "Passau"
+      ],
+      "Beginn": [
+        {
+          "timestamp": "1746057600",
+          "raw": "1/2025/5/1"
+        }
+      ],
+      "Ende": [
+        {
+          "timestamp": "1748649600",
+          "raw": "1/2025/5/31"
+        }
+      ]
+    },
+    "fulltext": "KoMa 92",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_92",
+    "namespace": 0,
+    "exists": "1",
+    "displaytitle": "92. KoMa in Passau"
+  }
+}
