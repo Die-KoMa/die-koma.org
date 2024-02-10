@@ -14,6 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: tibdex/github-app-token@v1
+        id: generate-token
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - name: Download raw json from the wiki
         run: curl -o next-koma-raw.json --globoff "https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E$(date -I)]]|sort=KoMaNr|order=asc|limit=5|?Ort|?Beginn|?Ende"
 
@@ -26,6 +32,7 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
+          token: ${{ steps.generate-token.outputs.token }}
           commit-message: Sync next-koma.json from wiki
           branch: update-next-koma-json
           delete-branch: true
