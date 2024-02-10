@@ -1,0 +1,38 @@
+name: "Update next-koma.json"
+
+on:
+  schedule:
+    - cron: '0 8,20 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  update-next-koma:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download raw json from the wiki
+        run: curl -o next-koma-raw.json --globoff "https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E$(date -I)]]|sort=KoMaNr|order=asc|limit=5|?Ort|?Beginn|?Ende"
+
+      - name: Preprocess json results
+        run: |
+          jq .query.results <next-koma-raw.json >next-koma.json
+          rm next-koma-raw.json
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: Sync next-koma.json from wiki
+          branch: update-next-koma-json
+          delete-branch: true
+          title: 'Update next-koma.json'
+          body: |
+            This is an automatically created PR.
+
+            The contents of `next-koma.json` was taken from the wiki.
+          labels: |
+            automated pr
