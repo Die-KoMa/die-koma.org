@@ -43,21 +43,14 @@ function formatDateRange(start: Date, end: Date) {
 
 <div class="not-prose float-right size-fit p-2 pr-0">
   <div
-    class="h-44 w-60 rounded-md border-2 border-orange-200 bg-orange-50 p-3 pb-6 pt-5 leading-5 text-zinc-600 shadow-inner shadow-zinc-300 md:w-64 md:px-4 md:pb-6 dark:border-orange-900 dark:bg-orange-950 dark:text-zinc-300 dark:shadow-zinc-900"
+    class="w-60 rounded-md border-2 border-orange-200 bg-orange-50 p-3 pb-1 pt-5 leading-5 text-zinc-600 shadow-inner shadow-zinc-300 md:w-64 md:px-4 dark:border-orange-900 dark:bg-orange-950 dark:text-zinc-300 dark:shadow-zinc-900"
   >
     <h1
       class="px-2 pb-1 text-sm font-bold uppercase tracking-wide text-zinc-500 dark:text-zinc-400"
     >
       Termine
     </h1>
-    <div class="relative z-10 h-4 w-full bg-gradient-to-b from-inherit print:invisible"></div>
-    <ul class="relative -top-4 h-full overflow-y-auto px-2 pb-2">
-      <noscript>
-        <div class="pt-4">
-          <span>Ohne Javascript gibt es Termine im </span>
-          <a class="underline" href="https://de.komapedia.org/"> Wiki </a>
-        </div>
-      </noscript>
+    <ul class="h-full px-2 pb-2">
       {
         komata.slice(0, 2).map((koma) => {
           const { name, url, location, start, end } = koma
@@ -75,7 +68,5 @@ function formatDateRange(start: Date, end: Date) {
         })
       }
     </ul>
-    <div class="relative -top-10 z-10 h-6 w-full bg-gradient-to-t from-inherit print:invisible">
-    </div>
   </div>
 </div>
