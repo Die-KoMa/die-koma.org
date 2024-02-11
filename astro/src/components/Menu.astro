@@ -1,53 +1,75 @@
 ---
 import MenuLink from '@components/MenuLink.astro'
+
+type RawPage = {
+  url: string
+  frontmatter:
+    | {
+        title: string | undefined
+        menutitle: string | undefined
+        order: number | undefined
+        target: string | undefined
+      }
+    | undefined
+}
+
+type Page = {
+  url: string
+  title: string
+  order: number
+  target: string
+  active: boolean
+}
+
+let topLevelPages: Array<Page> = []
+let otherPages: Record<string, Array<Page>> = {}
+
+for (let {
+  url,
+  frontmatter: { title = null, menutitle = null, order = 0, target = null } = {},
+} of await Astro.glob<RawPage>('@pages/**')) {
+  url = url + '/'
+  const active = url === Astro.url.pathname
+  const page: Page = {
+    url,
+    title: menutitle || title || url,
+    order,
+    active,
+    target: target || url,
+  }
+  if (url.split('/').length <= 3) topLevelPages.push(page)
+  else {
+    const parentUrl = url.split('/').slice(0, 2).join('/') + '/'
+    if (!otherPages[parentUrl]) otherPages[parentUrl] = [page]
+    else otherPages[parentUrl].push(page)
+  }
+}
+
+// Sort pages by order and then by url
+function comparePages(a: Page, b: Page) {
+  if (a.order !== b.order) return a.order - b.order
+  return a.url.localeCompare(b.url)
+}
+
+topLevelPages.sort(comparePages)
+for (let pages of Object.values(otherPages)) pages.sort(comparePages)
 ---
 
 <ul>
-  <MenuLink active="true" href="/">More and more and more and more and more News</MenuLink>
-  <MenuLink href="/kommunikation/">
-    Kommunikation
-    <ul slot="subpages">
-      <MenuLink depth="1" href="/kommunikation/koma-buero/">KoMa-Büro</MenuLink>
-      <MenuLink depth="1" href="/kommunikation/koma-kurier/">KoMa-Kurier</MenuLink>
-      <MenuLink depth="1" href="/kommunikation/mailinglisten/">Mailinglisten</MenuLink>
-    </ul>
-  </MenuLink>
-  <MenuLink href="/ueber_die_koma/">
-    Über die KoMa
-    <ul slot="subpages">
-      <MenuLink depth="1" href="/ueber_die_koma/neulinge/">Neulinge</MenuLink>
-      <MenuLink depth="1" href="/ueber_die_koma/koma-faq/">KoMa-FAQ</MenuLink>
-      <MenuLink depth="1" href="/ueber_die_koma/koma-abc/">KoMa-ABC</MenuLink>
-      <MenuLink depth="1" href="/ueber_die_koma/packliste/">Packliste</MenuLink>
-      <MenuLink depth="1" href="/ueber_die_koma/timeline/">Timeline</MenuLink>
-    </ul>
-  </MenuLink>
-  <MenuLink href="/foerderverein/">
-    Förderverein
-    <ul slot="subpages">
-      <MenuLink depth="1" href="/foerderverein/vorstaende/">Vorstände</MenuLink>
-    </ul>
-  </MenuLink>
-  <MenuLink href="/publikationen/">
-    Publikationen
-    <ul slot="subpages">
-      <MenuLink depth="1" href="/publikationen/koma-kurier/">KoMa-Kurier</MenuLink>
-      <MenuLink depth="1" href="/publikationen/resolutionen/">Resolutionen</MenuLink>
-      <MenuLink depth="1" href="/publikationen/kartenspiel/">Kartenspiel</MenuLink>
-      <MenuLink depth="1" href="/publikationen/minimalstandards/">Minimalstandard</MenuLink>
-      <MenuLink depth="1" href="/publikationen/neulingsheft/">Neulingsheft</MenuLink>
-      <MenuLink depth="1" href="/publikationen/berufungshandbuch/">Berufungshandbuch</MenuLink>
-      <MenuLink depth="1" href="/publikationen/koma-buch/">KoMa-Buch</MenuLink>
-      <MenuLink depth="1" href="/publikationen/liederbuch/">Liederbuch</MenuLink>
-      <MenuLink depth="1" href="/publikationen/meine_kleine_uni/">Meine kleine Uni</MenuLink>
-    </ul>
-  </MenuLink>
-  <MenuLink href="https://www.komapedia.org">KoMaPedia</MenuLink>
-  <MenuLink href="/archiv/">
-    Archiv
-    <ul slot="subpages">
-      <MenuLink depth="1" href="/archiv/kartenspiel/">Kartenspiel</MenuLink>
-      <MenuLink depth="1" href="/archiv/jahr_der_mathematik/">Jahr der Mathematik</MenuLink>
-    </ul>
-  </MenuLink>
+  {
+    topLevelPages.map((page) => (
+      <MenuLink active={page.active} href={page.target}>
+        {page.title}
+        {otherPages[page.url] && (
+          <ul slot="subpages">
+            {otherPages[page.url]?.map((subpage) => (
+              <MenuLink depth="1" active={subpage.active} href={subpage.target}>
+                {subpage.title}
+              </MenuLink>
+            ))}
+          </ul>
+        )}
+      </MenuLink>
+    ))
+  }
 </ul>
