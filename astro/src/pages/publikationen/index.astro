@@ -1,0 +1,26 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro'
+
+export const frontmatter = {
+  title: 'Publikationen',
+  order: 50,
+}
+
+const publications = await Astro.glob('@pages/publikationen/*.md')
+---
+
+<BaseLayout frontmatter={{}}>
+  <h1>Publikationen der KoMa</h1>
+
+  Folgende Publikationen werden von der KoMa veröffentlicht:
+
+  <ul>
+    {
+      publications.map((publication) => (
+        <li>
+          <a href="">{publication.frontmatter.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>

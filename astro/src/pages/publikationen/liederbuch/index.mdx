@@ -1,0 +1,25 @@
+---
+title: Liederbuch
+order: 7
+---
+
+import { getCollection } from 'astro:content'
+export const liederbuch = await getCollection('liederbuch')
+
+# Liederbuch
+
+Traditionell findet auf der KoMa der AK Pella statt. Dieser hat sich der Aufgabe verschrieben, klassische bekannte Lieder zu nehmen und sie mit mathematischen Texten zu versehen. Die aktuelle Version des Liederbuches findet ihr hier zum download.
+
+## Liederbuch
+
+[Download](https://file.komapedia.org/KoMa-Liederbuch.pdf) (Stand: 14. Nov 2022)
+
+## Einzellieder
+
+<ul>
+  {liederbuch.map((lied) => (
+    <li>
+      <a href={lied.slug}>{lied.data.title}</a>
+    </li>
+  ))}
+</ul>
