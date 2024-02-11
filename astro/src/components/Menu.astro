@@ -2,13 +2,14 @@
 import MenuLink from '@components/MenuLink.astro'
 
 type RawPage = {
-  url: string
+  url: string | undefined
   frontmatter:
     | {
         title: string | undefined
         menutitle: string | undefined
         order: number | undefined
         redirect: string | undefined
+        menu: boolean | undefined
       }
     | undefined
 }
@@ -26,8 +27,10 @@ let otherPages: Record<string, Array<Page>> = {}
 
 for (let {
   url,
-  frontmatter: { title = null, menutitle = null, order = 0, redirect = null } = {},
+  frontmatter: { title = null, menutitle = null, order = 0, redirect = null, menu = true } = {},
 } of await Astro.glob<RawPage>('@pages/**')) {
+  if (!menu) continue
+  if (!url) continue
   url = url + '/'
   const active = url === Astro.url.pathname
   const page: Page = {
