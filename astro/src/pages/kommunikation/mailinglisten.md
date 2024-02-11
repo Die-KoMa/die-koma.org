@@ -1,5 +1,4 @@
 ---
-layout: '@layouts/BaseLayout.astro'
 title: Mailinglisten
 menutitle: Mailinglisten
 order: 4

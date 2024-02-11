@@ -1,5 +1,4 @@
 ---
-layout: '@layouts/BaseLayout.astro'
 title: KoMa-Kurier
 menutitle: KoMa-Kurier
 order: 2
