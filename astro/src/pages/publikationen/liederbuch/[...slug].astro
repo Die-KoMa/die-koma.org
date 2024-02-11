@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content'
+
+export const frontmatter = { menu: false }
+
+export async function getStaticPaths() {
+  const lieder = await getCollection('liederbuch')
+  return lieder.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }))
+}
+
+const { entry } = Astro.props
+const { Content } = await entry.render()
+---
+
+<Content />
