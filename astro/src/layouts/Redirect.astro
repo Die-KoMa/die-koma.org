@@ -1,0 +1,19 @@
+---
+import BaseLayout from './BaseLayout.astro'
+const {
+  frontmatter: { title, target },
+  url,
+} = Astro.props
+
+if (!target) {
+  throw new Error('target is required')
+}
+---
+
+<BaseLayout>
+  <p>Sie werden weiter geleitet: <a id="redirect_target" href={target}>{target}</a></p>
+  <script is:inline>
+    window.location.replace(redirect_target.href)
+  </script>
+  <slot />
+</BaseLayout>
