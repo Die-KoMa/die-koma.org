@@ -30,7 +30,7 @@ for (let {
   frontmatter: { title = null, menutitle = null, order = 0, redirect = null, menu = true } = {},
 } of await Astro.glob<RawPage>('@pages/**')) {
   if (!menu) continue
-  if (!url) continue
+  if (url == null) continue
   url = url + '/'
   const active = url === Astro.url.pathname
   const page: Page = {
