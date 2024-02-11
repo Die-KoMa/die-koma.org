@@ -2,10 +2,11 @@
 interface Props {
   frontmatter: {
     redirect?: string
+    title?: string
   }
 }
 const {
-  frontmatter: { redirect },
+  frontmatter: { redirect, title = '' },
 } = Astro.props
 import Bars3 from 'astro-heroicons/outline/Bars3.astro'
 import Footer from '@components/Footer.astro'
@@ -19,7 +20,7 @@ import ThemeToggle from '@components/ThemeToggle.astro'
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="generator" content={Astro.generator} />
-  <title>KoMa</title>
+  <title>KoMa - {title}</title>
 
   <script is:inline>
     {
