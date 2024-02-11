@@ -8,7 +8,7 @@ type RawPage = {
         title: string | undefined
         menutitle: string | undefined
         order: number | undefined
-        target: string | undefined
+        redirect: string | undefined
       }
     | undefined
 }
@@ -26,7 +26,7 @@ let otherPages: Record<string, Array<Page>> = {}
 
 for (let {
   url,
-  frontmatter: { title = null, menutitle = null, order = 0, target = null } = {},
+  frontmatter: { title = null, menutitle = null, order = 0, redirect = null } = {},
 } of await Astro.glob<RawPage>('@pages/**')) {
   url = url + '/'
   const active = url === Astro.url.pathname
@@ -35,7 +35,7 @@ for (let {
     title: menutitle || title || url,
     order,
     active,
-    target: target || url,
+    target: redirect || url,
   }
   if (url.split('/').length <= 3) topLevelPages.push(page)
   else {
