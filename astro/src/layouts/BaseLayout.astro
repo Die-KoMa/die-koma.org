@@ -1,4 +1,12 @@
 ---
+interface Props {
+  frontmatter: {
+    redirect?: string
+  }
+}
+const {
+  frontmatter: { redirect },
+} = Astro.props
 import Bars3 from 'astro-heroicons/outline/Bars3.astro'
 import Footer from '@components/Footer.astro'
 import KoMaLogo from '@components/KoMaLogo.astro'
@@ -100,6 +108,19 @@ import ThemeToggle from '@components/ThemeToggle.astro'
       <div
         class="prose prose-slate w-full max-w-full flex-1 hyphens-auto bg-slate-50 px-4 py-8 shadow dark:prose-invert prose-headings:text-slate-700 prose-a:text-teal-700 md:max-w-[70ch] md:px-8 dark:bg-slate-950 dark:shadow-black dark:prose-headings:text-slate-400 dark:prose-a:text-teal-300 print:shadow-none"
       >
+        {
+          redirect != null && (
+            <>
+              <p>
+                Sie werden weiter geleitet:{' '}
+                <a id="redirect_target" href={redirect}>
+                  {redirect}
+                </a>
+              </p>
+              <script is:inline>window.location.replace(redirect_target.href)</script>
+            </>
+          )
+        }
         <slot />
       </div>
     </div>
