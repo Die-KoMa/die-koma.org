@@ -1,5 +1,4 @@
 ---
-layout: '@layouts/BaseLayout.astro'
 title: KoMa-Büro
 menutitle: KoMa-Büro
 order: 1
