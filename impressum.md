@@ -16,6 +16,6 @@ Kontakt und Informationen zum Förderverein oder dem KoMa-Büro finden Sie auf d
 
 im Sinne des §5 TMG und §55 Abs. 2 RStV
 
-Maximilian Jalea \\
-Im Neuenheimer Feld 523 \\
-69120 Heidelberg
+Sebastian Uschmann \\
+Rathenaustr. 2a \\
+D-07745 Jena
