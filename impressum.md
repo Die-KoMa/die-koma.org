@@ -17,5 +17,5 @@ Kontakt und Informationen zum Förderverein oder dem KoMa-Büro finden Sie auf d
 im Sinne des §5 TMG und §55 Abs. 2 RStV
 
 Sebastian Uschmann \\
-Rathenaustr. 2a \\
+Rathenaustr. 2 \\
 D-07745 Jena
