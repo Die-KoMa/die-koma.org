@@ -1,5 +1,5 @@
 ---
-
+import Address from '@components/Address.astro'
 ---
 
 <footer
@@ -10,13 +10,7 @@
       <a href="/kommunikation/koma-buero/" class="underline">
         <h1 class="text-lg font-bold text-teal-200">KoMa-Büro</h1>
       </a>
-      <pre
-        class="not-prose">
-KoMa Büro
-c/o Fachschaft Mathematik
-Endenicher Allee 60
-D-53115 Bonn
-    </pre>
+      <Address of="büro" />
       <a href="mailto:buero@die-koma.org">buero@die-koma.org</a>
     </div>
 
