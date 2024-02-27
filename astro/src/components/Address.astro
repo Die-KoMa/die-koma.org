@@ -1,0 +1,30 @@
+---
+import type { HTMLAttributes } from 'astro/types'
+
+type Place = string[]
+
+function createPlaces<T extends Record<K, Place>, K extends string>(o: T) {
+  return o
+}
+
+const places = createPlaces({
+  büro: ['KoMa Büro', 'c/o Fachschaft Mathematik', 'Endenicher Allee 60', 'D-53115 Bonn'],
+  verein: [
+    'Förderverein der KoMa e. V.',
+    'c/o Sebastian Uschmann',
+    'Rathenaustraße 2',
+    'D-07745 Jena',
+  ],
+  uschi: ['Sebastian Uschmann', 'Rathenaustraße 2', 'D-07745 Jena'],
+})
+
+interface Props extends HTMLAttributes<'p'> {
+  of: keyof typeof places
+}
+const { of, ...props } = Astro.props
+const place = places[of]
+---
+
+<p {...props}>
+  {place.map((p) => <span class="block">{p}</span>)}
+</p>
