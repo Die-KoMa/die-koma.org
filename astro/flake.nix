@@ -9,12 +9,14 @@
     withPkgs = withPkgsFor nixpkgs.lib.platforms.unix;
   in {
     overlays.default = final: prev: {
+      koma-homepage = final.callPackage ./default.nix {};
+      koma-homepage-tar = final.koma-homepage.override {doTar = true;};
       koma-homepage-build = {
         type = "app";
         program = let
           build = final.writeShellScript "build" ''
-            export PATH=${final.nodePackages.nodejs}/bin
-            ${final.bun}/bin/bun run build
+            export PATH=${final.bash}/bin:${final.nodePackages.nodejs}/bin:${final.nodePackages.npm}/bin
+            npm run build
           '';
         in "${build}";
       };
@@ -22,8 +24,8 @@
         type = "app";
         program = let
           build = final.writeShellScript "build" ''
-            export PATH=${final.nodePackages.nodejs}/bin
-            ${final.bun}/bin/bun run dev "$@"
+            export PATH=${final.bash}/bin:${final.nodePackages.nodejs}/bin:${final.nodePackages.npm}/bin
+            npm run dev "$@"
           '';
         in "${build}";
       };
@@ -33,11 +35,16 @@
       dev = pkgs.koma-homepage-dev;
       default = pkgs.koma-homepage-dev;
     });
+    packages = withPkgs (pkgs: {
+      KoMaHomepage = pkgs.koma-homepage;
+      KoMaHomepageTar = pkgs.koma-homepage-tar;
+
+      default = pkgs.koma-homepage;
+    });
     devShells = withPkgs (pkgs: {
       default = pkgs.mkShell {
         name = "koma-homepage-shell";
         buildInputs = [
-          pkgs.bun
           pkgs.nodePackages.nodejs
           pkgs.nodePackages.npm
           pkgs.tailwindcss
