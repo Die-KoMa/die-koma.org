@@ -1,6 +1,5 @@
 ---
 title: KoMa-FAQ
-menutitle: KoMa-FAQ
 order: 3
 ---
 
@@ -26,13 +25,13 @@ Du studierst Mathe? Du bist an Fachschaftschaftsarbeit interessiert bzw. in Dein
 
 Der Tagesablauf ist eigentlich jeden Tag derselbe:
 
-* Tagwache ist täglich um 5.30 Uhr
-* Waschen & Frühstücken bis 7.00 Uhr
-* die AKs arbeiten dann von 7.00 bis 12.00 Uhr
-* Mittagspause bis 13.00 Uhr
-* AK-Arbeit von 13.00 bis 19.00 Uhr
-* Abendessen bis 20.30 Uhr
-* Bettruhe ist um 21.00 Uhr.
+- Tagwache ist täglich um 5.30 Uhr
+- Waschen & Frühstücken bis 7.00 Uhr
+- die AKs arbeiten dann von 7.00 bis 12.00 Uhr
+- Mittagspause bis 13.00 Uhr
+- AK-Arbeit von 13.00 bis 19.00 Uhr
+- Abendessen bis 20.30 Uhr
+- Bettruhe ist um 21.00 Uhr.
 
 Leider gibt es auf jeder KoMa auch Leute, die nicht jeden Tag um 5.30 Uhr aufstehen, nicht jeden Tag 11 Stunden intensiv arbeiten und dazu auch die Bettruhe um 21.00 Uhr nicht einhalten, sondern abends dann noch fortgehen. Echt schlimm! :-) (Ich geb zu, ich gehöre auch zu denen.)
 
@@ -42,7 +41,7 @@ Einen Schlafsack+Isomatte, Frühstücksgeschirr (Besteck, Teller, Tasse, Müslis
 
 ### Wieviel kostet eine KoMa?
 
-Wirklich aktuelle Zahlen hab ich grad nicht zur Hand, aber die KoMa in Bremen kostete 3.782,51 DM. Keine Panik. Das sind die Gesamtkosten der KoMa. Finanziert wird das über Teilnehmerbeiträge (ca. 25 - 30 EUR  incl. Dauerfrühstück für 4 Tage)
+Wirklich aktuelle Zahlen hab ich grad nicht zur Hand, aber die KoMa in Bremen kostete 3.782,51 DM. Keine Panik. Das sind die Gesamtkosten der KoMa. Finanziert wird das über Teilnehmerbeiträge (ca. 25 - 30 EUR incl. Dauerfrühstück für 4 Tage)
 
 Dich kostet die KoMa also ca. 30 EUR + An/Abreisekosten + was Du halt so während der Koma brauchst (Bier? :-)). Die Fahrtkosten sollten aber von Deinem AStA (Deutschland) bzw. der ÖH (Österreich) übernommen werden, ist das nicht der Fall hat die KoMa auch (beschränkte) Zuschussmöglichkeiten. Hierzu wendest du dich am besten an den [Förderverein der KoMa e.V.](/foerderverein)
 
@@ -52,15 +51,15 @@ Weiss ich natürlich auch nicht. Ich kenn Dich ja noch nicht (Wenn Du mal auf ei
 
 Eine Umfrage auf der KoMa in Hamburg, ob es leicht war, sich auf der ersten KoMa zurechtzufinden:
 
-* Ja
-* geht so (ist schon so´n bisschen geschl. Gesellschaft, weil alle sich seit 2? KoMa´s kennen)
-* jein. Organisation & AKs - alle schienen Bescheid zu wissen (Vorschlag ständige FAQ, z.B. im Netz). Aber der "Gruppenanschluss" durch ersten geselligen Abend und kleinere Arbeitskreise relativ leicht
-* Es war nicht ungewöhnlich schwer.
-* Nein. Ich kannte keine Leute.
-* War sehr leicht. Ich hatte damals allerdings auch eine ordentliche Portion Neugier.
-* gab keine Probleme, habe mich von Anfang an wohl gefühlt
-* Ja, habe genug alte Hasen dabei.
-* Nein. Es ist wohl nie leicht in eine Gruppe zu stoßen, die sich teilweise schon seit Jahren kennt, man/frau selbst aber erst mal sonst niemanden kennt und einfach nicht klar ist was so läuft etc. z.B. könnte man mit der Einladung eine kurze Beschreibung von der letzten KoMa verschicken einfach so um darzustellen darzustellen, wie so was abläuft (nicht nur inhaltlich!)
+- Ja
+- geht so (ist schon so´n bisschen geschl. Gesellschaft, weil alle sich seit 2? KoMa´s kennen)
+- jein. Organisation & AKs - alle schienen Bescheid zu wissen (Vorschlag ständige FAQ, z.B. im Netz). Aber der "Gruppenanschluss" durch ersten geselligen Abend und kleinere Arbeitskreise relativ leicht
+- Es war nicht ungewöhnlich schwer.
+- Nein. Ich kannte keine Leute.
+- War sehr leicht. Ich hatte damals allerdings auch eine ordentliche Portion Neugier.
+- gab keine Probleme, habe mich von Anfang an wohl gefühlt
+- Ja, habe genug alte Hasen dabei.
+- Nein. Es ist wohl nie leicht in eine Gruppe zu stoßen, die sich teilweise schon seit Jahren kennt, man/frau selbst aber erst mal sonst niemanden kennt und einfach nicht klar ist was so läuft etc. z.B. könnte man mit der Einladung eine kurze Beschreibung von der letzten KoMa verschicken einfach so um darzustellen darzustellen, wie so was abläuft (nicht nur inhaltlich!)
 
 ### Wie kann ich interessierte Leute von der KoMa kontaktieren, wenn gerade keine KoMa ist?
 
