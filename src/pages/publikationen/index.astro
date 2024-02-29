@@ -18,7 +18,7 @@ const publications = await Astro.glob('@pages/publikationen/*.md')
     {
       publications.map((publication) => (
         <li>
-          <a href="">{publication.frontmatter.title}</a>
+          <a href={publication.url}>{publication.frontmatter.title}</a>
         </li>
       ))
     }
