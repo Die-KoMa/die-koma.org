@@ -1,6 +1,5 @@
 ---
 title: Über die KoMa
-menutitle: Über die KoMa
 order: 31
 ---
 

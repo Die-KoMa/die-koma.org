@@ -1,6 +1,5 @@
 ---
 title: KoMa-ABC
-menutitle: KoMa-ABC
 order: 4
 ---
 
@@ -15,10 +14,6 @@ Das KoMa-ABC befindet sich übrigens auch im [KoMa-Neulingsheft](/publikationen/
 # Das KoMa ABC
 
 ## Die Fragen
-
-[//]: # ### Abschlussparty
-
-[//]: # Im Anschluss an das Abschlussplenum gibt's in der Regel die Abschlussparty. Teilweise ist sie gleichzeitig die örtliche Mathe-/ Fachschaftsparty.
 
 ### Abschlussplenum
 
@@ -36,12 +31,12 @@ Die AKs präsentieren sich auf dem Abschlussplenum und möglichst auch mit einem
 
 Typische AK-Themen, die häufiger vorkamen, sind z.B.:
 
-* Bachelor / Master
-* Studiengebühren
-* Prüfungsordnung
-* Lehramt
-* Vorlesungsumfragen
-* Mathe-Comics
+- Bachelor / Master
+- Studiengebühren
+- Prüfungsordnung
+- Lehramt
+- Vorlesungsumfragen
+- Mathe-Comics
 
 Wie man hier sieht, gibt es also neben den inhaltlichen auch immer Freizeit-AKs. Bei den letzten KoMata wurde allerdings vermehrt darauf hingewiesen, dass die inhaltlichen AKs im Vordergrund stehen sollten und diesen daher immer Vorrang zu gewähren ist.
 
@@ -64,7 +59,7 @@ Beschlüsse der KoMa werden vom Plenum gefasst und sind Beschlüsse der anwesend
 
 ### Einladung
 
-Längere Zeit vor der KoMa verschickt die ausrichtende Fachschaft Einladungen über den KoMa-Verteiler und per Post an alle Mathefachschaften, soweit deren Adressen bekannt sind. Darin wird vor allem der Termin bekannt gegeben, aufgefordert sich anzumelden und AKs vorzuschlagen. Etwas dichter vor der KoMa gibt's dann noch eine zweite Einladung über den KoMa-Verteiler. Darin sind vor allem die Wegbeschreibung und der genaue Anfangszeitpunkt enthalten, ein Hinweis auf die Höhe des Teilnehmerbeitrags sowie weitere organisatorische Details. Da sich nicht alle Teilnehmer anmelden, ist es wichtig, dass insbesondere die Wegbeschreibung über Internet zugänglich ist. Diese findet man dann, wie die Anmeldung auch, unter [die-koma.org]({{ site.url }}).
+Längere Zeit vor der KoMa verschickt die ausrichtende Fachschaft Einladungen über den KoMa-Verteiler und per Post an alle Mathefachschaften, soweit deren Adressen bekannt sind. Darin wird vor allem der Termin bekannt gegeben, aufgefordert sich anzumelden und AKs vorzuschlagen. Etwas dichter vor der KoMa gibt's dann noch eine zweite Einladung über den KoMa-Verteiler. Darin sind vor allem die Wegbeschreibung und der genaue Anfangszeitpunkt enthalten, ein Hinweis auf die Höhe des Teilnehmerbeitrags sowie weitere organisatorische Details. Da sich nicht alle Teilnehmer anmelden, ist es wichtig, dass insbesondere die Wegbeschreibung über Internet zugänglich ist. Diese findet man dann, wie die Anmeldung auch, unter [die-koma.org](/).
 
 Oft wird mit der ersten Einladung der KoMa-Kurier verschickt als Erläuterung, was die KoMa bzw. wie die letzte KoMa war.
 
@@ -93,6 +88,7 @@ Aufrollbare Schlafunterlage für MathematikerInnen. Wird von den Teilnehmers zur
 3. [das], Coma, tiefe Bewusstlosigkeit, z.B. bei Zuckerkrankheit, Harnvergiftung, u.a. (Quelle: Bertelsmann Universallexikon)
 
    Und die wichtigste Bedeutung ist:
+
 4. [die], Konferenz der deutschsprachigen Mathematikfachschaften
 
 Letztere bezeichnet in erster Linie die Zusammenkunft der Teilnehmer einmal pro Semester. Es gibt eine Sommerkoma und eine Winterkoma. über den Zusatz "deutschsprachigen" wurde auf der KoMa in Bonn (WS 94/95) mal diskutiert, mit dem Ziel, nicht nationalistisch zu sein. Aus demselben Grund und auf ausdrücklichen Wunsch der Teilnehmer aus Österreich wurde er dann aber beibehalten, weil nur so klar wird, dass die KoMa keine reine Bundesfachschaftentagung ist. Schließlich kommen regelmäßig Leute aus Österreich und der Schweiz. Die I. KoMa war im WS 1981/82 in Würzburg, [vorher gab es ähnliches unter anderem Namen](/ueber_die_koma/timeline/). Seit 2006 und nach einer ausgieben Archivrecherche gibt es eine einheite Numerierung. Als Pluralbildung wurde auf der KoMa 63 in Paderborn der Begriff "KoMata" vereinbart.
@@ -129,18 +125,18 @@ Diese Mailinglisten dienen der Kommunikation und Diskussion der KoMa-Teilnehmer 
 
 Zur KoMa gibt es zwei Mailinglisten:
 
-1. KoMa-Aktive (aktive[ät]die-koma.org)
+1. KoMa-Aktive (<aktive@die-koma.org>)
 
    Diese Mailingliste dient der Kommunikation und Diskussion der KoMa-Teilnehmer untereinander zwischen den Konferenzen.
 
    Abonnenten der Mailingliste können beliebig auf diese Liste schreiben. Emails externer Absender (d.h. von Absendern, die keine Abonnenten der Liste sind) müssen durch den Moderator freigeschaltet werden.
 
-2. KoMa-Fachschaftenliste (fachschaften[ät]die-koma.org)
+2. KoMa-Fachschaftenliste (<fachschaften@die-koma.org>)
 
    Diese Mailingliste dient allein der Ankündigung kommender KoMata. Abonnenten der Liste sind u.a. alle Mathematikfachschaften.
 
    Um diese Listen frei von Spam und überflüssigen Mails zu halten, müssen alle Mails durch einen Moderator freigeschaltet werden. Ihr könnt euch in diese Listen eintragen. Da der Antrag von einem Moderator freigeschaltet werden muss, kann es einige Tage dauern bis ihr Mails der Liste empfangt.
-Solltest du den Moderator persönlich kontaktieren wollen, sende eine Mail an komaliste-owner@fs.tum.de
+   Solltest du den Moderator persönlich kontaktieren wollen, sende eine Mail an komaliste-owner@fs.tum.de
 
 Eine Anleitung für die Mailingliste ist in der Rubrik [Mailinglisten](/kommunikation/mailinglisten) zu finden.
 
@@ -170,7 +166,7 @@ Kann bei Bedarf / Wunsch eingeführt werden. Im Plenum werden dann die Wortmeldu
 
 ### Resolution
 
-[Eine gemeinsame Stellungnahme der KoMa]() (d. h. der dort anwesenden Menschen) zu meist (hochschul-)politischen Themen wird häufig auf dem Abschlussplenum beschlossen. Diese wird veröffentlicht (Presse) und an jeweilige Ministerien/Regierungen etc. verschickt. Es besteht der Wunsch, dass Resolutionen vor Beginn des Abschlussplenums aushängen, damit alle sie lesen können. Traditionell gibt es fast immer mindestens eine Resolution auf der KoMa.
+Eine gemeinsame Stellungnahme der KoMa (d. h. der dort anwesenden Menschen) zu meist (hochschul-)politischen Themen wird häufig auf dem Abschlussplenum beschlossen. Diese wird veröffentlicht (Presse) und an jeweilige Ministerien/Regierungen etc. verschickt. Es besteht der Wunsch, dass Resolutionen vor Beginn des Abschlussplenums aushängen, damit alle sie lesen können. Traditionell gibt es fast immer mindestens eine Resolution auf der KoMa.
 
 ### Satzung
 
