@@ -13,12 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: DeterminateSystems/nix-installer-action@v9
-      - uses: DeterminateSystems/magic-nix-cache-action@v3
+      #      - uses: DeterminateSystems/magic-nix-cache-action@v3
       - env:
           BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
       - run: echo "name=PR_NUMBER::$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
-      - run: nix --version
       - run: nix --print-build-logs build .#KoMaHomepageTar -o homepage.tar.xz
       - uses: actions/upload-artifact@v3
         with:
