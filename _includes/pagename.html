@@ -1,4 +1,0 @@
-{% comment %} -*- engine:django -*- {% endcomment %}
-
-{%- assign fallback_name =  include.page.url | split: '/' | last | capitalize -%}
-{% if include.page.title and include.page.entitle %}<span lang="de">{{include.page.title}}</span><span lang="en">{{include.page.entitle}}</span>{% else %}<span>{{include.page.title|default:include.page.entitle|default:fallback_name|default:site.title}}</span>{% endif %}

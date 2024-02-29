@@ -1,67 +1,24 @@
 {
   "nodes": {
-    "dependencyDagOfSubmodule": {
-      "inputs": {
-        "nixpkgs": [
-          "wat",
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1655242631,
-        "narHash": "sha256-GoB43hCj7wf/QL2J4afDsWQJZSAnRuNQi97uOWKryD8=",
-        "owner": "thelegy",
-        "repo": "nix-dependencyDagOfSubmodule",
-        "rev": "b565ef8f48c82955a1f46ecea56ff4ca06929ab8",
-        "type": "github"
-      },
-      "original": {
-        "owner": "thelegy",
-        "repo": "nix-dependencyDagOfSubmodule",
-        "type": "github"
-      }
-    },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1679081381,
-        "narHash": "sha256-n4+SbrVohxbgbmOTkodfxc3d8W38OfKowD6YNA8j27o=",
-        "owner": "NixOS",
+        "lastModified": 1706718339,
+        "narHash": "sha256-S+S97c/HzkO2A/YsU7ZmNF9w2s7Xk6P8dzmfDdckzLs=",
+        "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "b573a7f69484a7d213680abb70b4f95bdc28eee5",
+        "rev": "53fbe41cf76b6a685004194e38e889bc8857e8c2",
         "type": "github"
       },
       "original": {
-        "owner": "NixOS",
-        "ref": "nixos-unstable",
+        "owner": "nixos",
+        "ref": "nixos-23.11",
         "repo": "nixpkgs",
         "type": "github"
       }
     },
     "root": {
       "inputs": {
-        "nixpkgs": "nixpkgs",
-        "wat": "wat"
-      }
-    },
-    "wat": {
-      "inputs": {
-        "dependencyDagOfSubmodule": "dependencyDagOfSubmodule",
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1673372077,
-        "narHash": "sha256-deTyjxTVuXrB5TK/WasL+n+OSeifLkGf5Ch2ETMlVyw=",
-        "owner": "thelegy",
-        "repo": "wat",
-        "rev": "23405784a36790347c3e0cfad45d9b837421aba7",
-        "type": "github"
-      },
-      "original": {
-        "owner": "thelegy",
-        "repo": "wat",
-        "type": "github"
+        "nixpkgs": "nixpkgs"
       }
     }
   },
