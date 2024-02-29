@@ -1,5 +1,5 @@
 {
-  "name": "KoMaHomepage",
+  "name": "koma-homepage",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,18 +11,21 @@
     "prettier": "prettier"
   },
   "dependencies": {
+    "@astrojs/check": "^0.5.6",
     "@astrojs/mdx": "^2.1.1",
     "@astrojs/tailwind": "^5.1.0",
+    "@tailwindcss/typography": "^0.5.10",
     "astro": "^4.2.4",
     "astro-compress": "^2.2.9",
     "astro-heroicons": "^2.1.1",
     "prettier": "^3.2.4",
     "prettier-plugin-astro": "^0.13.0",
     "prettier-plugin-tailwindcss": "^0.5.11",
-    "tailwindcss": "^3.4.1"
-  },
-  "devDependencies": {
-    "@tailwindcss/typography": "^0.5.10"
+    "rehype-external-links": "^3.0.0",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3",
+    "vite": "5.0"
   },
   "prettier": {
     "useTabs": false,

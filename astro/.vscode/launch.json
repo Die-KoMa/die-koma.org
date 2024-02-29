@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "command": "bun astro dev --host",
+      "command": "npm run astro dev -- --host",
       "name": "Development server",
       "request": "launch",
       "type": "node-terminal"
