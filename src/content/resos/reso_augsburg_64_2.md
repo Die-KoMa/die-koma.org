@@ -1,8 +1,8 @@
---- 
-title: Resolution Augsburg 1
+---
+title: Resolution Augsburg 64/1
 ---
 
-### Resolution - Zum Thema Evaluation
+### 64/1 Resolution - Zum Thema Evaluation
 
 Resolution der 64. Konferenz der deutschsprachigen Mathematikfachschaften (KoMa)
 

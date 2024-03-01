@@ -1,7 +1,8 @@
---- 
-title: Resolution Paderborn 3
 ---
-### Resolution zu Studiengebühren
+title: Resolution Paderborn 49/3
+---
+
+### 49/3 Resolution zu Studiengebühren
 
 Anläßlich der bevorstehenden Plenarsitzung der Hochschul-Rektoren-Konferenz am 6.11.2001 bekräftigen KoMa und KIF ihre Forderung nach genereller Gebührenfreiheit des Studiums.
 

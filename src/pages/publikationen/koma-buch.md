@@ -1,6 +1,5 @@
 ---
 title: KoMa-Buch
-menutitle: KoMa-Buch
 order: 7
 ---
 
@@ -10,7 +9,13 @@ Auf der KoMa 56 in Zürich (damals noch unter anderer Nummer bekannt) wurde nach
 
 Von dieser Archivrecherche ausgehend begann Nico Hauser mit einer umfassenden Arbeit, in welcher die KoMa-Archive gesichtet und in eine übersichtliche Form gebracht werden sollten. Ergebnis dieser Arbeit war das KoMa-Geschichtsbuch, welches auf der KoMa 58 in Oldenburg präsentiert wurde.
 
-Dieses Buch könnt ihr sowohl hier als PDF oder direkt bei Nico als gedrucktes Werk erhalten. Solltet ihr das PDF weiterverbreiten wollen, so lest bitte aufmerksam die [Lizenzbestimmungen](lizenz).
+Dieses Buch könnt ihr sowohl hier als PDF oder direkt bei Nico als gedrucktes Werk erhalten. Solltet ihr das PDF weiterverbreiten wollen, so lest bitte aufmerksam die Lizenzbestimmungen.
+
+## Lizenzbestimmungen
+
+Das KoMa-Buch ist geistiges Eigentum von Nico Hauser. Als solches darf es ausschließlich von Nico Hauser verändert werden. Dieses Buch darf ausschließlich nicht kommerziell weitergegeben werden. Insbesondere ist jeder Druck dieses Buches auf den Selbstkostenpreis beschränkt.
+
+Für Bestimmungen des Datenschutzes verweisen wir auf Seite 5 des Buches.
 
 # Motivation
 
@@ -40,7 +45,7 @@ Das Buch erhaltet ihr unter [diesem Link](https://file.komapedia.org/Nico-Hauser
 
 # Bestellung
 
-[//]: # (Das Folgende ist vermutlich seit langem nciht mehr aktuell und sollte daher nicht mehr auf der Website stehen)
-[//]: # (Das Buch wurde von der Konferenz der deutschsprachigen  Mathematikfachschaften herausgegeben, ist aber direkt beim Autor erhältlich. Es kostet 9,5 Euro zzgl. 2 Euro Versand, die im Voraus zu überweisen sind.)
+[//]: # 'Das Folgende ist vermutlich seit langem nciht mehr aktuell und sollte daher nicht mehr auf der Website stehen'
+[//]: # 'Das Buch wurde von der Konferenz der deutschsprachigen  Mathematikfachschaften herausgegeben, ist aber direkt beim Autor erhältlich. Es kostet 9,5 Euro zzgl. 2 Euro Versand, die im Voraus zu überweisen sind.'
 
 Wer das Buch haben möchte, wende sich per Email an Nico Hauser, der dann weitere Informationen zu Bezahlung und Versand mitteilt: <nhauser@em.uni-frankfurt.de>.

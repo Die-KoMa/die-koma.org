@@ -1,6 +1,5 @@
 ---
 title: Berufungshandbuch
-menutitle: Berufungshandbuch
 order: 6
 ---
 
@@ -17,14 +16,16 @@ Im Rahmen des Arbeitskreises wurde 2009 ein Handbuch erarbeitet, welche Studiere
 # Handbuch Download
 
 ## 2. Auflage, Sommersemester 2012
+
 [bkhandbuch v2.pdf](https://file.komapedia.org/Bkhandbuch_v2.pdf)
 
 ## 1. Auflage, Sommersemester 2009
+
 [bkhandbuch v1.pdf](https://file.komapedia.org/Bkhandbuch_v1.pdf)
 
 # Vortragsfolien Berufungskommissionen
 
 Vortragsfolien zum Ablauf einer Berufungskommission und der studentischen Mitwirkung in derselbigen.
 
-* [Vortrag AK BK, Tim Haga, KoMa 66](https://file.komapedia.org/KoMa_66_vortrag_ak_bk.pdf)
-* [Vortrag AK BK, Peter Köß, KoMa 74](https://file.komapedia.org/KoMa_74_vortrag_ak_bk.pdf)
+- [Vortrag AK BK, Tim Haga, KoMa 66](https://file.komapedia.org/KoMa_66_vortrag_ak_bk.pdf)
+- [Vortrag AK BK, Peter Köß, KoMa 74](https://file.komapedia.org/KoMa_74_vortrag_ak_bk.pdf)
