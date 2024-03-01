@@ -61,7 +61,7 @@ jobs:
           name: build-artifacts
       - run: rm -rf homepage
       - run: tar xvf homepage.tar*
-      - run: mv build homepage
+      - run: mv dist homepage
       - run: git add homepage
       - run: git status
       - run: git config --global user.email "homepage@die-koma.org"
