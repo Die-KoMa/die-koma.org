@@ -20,7 +20,7 @@ function rehypeExternalLinksPlugin() {
     properties: (element) => ({
       className: twMerge(
         element.properties.className?.toString(),
-        'after:ml-1 after:mask-externalLink after:[mask-position:center] after:[mask-repeat:no-repeat] after:size-[1em] after:align-text-top after:inline-block after:bg-current',
+        'after:external-link after:ml-1',
       ),
     }),
   })

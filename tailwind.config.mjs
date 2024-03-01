@@ -2,7 +2,7 @@
 
 import plugin from 'tailwindcss/plugin'
 
-const tailwindPlugin = plugin(({ theme, matchUtilities }) => {
+const tailwindPlugin = plugin(({ theme, matchUtilities, addComponents }) => {
   matchUtilities(
     {
       mask: (value) => ({
@@ -16,6 +16,21 @@ const tailwindPlugin = plugin(({ theme, matchUtilities }) => {
       },
     },
   )
+  addComponents({
+    '.external-link': {
+      '--size': '1em',
+      mask: theme('backgroundImage.externalLink'),
+      maskSize: 'contain',
+      maskRepeat: 'no-repeat',
+      maskPosition: 'center',
+      backgroundColor: 'currentcolor',
+      height: 'var(--size)',
+      width: 'var(--size)',
+      display: 'inline-block',
+      verticalAlign: 'baseline',
+      marginBottom: 'calc(-.15 * var(--size))',
+    },
+  })
 })
 
 export default {
