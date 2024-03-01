@@ -13,7 +13,9 @@ automatically.
 # Installation
 Short: Use [Astro](https://astro.build/).
 
-Long: You will need a working Javascript runtime and a package manager such as NPM.
+Long: You will need a working Javascript runtime (e.g., `nodejs`) and
+a package manager such as `npm`. Then install the dependencies and run
+`npm run dev`.
 
 ## Nix (best support)
 ```sh
@@ -33,7 +35,7 @@ nix run
 ```
 
 
-## Debian / Ubuntu
+## Debian/Ubuntu
 ```sh
 # ruby installation stuff:
 sudo apt install nodejs npm
@@ -43,13 +45,12 @@ npm install  # install dependencies
 npm run dev  # start development server
 ```
 
-## Mac
-same as above but use homebrew instead of apt.
+## MacOS
+Likely the same as above, but use `homebrew` instead of `apt`?
 
 
 ## Windows
-you're lost anyways, I don't know how to handle that odyssee. WSL2 with Nix should work though.
-
+You've lost the game anyways, perhaps try WSL2 with nix?
 
 ## Windows with WSL Ubuntu
 ```sh
