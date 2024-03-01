@@ -1,12 +1,15 @@
 ---
 title: Kartenspiel
-menutitle: Kartenspiel
 order: 3
 ---
 
 # Mathematisches Skatblatt (2004)
 
-![Mathematisches Skatblatt](/static/Kartenspiel/csm_koma_kartenspiele_41bb732c78.png){: .float-right}
+<div class="float-right pl-4 pb-4 w-48 not-prose">
+
+![Mathematisches Skatblatt](/static/Kartenspiel/csm_koma_kartenspiele_41bb732c78.png)
+
+</div>
 
 Auf der KoMa im Sommersemester 1998 in Dresden entstanden Entwürfe für ein mathematisches Kartenspiel. Das Projekt wurde im Wintersemester 2003/04 auf der KoMa in Siegen wieder aufgenommen und dann bis zur darauf folgenden KoMa zu Ende geführt.
 
@@ -16,10 +19,10 @@ Herausgekommen ist ein "Mathematisches Skatblatt" mit 32 Karten und vier Farben.
 
 Zudem sind die Köpfe mit bedeutenden Mathematikern der folgenden Fachbereiche besetzt:
 
-* Kreuz: Funktionalanalysis
-* Pik: Zahlentheorie
-* Herz: Analysis
-* Karo: Geometrie
+- Kreuz: Funktionalanalysis
+- Pik: Zahlentheorie
+- Herz: Analysis
+- Karo: Geometrie
 
 Die Rückseite der Karten ziert letztendlich ein Apfelmännchen.
 
@@ -27,7 +30,11 @@ Dieses Skatblatt ist inzwischen **ausverkauft** und wird nicht mehr nachgedruckt
 
 # Mathematisches Romméblatt (2014)
 
-![Mathematisches Romméblatt](/static/Kartenspiel/csm_Werbung_526638a30b.png){: .float-right width="190px"}
+<div class="float-right pl-4 pb-4 w-48 not-prose">
+
+![Mathematisches Romméblatt](/static/Kartenspiel/csm_Werbung_526638a30b.png)
+
+</div>
 
 Circa 10 Jahre nach der ersten Version gab es eine Neuauflage mit überarbeitetem Design, neuen Motiven und 55 statt 32 Karten (also als halbes Romméblatt). Natürlich sind die Zahlenkarten noch immer mit mathematischen Motiven geschmückt, und die Bildkarten mit berühmten Mathematikern. Lediglich das Layout wurde weiterentwickelt und natürlich die konkreten Personen und Symbole ausgetauscht.
 
@@ -51,15 +58,20 @@ Die Angabe einer Mehrwertsteuer entfällt aufgrund der Kleinunternehmerregelung.
 Bitte habt Verständnis dafür, dass es einige Tage dauern kann, bis wir die Spiele versenden, da wir dies neben unserem eigentlich Studium tun und nicht immer sofort Zeit dafür finden.
 Ein weiterer Druck ist jedoch bereits in Arbeit, sodass wir vermutlich Anfang 2023 neue Kartenspiele liefern können.
 -->
-Das (halbe) Romméblatt (2014) ist leider **ausverkauft**.
 
+Das (halbe) Romméblatt (2014) ist leider **ausverkauft**.
 
 # Mathematisches Romméblatt (2023)
 
-![Mathematisches Romméblatt](/static/Kartenspiel/2023_romme_Titelblatt.png){: .float-right}
+<div class="float-right pl-4 pb-4 w-48 not-prose">
+
+![Mathematisches Romméblatt](/static/Kartenspiel/2023_romme_Titelblatt.png)
+
+</div>
 
 Weitere ca. 10 Jahre sind vergangen, alle Spiele sind vergriffen, also ist es Zeit für eine Neuauflage!
 Im März 2023 gehen wieder Kartenspiele in den Druck und sind bald verfügbar.
 
 ## Bestellung
+
 Informationen zur Bestellung folgen bald.
