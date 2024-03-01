@@ -28,6 +28,9 @@ function rehypeExternalLinksPlugin() {
 
 // https://astro.build/config
 export default defineConfig({
+  prefetch: {
+    prefetchAll: true,
+  },
   integrations: [mdx(), tailwind(), compress()],
   markdown: {
     remarkPlugins: [setDefaultLayout],
