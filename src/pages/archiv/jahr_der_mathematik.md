@@ -1,6 +1,5 @@
 ---
 title: Jahr der Mathematik
-menutitle: Jahr der Mathematik
 order: 7
 ---
 
