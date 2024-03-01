@@ -1,8 +1,8 @@
 # die-koma.org
-Jekyll Code of the KoMa website.
+Astro Code of the KoMa website.
 
-[Jekyll](https://jekyllrb.com/) is a static site generator that takes
-these [Markdown](https://kramdown.gettalong.org/quickref.html) templates and produces static HTML files.
+[Astro](https://astro.build/) is a static site generator that takes
+these [Markdown](https://commonmark.org/help/) templates and produces static HTML files.
 
 # How to contribute
 
