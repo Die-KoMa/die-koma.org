@@ -212,15 +212,15 @@ Aufgrund der Einführung eines vergünstigten Semesterticket für Studierende ha
 
 ## Augsburg
 
-[**64/1: Resolution - Lehrproben in Berufungsverfahren**](reso_augsburg_1)
+[**64/1: Resolution - Lehrproben in Berufungsverfahren**](reso_augsburg_64_1)
 
-[**64/2: Resolution - Zum Thema Evaluation**](reso_augsburg_2)
+[**64/2: Resolution - Zum Thema Evaluation**](reso_augsburg_64_2)
 
 ## Oldenburg
 
 [**58/1: Resolution zur Verbesserung der Lehrerausbildung im Fach Mathematik**](https://file.komapedia.org/58_1.pdf)
 
-[**58/2: Resolution - Umfragebogen**](reso_oldenburg_2)
+[**58/2: Resolution - Umfragebogen**](reso_oldenburg_58_2)
 
 ## Zürich
 
@@ -230,30 +230,30 @@ Aufgrund der Einführung eines vergünstigten Semesterticket für Studierende ha
 
 ## Dortmund
 
-[**50/1: Resolution gegen Studiengebühren**](reso_dortmund_1)
+[**50/1: Resolution gegen Studiengebühren**](reso_dortmund_50_1)
 
-[**50/2: Resolution zu Positionspapieren zu Bachelor/-Master-Studiengängen**](reso_dortmund_2)
+[**50/2: Resolution zu Positionspapieren zu Bachelor/-Master-Studiengängen**](reso_dortmund_50_2)
 
-[**50/3: Resolution zur Ablehnung des österreichischen Universitätsgesetzes von 2002**](reso_dortmund_3)
+[**50/3: Resolution zur Ablehnung des österreichischen Universitätsgesetzes von 2002**](reso_dortmund_50_3)
 
-[**50/4: Resolution zum Beitritt zum ABS**](reso_dortmund_4)
+[**50/4: Resolution zum Beitritt zum ABS**](reso_dortmund_50_4)
 
 ## Paderborn
 
-[**49/1: Resolution zur Rasterfahndung**](reso_paderborn_1)
+[**49/1: Resolution zur Rasterfahndung**](reso_paderborn_49_1)
 
-[**49/2: Resolution zu Bachelor und Master**](reso_paderborn_2)
+[**49/2: Resolution zu Bachelor und Master**](reso_paderborn_49_2)
 
-[**49/3: Resolution zu Studiengebühren**](reso_paderborn_3)
+[**49/3: Resolution zu Studiengebühren**](reso_paderborn_49_3)
 
-[**49/4: Resolution zu Internationalen Studiengängen**](reso_paderborn_4)
+[**49/4: Resolution zu Internationalen Studiengängen**](reso_paderborn_49_4)
 
 ## Clausthal
 
-[**38/1: Resolution für eine solidarische Bildungsförderung und gegen Studiengebühren**](reso_clausthal_1)
+[**38/1: Resolution für eine solidarische Bildungsförderung und gegen Studiengebühren**](reso_clausthal_38_1)
 
 ## Chemnitz
 
-[**37/1: Resolution gegen Zensurversuche im WWW**](reso_chemnitz_1)
+[**37/1: Resolution gegen Zensurversuche im WWW**](reso_chemnitz_37_1)
 
-[**37/2: Resolution: Die Bildungsmörder stoppen!**](reso_chemnitz_2)
+[**37/2: Resolution: Die Bildungsmörder stoppen!**](reso_chemnitz_37_2)

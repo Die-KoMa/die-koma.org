@@ -1,8 +1,8 @@
---- 
-title: Resolution Dortmund 4
+---
+title: Resolution Dortmund 50/4
 ---
 
-### Resolution zum Beitritt zum ABS
+### 50/4 Resolution zum Beitritt zum ABS
 
 Die 44. Konferenz der deutschsprachigen Mathematikfachschaften bestätigt ihre Mitgliedschaft im ABS, welche auf der Konferenz der deutschsprachigen Mathematikfachschaften in Freiburg beschlossen wurde.
 

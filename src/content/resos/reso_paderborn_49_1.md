@@ -1,7 +1,9 @@
---- 
-title: Resolution Paderborn 1
 ---
-### Resolution zur Rasterfahndung
+title: Resolution Paderborn 49/1
+---
+
+### 49/1 Resolution zur Rasterfahndung
+
 Schützt die Verfassung vor den Politikern!
 KIF und KoMa warnen vor dem Studium in Deutschland
 

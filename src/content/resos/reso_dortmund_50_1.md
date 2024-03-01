@@ -1,8 +1,8 @@
---- 
-title: Resolution Dortmund 1
+---
+title: Resolution Dortmund 50/1
 ---
 
-### Resolution gegen Studiengebühren
+### 50/1: Resolution gegen Studiengebühren
 
 Wir unterstützen die aktuellen Proteste und Streiks gegen die Einführung von Studiengebühren. Ebenso lehnen wir verkappte Studiengebühren, wie Studienkonten und sogenannte Verwaltungsgebühren ab.
 

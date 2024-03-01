@@ -1,7 +1,8 @@
---- 
-title: Resolution Paderborn 4
 ---
-### Resolution zu Internationalen Studiengängen
+title: Resolution Paderborn 49/4
+---
+
+### 49/4 Resolution zu Internationalen Studiengängen
 
 Die KoMa begrüßt die Einführung von internationalen Studiengängen. Sie fordert die Fakultäten und Fachbereiche auf, sich eingehend mit der Studierbarkeit der geplanten Studiengänge für ausländische Studierende zu beschäftigen.
 

@@ -1,8 +1,8 @@
---- 
-title: Resolution Dortmund 3
+---
+title: Resolution Dortmund 50/3
 ---
 
-### Resolution zur Ablehnung des österreichischen Universitätsgesetzes von 2002
+### 50/3 Resolution zur Ablehnung des österreichischen Universitätsgesetzes von 2002
 
 Wir, die 44. Konferenz der deutschsprachigen Mathematikfachschaften und die 30,0te Konferenz der Informatikfachschaften, lehnen den Gesetzesentwurf (Universitätsgesetz 2002) des österreichischen Bundesministeriums für Bildung, Wissenschaft und Forschung ab.
 

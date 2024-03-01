@@ -1,7 +1,8 @@
---- 
-title: Resolution Chemnitz 1
 ---
-### Resolution gegen Zensurversuche im WWW
+title: Resolution Chemnitz 37/1
+---
+
+### 37/1 Resolution gegen Zensurversuche im WWW
 
 Resolution der Konferenz der deutschsprachigen Mathematikfachschaften (KoMa) vom 15. bis 19.11.95 in Chemnitz
 

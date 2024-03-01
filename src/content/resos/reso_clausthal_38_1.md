@@ -1,7 +1,8 @@
---- 
-title: Resolution Clausthal 1
 ---
-### Resolution für eine solidarische Bildungsförderung und gegen Studiengebühren
+title: Resolution Clausthal 30/1
+---
+
+### 38/1 Resolution für eine solidarische Bildungsförderung und gegen Studiengebühren
 
 #### Die herrschende Tendenz: Privatisierung sozialer Risiken durch die Bildungspolitik
 
@@ -13,15 +14,12 @@ Der dreist-zynische Charakter dieser Planungen von Bund, Ländern, Parteien und 
 
 In dieser Situation setzt sich die Konferenz der deutschsprachigen Mathematikfachschaften (KoMa) für die **Reform einer sozialstaatlichen und auf Chancenausgleich ausgerichteten Ausbildungsfinanzierung** ein: Wir fordern im Sinne der nachfolgend entwickelten Argumente und Vorschläge eine stärkere Integration und Durchlässigkeit von wissenschaftlicher und beruflicher Bildung, eine Ausbildungsförderung als Zuschuß im Rahmen der **Wiederherstellung der allgemeinpolitischen Zielsetzungen von Chancengleichheit und sozialer Öffnung der Hochschulen.** Ohne Chancengleichheit in Bildung und Beruf wird es keine offene, demokratische und gerechte Gesellschaft geben.
 
- 
 #### Unsere Forderungen
 
 #####Bedarfsgerechte und elternunabhängige Studienfinanzierung als Zuschuß.
 #####Keine Studiengebühren.
 
 Da das BAföG in seiner gegenwärtigen Form immer weiter hinter seine ursprüngliche Intention des Ausgleichs sozial bedingter ungleicher Bildungschancen zurückfällt, tritt die KoMa für eine sozialstaatlich orientierte Reform der Studienfinanzierung ein, die sich an folgenden Prinzipien orientiert:
-
- 
 
     Bildung und Ausbildung müssen zuallererst als Vorgang individueller und gesellschaftlicher Emanzipation betrachtet werden - und nicht primär als ökonomischer Standortfaktor. Bildungsfinanzierung ist daher als gesellschaftliche Aufgabe grundsätzlich Verpflichtung des Staates.
 
@@ -35,7 +33,7 @@ Da das BAföG in seiner gegenwärtigen Form immer weiter hinter seine ursprüngl
 
         Eine sozialstaatliche Lösung des Problems kann jedoch nicht ,,kostenneutral'' sein. Das finanzielle Volumen muß allein deswegen erhöht werden, um den Umfang der Förderbeträge, ihre zeitliche Dauer und den Kreis der Geförderten den gesellschaftlichen Realitäten anzupassen.
 
-        Ein Spielraum ergibt sich schon aus dem Verzicht auf gesellschaftlich unsinnige Großprojekte (beispielsweise Eurofighter und Transrapid). 
+        Ein Spielraum ergibt sich schon aus dem Verzicht auf gesellschaftlich unsinnige Großprojekte (beispielsweise Eurofighter und Transrapid).
 
     Mittelfristig ist eine stärkere sozial orientierte Schwerpunktsetzung der öffentlichen Bildungs- und Wissenschaftsausgaben erforderlich. Eine reformierte Ausbildungsförderung muß sich perspektivisch in ein Modell einer bedarfsgerechten sozialen Mindest- oder Grundsicherung einfügen.
 

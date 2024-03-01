@@ -1,6 +1,5 @@
 ---
 title: Meine kleine Uni
-menutitle: Meine kleine Uni
 order: 8
 ---
 
@@ -12,10 +11,10 @@ Das Spiel "Meine kleine Uni" wurde vom Arbeitskreis "Erstsemesterarbeit" entwick
 
 Das Spiel simuliert den studentischen Alltag mit all seinen erwarteten und unerwarteten Ereignissen, festgehalten auf fast 250 Ereigniskarten.
 
-"Meine kleine Uni"  ist nicht an den Fachinhalt Mathematik gebunden, lediglich einzelne Ereigniskarten enthalten Worte wie z. B. Analysis. Als Veranstaltungsformen wurden Vorlesung und Übung berücksichtigt. Das Spiel berücksichtigt nicht spezielle  Scheinanforderungen, sondern schließt mit einer fiktiven, zweiteiligen Prüfung ab. (Für die Prüfung braucht man Geschick und Glück im Spiel, keinerlei Mathematik-Kenntnisse.)
+"Meine kleine Uni" ist nicht an den Fachinhalt Mathematik gebunden, lediglich einzelne Ereigniskarten enthalten Worte wie z. B. Analysis. Als Veranstaltungsformen wurden Vorlesung und Übung berücksichtigt. Das Spiel berücksichtigt nicht spezielle Scheinanforderungen, sondern schließt mit einer fiktiven, zweiteiligen Prüfung ab. (Für die Prüfung braucht man Geschick und Glück im Spiel, keinerlei Mathematik-Kenntnisse.)
 
 Es gibt keine SpielerInnenbegrenzung, jedoch erscheint uns 5 bis 10 als eine empfehlenswerte SpielerInnen-Anzahl.
-Das Spiel kann und soll keine ganze Orientierungsphase ersetzen, sondern bietet eine ideale Ergänzung zu sonstigen Aktivitäten. Man wird dabei spielerisch vertraut mit Begriffen wie Vorlesung, Übung, Bibliothek, Selbststudium, Arbeitsgruppe, Fachschaft und lernt dabei das ein oder andere über sie kennen.  (ist nicht nur geeignet für Erstsemester, auch höhere Semester und Fachschaftsleute haben ihren Spaß daran).
+Das Spiel kann und soll keine ganze Orientierungsphase ersetzen, sondern bietet eine ideale Ergänzung zu sonstigen Aktivitäten. Man wird dabei spielerisch vertraut mit Begriffen wie Vorlesung, Übung, Bibliothek, Selbststudium, Arbeitsgruppe, Fachschaft und lernt dabei das ein oder andere über sie kennen. (ist nicht nur geeignet für Erstsemester, auch höhere Semester und Fachschaftsleute haben ihren Spaß daran).
 
 ## Download
 
@@ -23,11 +22,11 @@ Falls ihr das Spiel in der unveränderten Version von 1992 spielen möchtet, kö
 
 ### Dateien:
 
-* [Anleitung](https://file.komapedia.org/Meine_Kleine_Uni_Anleitung.pdf)
-* [Spielplan](https://file.komapedia.org/Meine_Kleine_Uni_Plan.pdf)
-* [Ereigniskärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Ereignis.pdf)
-* [Punktekärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Punkte.pdf)
-* [Prüferkärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Profmak.pdf)
+- [Anleitung](https://file.komapedia.org/Meine_Kleine_Uni_Anleitung.pdf)
+- [Spielplan](https://file.komapedia.org/Meine_Kleine_Uni_Plan.pdf)
+- [Ereigniskärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Ereignis.pdf)
+- [Punktekärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Punkte.pdf)
+- [Prüferkärtchen](https://file.komapedia.org/Meine_Kleine_Uni_Profmak.pdf)
 
 ### Zum Drucken
 
@@ -43,9 +42,9 @@ Diese Versionen könnt ihr dann problemlos ändern und erweitern. In diesem Fall
 
 ### Version 1
 
-Ihr bekommt von uns eine Diskette [42], auf der sich alle Files befinden. Den Rest macht ihr dann selber. (Ausdrucken, kopieren, usw.) Falls ihr ein zuverlässiges e-mail-System besitzt, könnten die Files auch per e-mail kommen (Dann ohne Kosten).
+Ihr bekommt von uns eine Diskette [^42], auf der sich alle Files befinden. Den Rest macht ihr dann selber. (Ausdrucken, kopieren, usw.) Falls ihr ein zuverlässiges e-mail-System besitzt, könnten die Files auch per e-mail kommen (Dann ohne Kosten).
 
-[42] [MS-DOS, 3,5''](https://file.komapedia.org/Meine_Kleine_Uni_Dos.zip)
+[^42]: [MS-DOS, 3,5''](https://file.komapedia.org/Meine_Kleine_Uni_Dos.zip)
 
 und für [UNIX-Systeme](https://file.komapedia.org/Meine_Kleine_Uni_Versand.zip)
 

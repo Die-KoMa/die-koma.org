@@ -1,6 +1,5 @@
 ---
 title: KoMa-Kurier
-menutitle: KoMa-Kurier
 order: 1
 ---
 
@@ -13,11 +12,12 @@ Er besteht vor allem aus Protokollen und AK-Berichten der jeweils letzten KoMa, 
 Der Kurier ist kostenlos sowohl in unserem [Wiki](https://komapedia.org/wiki/Kurier) als auch im Archiv der Deutschen Nationalbibliothek erhältlich.
 Der neueste veröffentlichte Band ist der folgende:
 
-[![KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_prev.jpg)](https://file.komapedia.org/Kurier88_OnlineVersion.pdf)
+[![KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_prev.jpg) KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_OnlineVersion.pdf)
 
 (Hinweis: Aktuell werden noch Ergänzungen am Kurier vorgenommen.)
 
 ## Kurzinformationen zu den Ergebnissen der KoMa
+
 In diesem Dokument des BMBF sind wesentliche Informationen zu den Ergebnisen der KoMa 88 zu entnehmen:
 [Kurzinformation zu den Ergebnissen der Maßnahme](https://file.komapedia.org/KoMa88_Kurzinformationen.pdf)
 
