@@ -21,7 +21,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [**89/4: Resolution zu Ruheräumen**](https://file.komapedia.org/89_4.pdf)
 
-[**89/5: Resolution zu barriefreien Gebäuden**](https://file.komapedia.org/89_5.pdf)
+[**89/5: Resolution zu barrierefreien Gebäuden**](https://file.komapedia.org/89_5.pdf)
 
 ### Zudem wurde sich auf der KoMa 89 folgenden Forderungen per Resolution im Konsens angeschlossen
 
