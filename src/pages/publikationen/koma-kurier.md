@@ -19,8 +19,10 @@ Die neuesten veröffentlichten Bände sind die folgenden:
 
 ## Kurzinformationen zu den Ergebnissen der KoMa
 
-In diesem Dokument des BMBF sind wesentliche Informationen zu den Ergebnisen der KoMa 88 zu entnehmen:
-[Kurzinformation zu den Ergebnissen der Maßnahme](https://file.komapedia.org/KoMa88_Kurzinformationen.pdf)
+Das BMBF fördert viele unserer Tagungen.
+Zusätzlich zum Tagungsband sind daher im folgenden die sogenannten "Kurzinformationen zu den Ergebnissen einer Maßnahme" verlinkt, welche jeweils eine kurze und vereinheitlichte Darstellung der Ergebnisse der Tagungen beinhalten:
+- [Kurzinformation zu den Ergebnissen der KoMa 89](https://file.komapedia.org/KoMa89_Kurzinformationen.pdf)
+- [Kurzinformation zu den Ergebnissen der KoMa 88](https://file.komapedia.org/KoMa88_Kurzinformationen.pdf)
 
 ## Kontakt zur Redaktion
 
