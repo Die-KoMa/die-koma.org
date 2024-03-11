@@ -13,6 +13,7 @@ Der Kurier ist kostenlos sowohl in unserem [Wiki](https://komapedia.org/wiki/Kur
 Der neueste veröffentlichte Band ist der folgende:
 
 [![KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_prev.jpg) KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_OnlineVersion.pdf)
+[![KoMa Kurier der 89. KoMa in Darmstadt](https://file.komapedia.org/Kurier89_prev.jpg) KoMa Kurier der 89. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier89_OnlineVersion.pdf)
 
 (Hinweis: Aktuell werden noch Ergänzungen am Kurier vorgenommen.)
 
