@@ -8,6 +8,8 @@ type KoMa = {
   location: string
   start: Date
   end: Date
+  info?: string
+  signup?: string
 }
 
 const komata = Object.values(json).map((koma) => {
@@ -18,6 +20,8 @@ const komata = Object.values(json).map((koma) => {
     location: koma.printouts.Ort[0],
     start: new Date(Number(koma.printouts.Beginn[0].timestamp) * 1000),
     end: new Date(Number(koma.printouts.Ende[0].timestamp) * 1000),
+    info: koma.printouts.Anmeldung[0],
+    signup: koma.printouts.Infoseite[0],
   }
 })
 
@@ -53,16 +57,23 @@ function formatDateRange(start: Date, end: Date) {
     <ul class="h-full px-2 pb-2">
       {
         komata.slice(0, 2).map((koma) => {
-          const { name, url, location, start, end } = koma
+          const { name, url, location, start, end, info, signup } = koma
+          const details = info || signup
+          const both = info && signup
           return (
             <li class="pb-2">
-              <a href={url}>
+              <a href={url} class="after:external-link">
                 <span class="block pb-1 pt-3 text-xs font-bold tracking-wider text-zinc-500 dark:text-zinc-400">
                   {formatDateRange(start, end)}
                 </span>
                 <span> {name} in </span>
                 <span class="font-semibold text-zinc-500 dark:text-zinc-400">{location}</span>
               </a>
+              {details && <div>(<!--
+                -->{info && <a href={info} class="after:external-link">Infoseite</a>}<!--
+                -->{both && <span>, </span>}
+                {signup && <a href={signup} class="after:external-link">Anmeldung</a>})<!--
+              --></div>}
             </li>
           )
         })
