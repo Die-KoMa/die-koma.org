@@ -21,7 +21,7 @@ jobs:
           private_key: ${{ secrets.APP_PRIVATE_KEY }}
 
       - name: Download raw json from the wiki
-        run: curl -o next-koma-raw.json --globoff "https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E$(date -I)]]|sort=KoMaNr|order=asc|limit=5|?Ort|?Beginn|?Ende"
+        run: curl -o next-koma-raw.json --globoff "https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E$(date -I)]]|sort=KoMaNr|order=asc|limit=5|?Ort|?Beginn|?Ende|?Anmeldung|?Infoseite"
 
       - name: Preprocess json results
         run: |
