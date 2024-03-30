@@ -20,8 +20,8 @@ const komata = Object.values(json).map((koma) => {
     location: koma.printouts.Ort[0],
     start: new Date(Number(koma.printouts.Beginn[0].timestamp) * 1000),
     end: new Date(Number(koma.printouts.Ende[0].timestamp) * 1000),
-    info: koma.printouts.Anmeldung[0],
-    signup: koma.printouts.Infoseite[0],
+    info: (koma.printouts.Anmeldung ?? [null])[0],
+    signup: (koma.printouts.Infoseite ?? [null])[0],
   }
 })
 
