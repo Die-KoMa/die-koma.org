@@ -59,7 +59,6 @@ function formatDateRange(start: Date, end: Date) {
         komata.slice(0, 2).map((koma) => {
           const { name, url, location, start, end, info, signup } = koma
           const details = info || signup
-          const both = info && signup
           return (
             <li class="pb-2">
               <a href={url} class="after:external-link after:ml-1"><!--
