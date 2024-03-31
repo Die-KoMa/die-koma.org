@@ -1,4 +1,4 @@
-name: "Update next-koma.json"
+name: 'Update next-koma.json'
 
 on:
   schedule:
@@ -20,13 +20,12 @@ jobs:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.APP_PRIVATE_KEY }}
 
-      - name: Download raw json from the wiki
-        run: curl -o next-koma-raw.json --globoff "https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E$(date -I)]]|sort=KoMaNr|order=asc|limit=5|?Ort|?Beginn|?Ende|?Anmeldung|?Infoseite"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-      - name: Preprocess json results
-        run: |
-          jq .query.results <next-koma-raw.json >next-koma.json
-          rm next-koma-raw.json
+      - name: Update from the wiki
+        run: python fetch-next-koma.py
 
       - name: Create Pull Request
         id: cpr
