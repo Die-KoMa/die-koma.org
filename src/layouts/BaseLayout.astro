@@ -16,11 +16,12 @@ import ThemeToggle from '@components/ThemeToggle.astro'
 ---
 
 <html class="no-theme" lang="de">
-  <meta charset="utf-8" />
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="generator" content={Astro.generator} />
-  <title>KoMa - {title}</title>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>KoMa - {title}</title>
+  </head>
 
   <body class="grid min-h-dvh grid-rows-[auto_1fr] bg-slate-100 dark:bg-slate-900">
     <script is:inline>
