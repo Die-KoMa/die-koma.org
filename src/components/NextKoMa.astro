@@ -57,23 +57,18 @@ function formatDateRange(start: Date, end: Date) {
     <ul class="h-full px-2 pb-2">
       {
         komata.slice(0, 2).map((koma) => {
-          const { name, url, location, start, end, info, signup } = koma
-          const details = info || signup
+          const { name, url, location, start, end } = koma
           return (
             <li class="pb-2">
-              <a href={url} class="after:external-link after:ml-1"><!--
-                --><span class="block pb-1 pt-3 text-xs font-bold tracking-wider text-zinc-500 dark:text-zinc-400">
+              <a href={url}>
+                <span class="block pb-1 pt-3 text-xs font-bold tracking-wider text-zinc-500 dark:text-zinc-400">
                   {formatDateRange(start, end)}
                 </span>
-                <span class="font-semibold text-zinc-500 dark:text-zinc-400">{name}</span>
-                <span> in </span>
-                <span class="font-semibold text-zinc-500 dark:text-zinc-400">{location}</span><!--
-              --></a>
-              {details && <ul class="relative left-4 list-disc">
-                <li><a href={url} class="after:external-link after:ml-1">KoMapedia</a></li>
-                {info && <li><a href={info} class="after:external-link after:ml-1">Infoseite</a></li>}
-                {signup && <li><a href={signup} class="after:external-link after:ml-1">Anmeldung</a></li>}
-              </ul>}
+              </a>
+              <a href={url} class="after:external-link after:ml-1 underline">
+                <span>{name} in </span>
+                <span class="font-semibold text-zinc-500 dark:text-zinc-400">{location}</span>
+              </a>
             </li>
           )
         })
