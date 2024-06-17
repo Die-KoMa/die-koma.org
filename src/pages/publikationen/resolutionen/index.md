@@ -15,7 +15,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [**90/3: Resolution für die Finanzierung von Tutorien an Hochschulen**](https://file.komapedia.org/90_3.pdf)
 
-[**90/4: Resolution zur Bereitstellung von Vorlesungsskripten**](https://file.komapedia.org/90_4.pdf)
+[**90/4: Resolution für die Bereitstellung von Vorlesungsskripten**](https://file.komapedia.org/90_4.pdf)
 
 
 ## Darmstadt
