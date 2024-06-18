@@ -53,14 +53,26 @@ Likely the same as above, but use `homebrew` instead of `apt`?
 You've lost the game anyways, perhaps try WSL2 with nix?
 
 ## Windows with WSL Ubuntu
+### Cloning and Installation (run once)
 ```sh
 # clone "die-koma.org" to a directory without any spaces!
 cd die-koma.org
+
 # start wsl in the directory
-# install nodejs and packages
-sudo apt install nodejs npm
+# install nodejs
+sudo apt install nodejs
+
+# depending on your distribution add npm (not necessary on noble)
+# sudo apt install npm
+```
+
+### Running the Website
+```sh
 cd "die-koma.org"
+# start wsl in the directory
+
 git pull  # make sure to be on main, pull latest version :)
 npm install  # install dependencies
 npm run dev  # start development server
+# open http://localhost:4321/ in a browser (either host or within wsl)
 ```
