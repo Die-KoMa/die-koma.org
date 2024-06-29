@@ -7,6 +7,17 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Bonn
+
+**90/1: Resolution gegen Verbote des Genderns** (upload steht aus)
+
+[**90/2: Resolution für die Vergütung studentischer Beteiligung an Berufungskommissionen**](https://file.komapedia.org/90_2.pdf)
+
+[**90/3: Resolution für die Finanzierung von Tutorien an Hochschulen**](https://file.komapedia.org/90_3.pdf)
+
+[**90/4: Resolution für die Bereitstellung von Vorlesungsskripten**](https://file.komapedia.org/90_4.pdf)
+
+
 ## Darmstadt
 
 ### originäre Resolutionen der KoMa 89
