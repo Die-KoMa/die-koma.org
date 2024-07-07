@@ -1,0 +1,7 @@
+---
+const { checked = false } = Astro.props
+---
+<label>
+  <input type="checkbox" checked={ checked ? "checked" : undefined } />
+  <slot />
+</label>
