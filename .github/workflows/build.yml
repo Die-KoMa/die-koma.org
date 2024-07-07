@@ -10,12 +10,14 @@ jobs:
   build:
     name: 'Build the die-koma.org website'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: DeterminateSystems/nix-installer-action@v12
         with:
           nix-installer-tag: v0.15.1
       - uses: DeterminateSystems/magic-nix-cache-action@v7
+        timeout-minutes: 5
       - env:
           BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
