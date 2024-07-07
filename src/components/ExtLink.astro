@@ -1,7 +1,17 @@
 ---
+import { twMerge } from 'tailwind-merge'
 import type { HTMLAttributes } from 'astro/types'
 
-interface Props extends HTMLAttributes<'a'> {}
+interface Props extends HTMLAttributes<'a'> {
+  noIcon?: bool
+}
+
+const { noIcon = false, ...props } = Astro.props
+const classes = twMerge(
+  'underline',
+  (noIcon ? '' : "after:external-link after:ml-1"),
+  props.class
+)
 
 ---
-<a class="after:external-link after:ml-1 underline" target="_blank" rel="noopener noreferrer" {...Astro.props}><slot /></a>
+<a rel="noopener noreferrer" {...props} class={classes}><slot /></a>
