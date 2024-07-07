@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # nix results
 result
+
+#*#
+*~
