@@ -3,6 +3,8 @@ title: Packliste
 order: 5
 ---
 import Checkbox from '@components/Checkbox.astro'
+import ExtLink from '@components/ExtLink.astro'
+import { komata } from '@lib/next-koma.tsx'
 
 # Packliste
 
@@ -37,7 +39,7 @@ import Checkbox from '@components/Checkbox.astro'
 - <Checkbox>Studierendenausweis</Checkbox>
 - <Checkbox>Studierendenbescheinigung</Checkbox>
 - <Checkbox>Wegbeschreibung</Checkbox>
-- <Checkbox>Materialien für AKs (vor der Fahrt mal auf die AK-Liste schauen, vielleicht habt Ihr etwas, das auf der KoMa nützlich sein könnte)</Checkbox>
+- <Checkbox>Materialien für AKs (vor der Fahrt mal auf die <ExtLink href={komata[0].url}>AK-Liste</ExtLink> schauen, vielleicht habt Ihr etwas, das auf der KoMa nützlich sein könnte)</Checkbox>
 - <Checkbox>Schreibzeug</Checkbox>
 - <Checkbox>Ggf. KoMa-Doku</Checkbox>
 - <Checkbox>Erstsemestrige/Neu-KoMatiker\*innen</Checkbox>
@@ -59,7 +61,7 @@ import Checkbox from '@components/Checkbox.astro'
 - <Checkbox>Bücher für den Büchertisch</Checkbox>
 - <Checkbox>Fachschaftszeitung/Studienführer</Checkbox>
 - <Checkbox>Wecker/Ohropax</Checkbox>
-- <Checkbox>Ideen für AKs</Checkbox>
+- <Checkbox>Ideen für <ExtLink href={komata[0].url}>AKs</ExtLink></Checkbox>
 - <Checkbox>Gute Laune</Checkbox>
 - <Checkbox>Eine Packerl Schlaf</Checkbox>
 - <Checkbox>Musik</Checkbox>
