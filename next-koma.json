@@ -19,7 +19,9 @@
           "timestamp": "1730592000"
         }
       ],
-      "Infoseite": [],
+      "Infoseite": [
+        "https://www.koma91.ovgu.de/"
+      ],
       "Ort": [
         "Magdeburg"
       ]
