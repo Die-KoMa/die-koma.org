@@ -19,8 +19,8 @@ Die neuesten veröffentlichten Bände sind die folgenden:
 
 <span class="images">
 
-[![KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_prev.jpg) KoMa Kurier der 88. KoMa in Kaiserslautern](https://file.komapedia.org/Kurier88_OnlineVersion.pdf)
 [![KoMa Kurier der 89. KoMa in Darmstadt](https://file.komapedia.org/Kurier89_prev.jpg) KoMa Kurier der 89. KoMa in Darmstadt](https://file.komapedia.org/Kurier89_OnlineVersion.pdf)
+[![KoMa Kurier der 90. KoMa in Bonn](https://file.komapedia.org/Kurier90_prev.jpg) KoMa Kurier der 90. KoMa in Darmstadt](https://file.komapedia.org/Kurier90_OnlineVersion.pdf)
 
 </span>
 
