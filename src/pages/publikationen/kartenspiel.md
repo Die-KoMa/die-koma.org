@@ -12,7 +12,7 @@ order: 3
 </div>
 
 Im Jahr 2023 ist eine Neuauflage des Kartenspiels eingetroffen!
-Verfügbar sind (halbe) Romméblätter mit bekannten Mathematiker.
+Verfügbar sind (halbe) Romméblätter mit bekannten Mathematikern und Mathematikerinnen.
 Das Deckblatt ziehrt Emmy Noether und die Rückseiten sind wahlweise rot oder grün.
 Beide Varianten zusammen ergeben ein Standard Romméblatt.
 
