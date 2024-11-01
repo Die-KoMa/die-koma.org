@@ -80,5 +80,31 @@
         "Chemnitz"
       ]
     }
+  },
+  "KoMa 94": {
+    "displaytitle": "94. KoMa in Essen",
+    "exists": "1",
+    "fulltext": "KoMa 94",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_94",
+    "namespace": 0,
+    "printouts": {
+      "Anmeldung": [],
+      "Beginn": [
+        {
+          "raw": "1/2026/5/1",
+          "timestamp": "1777593600"
+        }
+      ],
+      "Ende": [
+        {
+          "raw": "1/2026/5/31",
+          "timestamp": "1780185600"
+        }
+      ],
+      "Infoseite": [],
+      "Ort": [
+        "Essen"
+      ]
+    }
   }
 }
