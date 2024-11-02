@@ -5,7 +5,7 @@ order: 2
 
 # Der KoMa-Kurier
 
-Zur Erstellung des Konferenzbandes der KoMa, dem sog. KoMa-Kurier, wird stets auf der Konferenz ein Redaktionsteam bestimmt. Diese sammelt Materialien, erinnert die Artikelschreibenden, layoutet und druckt den Kurier.
+Zur Erstellung des Konferenzbandes der KoMa, dem sog. KoMa-Kurier, wird stets auf der Konferenz ein Redaktionsteam bestimmt. Dieses sammelt Materialien, erinnert die Artikelschreibenden, layoutet und druckt den Kurier.
 
 ## Veröffentlichungen
 
