@@ -1,34 +1,4 @@
 {
-  "KoMa 91": {
-    "displaytitle": "91. KoMa in Magdeburg",
-    "exists": "1",
-    "fulltext": "KoMa 91",
-    "fullurl": "https://de.komapedia.org/wiki/KoMa_91",
-    "namespace": 0,
-    "printouts": {
-      "Anmeldung": [
-        "https://anmeldung.die-koma.org/koma91/"
-      ],
-      "Beginn": [
-        {
-          "raw": "1/2024/10/30",
-          "timestamp": "1730246400"
-        }
-      ],
-      "Ende": [
-        {
-          "raw": "1/2024/11/3",
-          "timestamp": "1730592000"
-        }
-      ],
-      "Infoseite": [
-        "https://www.koma91.ovgu.de/"
-      ],
-      "Ort": [
-        "Magdeburg"
-      ]
-    }
-  },
   "KoMa 92": {
     "displaytitle": "92. KoMa in Passau",
     "exists": "1",
