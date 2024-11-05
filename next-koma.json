@@ -71,7 +71,9 @@
           "timestamp": "1780185600"
         }
       ],
-      "Infoseite": [],
+      "Infoseite": [
+        "https://www.uni-due.de/koma94/"
+      ],
       "Ort": [
         "Essen"
       ]
