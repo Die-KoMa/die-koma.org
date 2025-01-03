@@ -7,6 +7,17 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Magdeburg
+
+[**91/1: Resolution zur Unvereinbarkeit mit der AfD**](https://file.komapedia.org/91_1.pdf)
+
+[**91/2: Resolution zu Krankschreibungen**](https://file.komapedia.org/91_2.pdf)
+
+[**91/3: Resolution für mehr Mut zur Laienhaftigkeit**](https://file.komapedia.org/91_3.pdf)
+
+[**91/4: Resolution zu Schweizer Fachschaften auf KoMaTa**](https://file.komapedia.org/91_4.pdf)
+
+
 ## Bonn
 
 [**90/1: Resolution gegen Verbote des Genderns**](https://file.komapedia.org/90_1.pdf)
