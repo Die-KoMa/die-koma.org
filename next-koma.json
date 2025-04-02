@@ -19,7 +19,9 @@
           "timestamp": "1750550400"
         }
       ],
-      "Infoseite": [],
+      "Infoseite": [
+        "https://die-kifkoma.rocks/"
+      ],
       "Ort": [
         "Passau"
       ]
