@@ -39,6 +39,7 @@ nix run
 ```sh
 # ruby installation stuff:
 sudo apt install nodejs npm
+
 cd "die-koma.org"
 git pull  # make sure to be on main, pull latest version :)
 npm install  # install dependencies
@@ -50,4 +51,4 @@ Likely the same as above, but use `homebrew` instead of `apt`?
 
 
 ## Windows
-You can use WSL, or [install `npm`](https://nodejs.org/en/download) and then use the above steps (skipping `sudo apt install nodejs npm`).
+First [install `npm`](https://nodejs.org/en/download) and then use the above steps, skipping `sudo apt install nodejs npm`. You can also use WSL.
