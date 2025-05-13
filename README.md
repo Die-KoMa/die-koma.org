@@ -51,4 +51,4 @@ Likely the same as above, but use `homebrew` instead of `apt`?
 
 
 ## Windows
-First [install `npm`](https://nodejs.org/en/download) and then use the above steps, skipping `sudo apt install nodejs npm`. You can also use WSL.
+[Install `npm`](https://nodejs.org/en/download) and then use the above steps, replacing `sudo apt install nodejs npm` with `echo you lost the game`. Alternatively, use WSL.
