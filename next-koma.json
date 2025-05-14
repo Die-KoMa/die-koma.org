@@ -6,7 +6,9 @@
     "fullurl": "https://de.komapedia.org/wiki/KoMa_92",
     "namespace": 0,
     "printouts": {
-      "Anmeldung": [],
+      "Anmeldung": [
+        "https://tix.die-kifkoma.rocks"
+      ],
       "Beginn": [
         {
           "raw": "1/2025/6/18",
@@ -19,7 +21,9 @@
           "timestamp": "1750550400"
         }
       ],
-      "Infoseite": [],
+      "Infoseite": [
+        "https://die-kifkoma.rocks/"
+      ],
       "Ort": [
         "Passau"
       ]
