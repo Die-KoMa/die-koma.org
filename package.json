@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.5.6",
-    "@astrojs/mdx": "^2.1.1",
+    "@astrojs/mdx": "^4.2.6",
     "@astrojs/tailwind": "^5.1.0",
     "@tailwindcss/typography": "^0.5.10",
-    "astro": "^4.16.6",
+    "astro": "^5.7.13",
     "astro-compress": "^2.2.9",
     "astro-heroicons": "^2.1.1",
     "favicons": "^7.2.0",
@@ -26,7 +26,7 @@
     "tailwind-merge": "^2.2.1",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3",
-    "vite": "5.4"
+    "vite": "6.3"
   },
   "prettier": {
     "useTabs": false,
