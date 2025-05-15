@@ -34,21 +34,19 @@ nix run .#install
 nix run
 ```
 
+## Debian/Ubuntu, MacOS, Windows
 
-## Debian/Ubuntu
+First install `npm`:
+
+- Debian/Ubuntu or WSL: `sudo apt install nodejs npm`
+- MacOS: `brew install npm`
+- Windows: `winget install -e --id OpenJS.NodeJS && echo you lost the game`
+
+And then:
+
 ```sh
-# ruby installation stuff:
-sudo apt install nodejs npm
-
 cd "die-koma.org"
-git pull  # make sure to be on main, pull latest version :)
+git pull     # make sure to be on main, pull latest version :)
 npm install  # install dependencies
 npm run dev  # start development server
 ```
-
-## MacOS
-Likely the same as above, but use `homebrew` instead of `apt`?
-
-
-## Windows
-[Install `npm`](https://nodejs.org/en/download) and then use the above steps, replacing `sudo apt install nodejs npm` with `echo you lost the game`. Alternatively, use WSL.
