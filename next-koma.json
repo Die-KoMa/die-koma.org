@@ -82,5 +82,31 @@
         "Essen"
       ]
     }
+  },
+  "KoMa 95": {
+    "displaytitle": "95. KoMa in D\u00fcsseldorf",
+    "exists": "1",
+    "fulltext": "KoMa 95",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_95",
+    "namespace": 0,
+    "printouts": {
+      "Anmeldung": [],
+      "Beginn": [
+        {
+          "raw": "1/2026/10/1",
+          "timestamp": "1790812800"
+        }
+      ],
+      "Ende": [
+        {
+          "raw": "1/2026/11/30",
+          "timestamp": "1795996800"
+        }
+      ],
+      "Infoseite": [],
+      "Ort": [
+        "D\u00fcsseldorf"
+      ]
+    }
   }
 }
