@@ -13,30 +13,62 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - uses: DeterminateSystems/nix-installer-action@v12
+      - uses: cachix/install-nix-action@v31
         with:
-          nix-installer-tag: v0.15.1
-      - uses: DeterminateSystems/magic-nix-cache-action@v7
-        timeout-minutes: 5
+          extra_nix_config: |
+            keep-outputs = true
+            keep-derivations = true
       - env:
           BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
       - run: echo "name=PR_NUMBER::$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+      - name: Restore and save the Nix store
+        uses: nix-community/cache-nix-action@v6
+        with:
+          primary-key: die-koma.org-nix-${{ runner.os }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
+          restore-prefixes-first-match: die-koma.org-nix-${{ runner.os }}-
+          gc-max-store-size-linux: 2.5G
+          purge: true
+          purge-prefixes: die-koma.org-nix-${{ runner.os }}-
+          purge-created: 0
+          purge-last-accessed: 0
+          purge-primary-key: never
       - run: nix --print-build-logs build .#KoMaHomepageTar -o homepage.tar.xz
       - uses: actions/upload-artifact@v4
         with:
           name: build-artifacts
           path: homepage.tar.xz
+      - name: Build and collect garbage
+        run: |
+          nix build .\#KoMaHomepageTar
+          nix-store --optimise
+          nix-collect-garbage -d
 
   check-links:
     name: 'Check for broken links'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: DeterminateSystems/nix-installer-action@v12
+      - uses: cachix/install-nix-action@v31
         with:
-          nix-installer-tag: v0.15.1
-      - uses: DeterminateSystems/magic-nix-cache-action@v7
+          extra_nix_config: |
+            keep-outputs = true
+            keep-derivations = true
+      - env:
+          BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
+        run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
+      - run: echo "name=PR_NUMBER::$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+      - name: Restore and save the Nix store
+        uses: nix-community/cache-nix-action@v6
+        with:
+          primary-key: die-koma.org-nix-${{ runner.os }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
+          restore-prefixes-first-match: die-koma.org-nix-${{ runner.os }}-
+          gc-max-store-size-linux: 2.5G
+          purge: true
+          purge-prefixes: die-koma.org-nix-${{ runner.os }}-
+          purge-created: 0
+          purge-last-accessed: 0
+          purge-primary-key: never
       - env:
           BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
