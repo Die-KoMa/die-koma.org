@@ -1,34 +1,4 @@
 {
-  "KoMa 92": {
-    "displaytitle": "92. KoMa in Passau",
-    "exists": "1",
-    "fulltext": "KoMa 92",
-    "fullurl": "https://de.komapedia.org/wiki/KoMa_92",
-    "namespace": 0,
-    "printouts": {
-      "Anmeldung": [
-        "https://tix.die-kifkoma.rocks"
-      ],
-      "Beginn": [
-        {
-          "raw": "1/2025/6/18",
-          "timestamp": "1750204800"
-        }
-      ],
-      "Ende": [
-        {
-          "raw": "1/2025/6/22",
-          "timestamp": "1750550400"
-        }
-      ],
-      "Infoseite": [
-        "https://die-kifkoma.rocks/"
-      ],
-      "Ort": [
-        "Passau"
-      ]
-    }
-  },
   "KoMa 93": {
     "displaytitle": "93. KoMa in Chemnitz",
     "exists": "1",
