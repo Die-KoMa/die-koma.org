@@ -7,6 +7,7 @@ order: 6
 
 | Semester   | Name der KoMa                | Hochschule                   | Zeitraum                                |
 | :--------- | :--------------------------- | :--------------------------- | :-------------------------------------- |
+| WS 2026    | KoMa 95                      | HHU Düsseldorf               | tba                                     |
 | SS 2026    | KoMa 94                      | Uni Duisburg-Essen (Essen)   | vsl. 22.05.-26.05.2026                  |
 | WS 2025/26 | KoMa 93                      | TU Chemnitz                  | vsl. 29.10.–02.11.2025                  |
 | SS 2025    | KoMa 92 (KIF 53)             | Uni Passau                   | 18.06.–22.06.2025                       |
