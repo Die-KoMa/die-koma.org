@@ -58,7 +58,7 @@ order: 6
 | SS 2003    | KoMa 52 (46 n.P.)            | TU München                   | 28.05.–01.06.2003                       |
 | WS 2002/03 | KoMa 51 (45 n.P.)            | Uni Karlsruhe (TH)           | 31.10.–03.11.2002                       |
 | SS 2002    | KoMa 50 (44 n.P.)            | Uni Dortmund                 | 29.05.–02.06.2002                       |
-| WS 2001/02 | KoMa 49 (43 n.P.)            | Uni-GH Paderborn             | 31.10.–04.11.2001                       |
+| WS 2001/02 | KoMa 49 (43 n.P.) (KIF 29.5) | Uni-GH Paderborn             | 31.10.–04.11.2001                       |
 | SS 2001    | KoMa 48 (42 n.P.)            | TU München                   | 13.06.–17.06.2001                       |
 | WS 2000/01 | KoMa 47 (41 n.P.)            | Uni Stuttgart                | 01.11.–05.11.2000                       |
 | SS 2000    | KoMa 46 (40 n.P.)            | Uni Freiburg                 | 31.05.–04.06.2000                       |
