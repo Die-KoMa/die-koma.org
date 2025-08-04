@@ -49,7 +49,7 @@ order: 6
 | WS 2007/08 | KoMa 61                      | FH Regensburg                | 21.11.–25.11.2007                       |
 | SS 2007    | KoMa 60                      | Uni Karlsruhe                | 16.05.–20.05.2007                       |
 | WS 2006/07 | KoMa 59                      | Uni Bielefeld                | 27.10.–01.11.2006                       |
-| SS 2006    | KoMa 58                      | Uni Oldenburg und Uni Bremen | 24.05.–28.05.2006                       |
+| SS 2006    | KoMa 58 (52 n.P.)            | Uni Oldenburg und Uni Bremen | 24.05.–28.05.2006                       |
 | WS 2005/06 | KoMa 57 (51 n.P.)            | Uni Duisburg-Essen           | 16.11.–20.11.2005                       |
 | SS 2005    | KoMa 56 (50 n.P.)            | ETH Zürich                   | 04.05.–08.05.2005                       |
 | WS 2004/05 | KoMa 55 (49 n.P.)            | TFH Berlin                   | 17.11.–21.11.2004                       |
