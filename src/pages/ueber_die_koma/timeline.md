@@ -44,7 +44,7 @@ order: 6
 | SS 2010    | KoMa 66                      | TU Dresden                   | 26.05.–30.05.2010                       |
 | WS 2009/10 | KoMa 65                      | Uni Graz                     | 04.12.–08.12.2009                       |
 | SS 2009    | KoMa 64                      | Uni Augsburg                 | 29.05.–02.06.2009                       |
-| WS 2008/09 | KoMa 63                      | Uni Paderborn                | 12.11.–16.11.2008                       |
+| WS 2008/09 | KoMa 63 (KIF 36.5)           | Uni Paderborn                | 12.11.–16.11.2008                       |
 | SS 2008    | KoMa 62                      | TU Chemnitz                  | 30.04.–04.05.2008                       |
 | WS 2007/08 | KoMa 61                      | FH Regensburg                | 21.11.–25.11.2007                       |
 | SS 2007    | KoMa 60                      | Uni Karlsruhe                | 16.05.–20.05.2007                       |
