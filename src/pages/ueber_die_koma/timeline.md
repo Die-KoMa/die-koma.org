@@ -10,6 +10,7 @@ order: 6
 | WS 2026    | KoMa 95                      | HHU Düsseldorf               | tba                                     |
 | SS 2026    | KoMa 94                      | Uni Duisburg-Essen (Essen)   | vsl. 22.05.-26.05.2026                  |
 | WS 2025/26 | KoMa 93                      | TU Chemnitz                  | vsl. 29.10.–02.11.2025                  |
+|            | WAchKoMeta                   | HU Berlin                    | 26.08.-28.08.2025
 | SS 2025    | KoMa 92 (KIF 53)             | Uni Passau                   | 18.06.–22.06.2025                       |
 | WS 2024/25 | KoMa 91                      | Uni Magdeburg                | 30.10.–03.11.2024                       |
 | SS 2024    | KoMa 90                      | Uni Bonn                     | 22.05.–26.05.2024                       |
