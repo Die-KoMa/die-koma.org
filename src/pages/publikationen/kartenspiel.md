@@ -19,7 +19,7 @@ Beide Varianten zusammen ergeben ein Standard Romméblatt.
 ## Bestellung und Versand
 
 Die Bestellung des (halben) Romméblattes (2023) erfolgt über das KoMa-Büro per [Mail](mailto:buero@die-koma.org).
-Das Blatt kostet kostet **3,00€** pro Stück.
+Das Blatt kostet kostet **3,50€** pro Stück.
 
 Die Bestellungsmail sollte folgende Informationen enthalten:
 + Anzahl der Kartenspiele
