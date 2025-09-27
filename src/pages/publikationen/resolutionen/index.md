@@ -7,6 +7,20 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Passau
+
+[**92/1: Resolution gegen Anwesenheitspflicht**](https://file.komapedia.org/92_1.pdf)
+
+[**92/2: Resolution für vegane Mensen**](https://file.komapedia.org/92_2.pdf)
+
+[**92/3: Resolution gegen Ordnungsrecht**](https://file.komapedia.org/92_3.pdf)
+
+[**92/4: Resolution gegen Studiendauerbegrenzung**](https://file.komapedia.org/92_4.pdf)
+
+[**92/5: Resolution zur Rettung der Studierendenwerke**](https://file.komapedia.org/92_5.pdf)
+
+Zudem wurden Resolutionen gemeinsam mit der KIF beschlossen. Die Übersicht ist [**hier**](https://wiki.kif.rocks/wiki/KIF530:Resolutionen) zu finden.
+
 ## Magdeburg
 
 [**91/1: Resolution zur Unvereinbarkeit mit der AfD**](https://file.komapedia.org/91_1.pdf)
