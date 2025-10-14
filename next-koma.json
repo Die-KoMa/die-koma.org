@@ -6,7 +6,9 @@
     "fullurl": "https://de.komapedia.org/wiki/KoMa_93",
     "namespace": 0,
     "printouts": {
-      "Anmeldung": [],
+      "Anmeldung": [
+        "https://anmeldung.die-koma.org/koma93/"
+      ],
       "Beginn": [
         {
           "raw": "1/2025/10/29",
