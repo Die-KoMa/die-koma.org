@@ -26,7 +26,7 @@
     "tailwind-merge": "^2.2.1",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3",
-    "vite": "6.3"
+    "vite": "6.4"
   },
   "prettier": {
     "useTabs": false,
