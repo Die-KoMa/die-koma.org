@@ -17,8 +17,6 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [**92/4: Resolution gegen Studiendauerbegrenzung**](https://file.komapedia.org/92_4.pdf)
 
-[**92/5: Resolution zur Rettung der Studierendenwerke**](https://file.komapedia.org/92_5.pdf)
-
 Zudem wurden Resolutionen gemeinsam mit der KIF beschlossen. Die Übersicht ist [**hier**](https://wiki.kif.rocks/wiki/KIF530:Resolutionen) zu finden.
 
 ## Magdeburg
