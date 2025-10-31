@@ -30,7 +30,7 @@ Die neuesten veröffentlichten Bände sind die folgenden:
 
 Das BMBF fördert viele unserer Tagungen.
 Zusätzlich zum Tagungsband sind daher im folgenden die sogenannten "Kurzinformationen zu den Ergebnissen einer Maßnahme" verlinkt, welche jeweils eine kurze und vereinheitlichte Darstellung der Ergebnisse der Tagungen beinhalten:
-- [Kurzinformation zu den Ergebnissen der KoMa 92](https://file.komapedia.org/KoMa92_Kurzinformation.pdf)
+- Kurzinformation zu den Ergebnissen der KoMa 92
 - [Kurzinformation zu den Ergebnissen der KoMa 91](https://file.komapedia.org/KoMa91_Kurzinformation.pdf)
 - [Kurzinformation zu den Ergebnissen der KoMa 90](https://file.komapedia.org/KoMa90_Kurzinformationen.pdf)
 - [Kurzinformation zu den Ergebnissen der KoMa 89](https://file.komapedia.org/KoMa89_Kurzinformationen.pdf)
