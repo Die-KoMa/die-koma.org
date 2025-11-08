@@ -7,6 +7,19 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Chemnitz
+
+[**93/1: Resolution zu studentischen Mitgliedern in Zulassungs- und Zugangsgremien**](https://file.komapedia.org/93_1.pdf)
+
+[**93/2: Resolution Anonymisierung von Klausuren**](https://file.komapedia.org/93_2.pdf)
+
+[**93/3: Resolution zu Typst als Alternative zu LaTeX**](https://file.komapedia.org/93_3.pdf)
+
+[**93/4: Resolution zur Umbenennung der DMV**](https://file.komapedia.org/93_4.pdf)
+
+[**93/5: RResolution gegen Barrieren im Langzeitstudium**](https://file.komapedia.org/93_5.pdf)
+
+
 ## Passau
 
 [**92/1: Resolution gegen Anwesenheitspflicht**](https://file.komapedia.org/92_1.pdf)
