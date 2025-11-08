@@ -1,6 +1,7 @@
 ---
 title: Kartenspiel
 order: 3
+menu: false
 ---
 
 # Mathematisches Skatblatt (2004)
