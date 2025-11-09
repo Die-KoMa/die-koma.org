@@ -1,6 +1,7 @@
 ---
 title: Jahr der Mathematik
 order: 7
+menu: false
 ---
 
 # Die KoMa-Aktionen zum Jahr der Mathe
