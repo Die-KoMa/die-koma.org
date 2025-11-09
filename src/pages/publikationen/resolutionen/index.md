@@ -17,7 +17,7 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [**93/4: Resolution zur Umbenennung der DMV**](https://file.komapedia.org/93_4.pdf)
 
-[**93/5: RResolution gegen Barrieren im Langzeitstudium**](https://file.komapedia.org/93_5.pdf)
+[**93/5: Resolution gegen Barrieren im Langzeitstudium**](https://file.komapedia.org/93_5.pdf)
 
 
 ## Passau
