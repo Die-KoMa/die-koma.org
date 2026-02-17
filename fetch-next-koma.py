@@ -2,6 +2,8 @@
 #! nix-shell -i python -p python3
 
 import json
+import logging
+logger = logging.getLogger(__name__)
 
 from datetime import date
 from urllib.request import urlopen, Request
@@ -15,16 +17,24 @@ IGNORED_STATUS_CODES = [401]
 
 
 def get_next_komata():
+    logger.info("querying KoMapedia …")
     results = json.loads(urlopen(QUERY).read().decode())
+    logger.info(f"got {len(results["query"]["results"])} results")
     return results["query"]["results"]
 
 
 def verify_url(url):
     try:
+        logger.info(f"checking whether URL `{url}' is reachable")
         response = urlopen(Request(url, method="HEAD"))
-    except:
+    except err:
+        logger.error(f"URL `{url}' not reachable: {err}")
         return False
     else:
+        if response.status in IGNORED_STATUS_CODES:
+            logger.warning(f"URL `{url}' returned status code {response.status}", ignoring)
+        elif response.status == 200:
+            logger.info("URL `{url}' returned status code 200")
         return response.status in [200] + IGNORED_STATUS_CODES
 
 
@@ -70,4 +80,5 @@ def main():
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
     main()
