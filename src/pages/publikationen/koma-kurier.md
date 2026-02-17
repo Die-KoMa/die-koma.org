@@ -19,8 +19,8 @@ Die neuesten veröffentlichten Bände sind die folgenden:
 
 <span class="images">
 
-[![KoMa Kurier der 91. KoMa in Magdeburg](https://file.komapedia.org/Kurier91_prev.jpg) KoMa Kurier der 91. KoMa in Magdeburg](https://file.komapedia.org/Kurier91_OnlineVersion.pdf)
 [![KoMa Kurier der 92. KoMa in Passau (KIFKoMa)](https://file.komapedia.org/Kurier92_prev.jpg) KoMa Kurier der 92. KoMa in Passau (KIFKoMa)](https://file.komapedia.org/Kurier92_OnlineVersion.pdf)
+[![KoMa Kurier der 93. KoMa in Chemnitz](https://file.komapedia.org/Kurier93_prev.jpg) KoMa Kurier der 93. KoMa in Magdeburg](https://file.komapedia.org/Kurier93_OnlineVersion.pdf)
 
 </span>
 
