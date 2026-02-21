@@ -67,12 +67,45 @@
         default = pkgs.koma-homepage;
       });
       devShells = withPkgs (pkgs: {
-        default = pkgs.mkShell {
-          name = "koma-homepage-shell";
-          buildInputs = [
-            pkgs.nodePackages.nodejs
-            pkgs.nodePackages.npm
-            pkgs.tailwindcss
+        default = dream2nix.lib.evalModules {
+          packageSets.nixpkgs = pkgs;
+
+          modules = [
+            {
+              paths = {
+                projectRoot = ./.;
+                projectRootFile = "flake.nix";
+                package = ./.;
+              };
+            }
+
+            (
+              { config, dream2nix, ... }:
+              {
+                name = "koma-homepage-shell";
+                version = "0.0.1";
+
+                imports = [
+                  dream2nix.modules.dream2nix.nodejs-package-lock-v3
+                  dream2nix.modules.dream2nix.nodejs-devshell-v3
+                ];
+
+                mkDerivation = {
+                  src = ./.;
+
+                  nativeBuildInputs = builtins.attrValues {
+                    inherit (pkgs.nodePackages) nodejs npm;
+                    inherit (pkgs) tailwindcss;
+                  };
+
+                  buildPhase = "mkdir $out";
+                };
+
+                nodejs-package-lock-v3 = {
+                  packageLockFile = "${config.mkDerivation.src}/package-lock.json";
+                };
+              }
+            )
           ];
         };
       });
