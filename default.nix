@@ -1,53 +1,72 @@
 {
-  callPackage,
+  pkgs,
   doTar ? false,
   lib,
-  node2nix,
-  nodejs,
-  runCommand,
+  dream2nix,
   stdenv,
-  vips,
-  pkg-config,
 }:
 with lib;
 let
-  srcN2N =
-    runCommand "koma-homepage-node2nix"
+  homepageSrc = dream2nix.lib.evalModules {
+    packageSets.nixpkgs = pkgs;
+
+    modules = [
       {
-        buildInputs = [ node2nix ];
+        paths = {
+          projectRoot = ./.;
+          projectRootFile = "flake.nix";
+          package = ./.;
+        };
       }
-      ''
-        mkdir $out
 
-        cp ${./package.json} $out/package.json
-        cp ${./package-lock.json} $out/package-lock.json
+      (
+        { dream2nix, config, ... }:
+        {
+          name = "die-koma.org${optionalString doTar ".tar.xz"}";
+          version = "0.0.1";
 
-        cd $out
-        node2nix --lock package-lock.json --development
-      '';
+          imports = [
+            dream2nix.modules.dream2nix.nodejs-package-lock-v3
+            dream2nix.modules.dream2nix.nodejs-granular-v3
+          ];
 
-  resultN2N = callPackage (import srcN2N) { };
+          mkDerivation = {
+            src = ./.;
 
-  nodeDependencies = resultN2N.nodeDependencies.overrideAttrs (oldAttrs: {
-    buildInputs = oldAttrs.buildInputs ++ [
-      pkg-config
-      vips.dev
+            installPhase = ''
+              runHook preInstall
+
+              cp -R dist $out
+
+              runHook postInstall
+            '';
+          };
+
+          nodejs-package-lock-v3 = {
+            packageLockFile = "${config.mkDerivation.src}/package-lock.json";
+          };
+
+          nodejs-granular-v3 = {
+            buildScript = ''
+              npm run build
+            '';
+          };
+        }
+      )
     ];
-  });
+  };
 in
 stdenv.mkDerivation {
   name = "die-koma.org${optionalString doTar ".tar.xz"}";
-  src = ./.;
-  buildInputs = [ nodejs ];
+  src = homepageSrc;
+
+  dontUnpack = true;
+  dontPatch = true;
+
   buildPhase = ''
-    mkdir node_modules
-    ln -s ${nodeDependencies}/lib/node_modules/* ./node_modules
-    export PATH="${nodeDependencies}/bin:$PATH"
-
-    ln -sf ${./next-koma.json} next-koma.json
-
-    mkdir config-home
-    XDG_CONFIG_HOME=config-home npm run build
+    cp -r $src/dist .
+    chmod +w dist
+    ln -sf ${./next-koma.json} dist/next-koma.json
   '';
   installPhase = if doTar then "tar -cvf $out --xz dist" else "cp -r dist $out";
 }
