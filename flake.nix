@@ -1,8 +1,14 @@
 {
-  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+  inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    dream2nix = {
+      url = "github:nix-community/dream2nix";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+  };
 
   outputs =
-    flakes@{ nixpkgs, ... }:
+    flakes@{ nixpkgs, dream2nix, ... }:
     let
       overlays = [ flakes.self.overlays.default ];
       withPkgsFor =
@@ -28,7 +34,7 @@
           };
         in
         {
-          koma-homepage = final.callPackage ./default.nix { };
+          koma-homepage = final.callPackage ./default.nix { inherit dream2nix; };
           koma-homepage-tar = final.koma-homepage.override { doTar = true; };
           koma-homepage-install = runNpm ''install "$@"'';
           koma-homepage-build = runNpm "run build";
