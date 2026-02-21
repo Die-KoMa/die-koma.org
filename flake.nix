@@ -1,5 +1,5 @@
 {
-  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-24.11";
+  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
 
   outputs =
     flakes@{ nixpkgs, ... }:
