@@ -34,7 +34,7 @@ def verify_url(url):
         if response.status in IGNORED_STATUS_CODES:
             logger.warning(f"URL `{url}' returned status code {response.status}", ignoring)
         elif response.status == 200:
-            logger.info("URL `{url}' returned status code 200")
+            logger.info(f"URL `{url}' returned status code 200")
         return response.status in [200] + IGNORED_STATUS_CODES
 
 
