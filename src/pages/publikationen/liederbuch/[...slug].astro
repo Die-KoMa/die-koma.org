@@ -11,8 +11,23 @@ export async function getStaticPaths() {
   }))
 }
 
+
+import Layout from "../../../layouts/BaseLayout.astro"
 const { entry } = Astro.props
 const { Content } = await entry.render()
+const title = entry.data.title ?? "Lied"
 ---
 
-<Content />
+<Layout>
+  <h1>{title}</h1>
+  <Content />
+</Layout>
+
+
+<style>
+:global(.prose :where(blockquote p:first-of-type):not(:where([class~="not-prose"], [class~="not-prose"] *))::before),
+:global(.prose :where(blockquote p:first-of-type):not(:where([class~="not-prose"], [class~="not-prose"] *))::after) {
+  content: none;
+}
+
+</style>
