@@ -5,9 +5,8 @@ interface Props {
     title?: string
   }
 }
-const {
-  frontmatter: { redirect, title = '' },
-} = Astro.props
+const { frontmatter = {} } = Astro.props
+const { redirect, title = '' } = frontmatter
 import Bars3 from 'astro-heroicons/outline/Bars3.astro'
 import Footer from '@components/Footer.astro'
 import KoMaLogo from '@components/KoMaLogo.astro'

@@ -17,9 +17,12 @@ Traditionell findet auf der KoMa der AK Pella statt. Dieser hat sich der Aufgabe
 ## Einzellieder
 
 <ul>
-  {liederbuch.map((lied) => (
-    <li>
-      <a href={lied.slug}>{lied.data.title}</a>
-    </li>
-  ))}
+  {
+  [...liederbuch]
+    .sort((a, b) => (a.data.title ?? '').localeCompare(b.data.title ?? '', 'de'))
+    .map((lied) => (
+      <li>
+        <a href={lied.slug}>{lied.data.title}</a>
+      </li>
+    ))}
 </ul>

@@ -23,7 +23,7 @@ title: Ahnungslos durch das Fach (Ana2)
 > Ahnungslos durch das Fach,\
 > Regelstudienzeit fällt flach.\
 > Ahnungslos, Ana zwei,\
-> Viertversuch, ich bin dabei.\
+> Viertversuch, ich bin dabei.
 
 > Das wird heute eh nichts, wer soll das verstehen?\
 > Alles was ich weiß, ist einfach fort.\
