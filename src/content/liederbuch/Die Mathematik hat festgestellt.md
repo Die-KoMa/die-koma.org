@@ -1,5 +1,6 @@
 ---
 title: Die Mathematik hat festgestellt
+category: "Ringvorlesung"
 ---
 
 *Melodie: Die Wissenschaft hat festgestellt* (2005)
@@ -65,6 +66,6 @@ title: Die Mathematik hat festgestellt
 > drum ist es nun der Wiles'sche Satz.
 
 > Analysis hat festgestellt,\
-> dass ℝ+ Epsilon enthält.\
+> dass ℝ⁺ Epsilon enthält.\
 > Drum wählen wir von vornherein,\
 > das Epsilon genügend klein.

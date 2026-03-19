@@ -1,5 +1,6 @@
 ---
 title: Was machen wir mit den Erstsemestern
+category: "Unileben"
 ---
 
 *Melodie: What shall we do with the drunken sailor* (2008)
@@ -12,10 +13,10 @@ title: Was machen wir mit den Erstsemestern
 > In der Erstiwoche?
 
 > *Refrain:*\
-> \| : Hooray, wir sind Tutoren : \| (3x)\
+> <span style="letter-spacing:-0.1em;">\|:</span> Hooray, wir sind Tutoren <span style="letter-spacing:-0.1em;">:\|</span> (3x)\
 > Für die Erstiwoche!
 
-> \| : Wir begrüßen sie im Hörsaal : \| (3x)\
+> <span style="letter-spacing:-0.1em;">\|:</span> Wir begrüßen sie im Hörsaal <span style="letter-spacing:-0.1em;">:\|</span> (3x)\
 > In der Erstiwoche.
 
 > Sie kriegen von uns 'ne Erstizeitung

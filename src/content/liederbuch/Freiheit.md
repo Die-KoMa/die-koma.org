@@ -1,5 +1,6 @@
 ---
 title: Freiheit
+category: "Algebra, Topologie und Geometrie"
 ---
 
 *Melodie: Freiheit* (2005)

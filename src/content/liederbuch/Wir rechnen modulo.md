@@ -1,5 +1,6 @@
 ---
 title: Wir rechnen modulo
+category: "Algebra, Topologie und Geometrie"
 ---
 
 *Melodie: Pippi Langstrumpf* (2006)

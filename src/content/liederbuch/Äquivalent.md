@@ -1,5 +1,6 @@
 ---
 title: Äquivalent
+category: "Ringvorlesung"
 ---
 
 *Melodie: Ein Loch ist im Eimer* (2005)

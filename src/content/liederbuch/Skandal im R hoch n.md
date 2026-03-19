@@ -1,5 +1,6 @@
 ---
-title: Skandal im R hoch n
+title: Skandal im ℝ hoch n
+category: "Analysis"
 ---
 
 *Melodie: Skandal im Sperrbezirk* (2006)
@@ -29,7 +30,7 @@ title: Skandal im R hoch n
 >
 > Sind Folgen auch nicht monoton,\
 > Man findet oft ein Epsilon,\
-> So dass von an der Betrag\
+> So dass von aₙ der Betrag\
 > Sich jeder Grenze nähern mag.
 
 > (Refrain)

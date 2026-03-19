@@ -1,5 +1,6 @@
 ---
 title: Die Binomialverteilung Maja
+category: "Numerik und Stochastik"
 ---
 
 *Melodie: Die Biene Maja* (2005)

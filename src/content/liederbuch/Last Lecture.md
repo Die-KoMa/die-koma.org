@@ -1,5 +1,6 @@
 ---
 title: Last Lecture
+category: "Weihnachten"
 ---
 
 *Melodie: Last Christmas* (2012)

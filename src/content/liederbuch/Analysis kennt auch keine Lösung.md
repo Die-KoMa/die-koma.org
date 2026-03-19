@@ -1,5 +1,6 @@
 ---
 title: Analysis kennt auch keine Lösung
+category: "Analysis"
 ---
 
 *Melodie: Kein Alkohol ist auch keine Lösung* (2011)
@@ -10,7 +11,7 @@ title: Analysis kennt auch keine Lösung
 > sind bei 0 wesentlich singulär.
 
 > Doch meistens ist es wie immer:\
-> Alles ist im ℂn\
+> Alles ist im ℂⁿ\
 > Und manchmal kommt es noch besser\
 > da gilt selbst die Maximums-Norm.
 

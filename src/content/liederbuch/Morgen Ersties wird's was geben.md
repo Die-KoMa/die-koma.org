@@ -1,5 +1,6 @@
 ---
-title: Morgen Ersties wird’s was geben
+title: Morgen Ersties wird's was geben
+category: "Weihnachten"
 ---
 
 *Melodie: Morgen Kinder wird's was geben* (2012)

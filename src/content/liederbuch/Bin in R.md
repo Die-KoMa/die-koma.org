@@ -1,5 +1,6 @@
 ---
-title: Bin in R
+title: Bin in ℝ
+category: "Analysis"
 ---
 
 *Melodie: "Zombie" von den Cranberries* (2010)

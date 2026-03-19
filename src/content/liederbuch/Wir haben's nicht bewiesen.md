@@ -1,5 +1,6 @@
 ---
-title: Wir haben’s nicht bewiesen
+title: Wir haben's nicht bewiesen
+category: "Ringvorlesung"
 ---
 
 *Melodie: "Wir haben Grund zum Feiern" von Otto* (2007)

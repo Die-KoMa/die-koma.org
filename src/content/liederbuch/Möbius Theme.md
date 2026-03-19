@@ -1,12 +1,13 @@
 ---
 title: Möbius Theme
+category: "Algebra, Topologie und Geometrie"
 ---
 
 *Melodie: Darkwing Duck Theme* (2010)
 
 > Orientiern geht hier nicht\
 > kompakt und chiral\
-> einbettet in ℝ3\
+> einbettet in ℝ³\
 > Topologen sind dabei\
 > Sphären, Tori, Zylinder\
 > sind doch trivial!

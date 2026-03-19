@@ -1,5 +1,6 @@
 ---
 title: Meine Art, Sätze zu zeigen
+category: "Ringvorlesung"
 ---
 
 *Melodie: Meine Art, Liebe zu zeigen* (2007)

@@ -1,5 +1,6 @@
 ---
 title: Zehn kleine Erstsemester
+category: "Unileben"
 ---
 
 *Melodie: Vers von Zehn kleine Jägermeister* (2005)

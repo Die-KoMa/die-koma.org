@@ -1,5 +1,6 @@
 ---
 title: O du Integral
+category: "Weihnachten"
 ---
 
 *Melodie: O du Fröhliche* (2012)
