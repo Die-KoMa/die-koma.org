@@ -3,8 +3,8 @@ title: Liederbuch
 order: 7
 ---
 
-import { getCollection } from 'astro:content'
-export const liederbuch = await getCollection('liederbuch')
+
+import LiederbuchIndex from '../../../components/LiederbuchIndex.astro';
 
 # Liederbuch
 
@@ -16,13 +16,5 @@ Traditionell findet auf der KoMa der AK Pella statt. Dieser hat sich der Aufgabe
 
 ## Einzellieder
 
-<ul>
-  {
-  [...liederbuch]
-    .sort((a, b) => (a.data.title ?? '').localeCompare(b.data.title ?? '', 'de'))
-    .map((lied) => (
-      <li>
-        <a href={lied.slug}>{lied.data.title}</a>
-      </li>
-    ))}
-</ul>
+
+<LiederbuchIndex/>
