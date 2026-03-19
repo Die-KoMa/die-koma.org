@@ -1,0 +1,30 @@
+---
+
+import { getCollection } from 'astro:content';
+
+const entries = await getCollection('liederbuch');
+
+// Nach order sortieren
+entries.sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+
+// Gruppieren nach category
+const grouped = entries.reduce((acc, entry) => {
+  const cat = entry.data.category ?? 'Sonstiges';
+  if (!acc[cat]) acc[cat] = [];
+  acc[cat].push(entry);
+  return acc;
+}, {} as Record<string, typeof entries>);
+---
+
+{Object.entries(grouped).map(([category, items]) => (
+  <>
+    <h3>{category}</h3>
+    <ul>
+      {items.map(item => (
+        <li>
+          <a href={item.slug}>{item.data.title}</a>
+        </li>
+      ))}
+    </ul>
+  </>
+))}
