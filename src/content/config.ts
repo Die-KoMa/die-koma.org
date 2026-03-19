@@ -15,6 +15,6 @@ const resoCollection = defineCollection({
 })
 
 export const collections = {
-  liederbuch: resoCollection,
+  liederbuch: liederbuchCollection,
   resos: resoCollection,
 }
