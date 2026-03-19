@@ -1,5 +1,6 @@
 ---
 title: Mathe
+category: "Ringvorlesung"
 ---
 
 *Melodie: Moskau* (2022)

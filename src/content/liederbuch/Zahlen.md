@@ -1,5 +1,6 @@
 ---
 title: Zahlen
+category: "Ringvorlesung"
 ---
 
 *Melodie: Männer* (2008)

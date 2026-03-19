@@ -1,5 +1,6 @@
 ---
 title: Hier kommt Euler
+category: "Analysis"
 ---
 
 *Melodie: Hier kommt Alex* (2007)

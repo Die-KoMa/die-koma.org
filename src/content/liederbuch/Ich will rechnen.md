@@ -1,5 +1,6 @@
 ---
 title: Ich will rechnen
+category: "Numerik und Stochastik"
 ---
 
 *Melodie: I am sailing* (2008)

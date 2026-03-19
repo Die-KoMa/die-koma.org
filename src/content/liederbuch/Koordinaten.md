@@ -1,5 +1,6 @@
 ---
 title: Koordinaten
+category: "Ringvorlesung"
 ---
 
 *Melodie: Thüringer Klöße* (2022)

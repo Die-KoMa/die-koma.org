@@ -1,5 +1,6 @@
 ---
 title: Die Reso vor mir
+category: "KoMa"
 ---
 
 *Melodie: Im Wagen vor mir* (1987)

@@ -1,5 +1,6 @@
 ---
 title: Die konvexe Hülle
+category: "Algebra, Topologie und Geometrie"
 ---
 
 *Melodie: Die perfekte Welle* (2006)

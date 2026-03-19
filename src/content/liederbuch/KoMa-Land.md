@@ -1,5 +1,6 @@
 ---
 title: KoMa-Land
+category: "KoMa"
 ---
 
 *Melodie: Eine Insel mit zwei Bergen* (2011)

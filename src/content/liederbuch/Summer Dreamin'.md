@@ -1,5 +1,6 @@
 ---
-title: Summer Dreamin’
+title: Summer Dreamin'
+category: "Ringvorlesung"
 ---
 
 *Melodie: Summer Dreamin'* (2007)

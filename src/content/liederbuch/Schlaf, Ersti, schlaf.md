@@ -1,5 +1,6 @@
 ---
 title: Schlaf, Ersti, schlaf
+category: "Unileben"
 ---
 
 *Melodie: Schlaf, Kindlein, schlaf* (2004)
@@ -10,4 +11,4 @@ title: Schlaf, Ersti, schlaf
 > und du bist jetzt das arme Schwein!\
 > Schlaf, Ersti, schlaf.
 
-[^1]: Abkürzung für „(Wissenschaftlicher) Assistent“
+[^1]: Abkürzung für "(Wissenschaftlicher) Assistent"
