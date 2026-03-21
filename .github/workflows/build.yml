@@ -65,6 +65,10 @@ jobs:
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
       - run: echo "name=PR_NUMBER::$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
       - run: nix --print-build-logs run .#check-links
+      - name: Build and collect garbage
+        run: |
+          nix build .\#KoMaHomepage
+          nix-store --gc --option keep-derivations true --option keep-outputs true
 
   release:
     if: github.repository == 'Die-KoMa/die-koma.org' && github.event_name == 'push' && github.ref == 'refs/heads/main'
