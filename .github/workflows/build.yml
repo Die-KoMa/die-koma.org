@@ -37,7 +37,6 @@ jobs:
       - name: Build and collect garbage
         run: |
           nix build .\#KoMaHomepageTar
-          nix-store --optimise
           nix-collect-garbage -d
 
   check-links:
