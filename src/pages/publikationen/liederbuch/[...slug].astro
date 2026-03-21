@@ -18,7 +18,7 @@ const { Content } = await entry.render()
 const title = entry.data.title ?? "Lied"
 ---
 
-<Layout>
+<Layout frontmatter={{ title }}>
   <h1>{title}</h1>
   <Content />
 </Layout>
