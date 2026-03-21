@@ -36,7 +36,7 @@ jobs:
           path: homepage.tar.xz
       - name: Build and collect garbage
         run: |
-          nix build .\#KoMaHomepageTar
+          nix build .\#KoMaHomepageTar .\#devShells.x86_64-linux.default
           nix-collect-garbage -d
 
   check-links:
