@@ -37,7 +37,7 @@ jobs:
       - name: Build and collect garbage
         run: |
           nix build .\#KoMaHomepageTar .\#devShells.x86_64-linux.default
-          nix-collect-garbage -d
+          nix-store --gc --option keep-derivations true --option keep-outputs true
 
   check-links:
     name: 'Check for broken links'
