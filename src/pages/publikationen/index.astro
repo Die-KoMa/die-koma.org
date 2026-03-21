@@ -9,7 +9,7 @@ export const frontmatter = {
 const publications = await Astro.glob('@pages/publikationen/*.md')
 ---
 
-<BaseLayout frontmatter={{}}>
+<BaseLayout frontmatter={{ title: frontmatter.title }}>
   <h1>Publikationen der KoMa</h1>
 
   Folgende Publikationen werden von der KoMa veröffentlicht:
