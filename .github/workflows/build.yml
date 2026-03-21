@@ -14,10 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: nixbuild/nix-quick-install-action@v34
-        with:
-          extra_nix_config: |
-            keep-outputs = true
-            keep-derivations = true
       - env:
           BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
@@ -50,10 +46,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: nixbuild/nix-quick-install-action@v34
-        with:
-          extra_nix_config: |
-            keep-outputs = true
-            keep-derivations = true
       - env:
           BRANCH_NAME_OR_REF: ${{ github.head_ref || github.ref }}
         run: echo "name=BRANCH_NAME::${BRANCH_NAME_OR_REF#refs/heads/}" >> $GITHUB_ENV
