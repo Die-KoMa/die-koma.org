@@ -16,7 +16,7 @@
     "@astrojs/tailwind": "^5.1.0",
     "@tailwindcss/typography": "^0.5.10",
     "astro": "^5.16.11",
-    "astro-compress": "^2.2.9",
+    "astro-compress": "^2.4.0",
     "astro-heroicons": "^2.1.1",
     "favicons": "^7.2.0",
     "prettier": "^3.2.4",
