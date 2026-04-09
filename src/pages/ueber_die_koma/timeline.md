@@ -10,6 +10,8 @@ order: 6
 | SS 2027    | KoMa 96 (KIF 55 + KoaLa)     | Uni Hannover                 | 14.05.-19.05.2027                       |
 | WS 2026    | KoMa 95                      | HHU Düsseldorf               | 28.10.-01.11.2026                       |
 | SS 2026    | KoMa 94                      | Uni Duisburg-Essen (Essen)   | 22.05.-26.05.2026                       |
+|            | WAchKoMa Minimalstandards    | HHU Düsseldorf               | 06.03.-08.03.2026                       |
+|            | WAchKoMa KoMa-Kurier         | Uni Magdeburg                | 09.01.-11.01.2026                       |
 | WS 2025/26 | KoMa 93                      | TU Chemnitz                  | 29.10.–02.11.2025                       |
 |            | WAchKoMeta                   | HU Berlin                    | 26.08.-28.08.2025                       |
 | SS 2025    | KoMa 92 (KIF 53)             | Uni Passau                   | 18.06.–22.06.2025                       |
