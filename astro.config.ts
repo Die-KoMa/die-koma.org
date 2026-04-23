@@ -5,7 +5,7 @@ import { twMerge } from 'tailwind-merge'
 import compress from 'astro-compress'
 import mdx from '@astrojs/mdx'
 import rehypeExternalLinks from 'rehype-external-links'
-import tailwind from '@astrojs/tailwind'
+import tailwindcss from '@tailwindcss/vite'
 
 import type { FaviconOptions } from 'favicons'
 
@@ -65,13 +65,14 @@ export default defineConfig({
   prefetch: {
     prefetchAll: true,
   },
-  integrations: [mdx(), tailwind(), compress()],
+  integrations: [mdx(), compress()],
   markdown: {
     remarkPlugins: [setDefaultLayout],
     rehypePlugins: [rehypeExternalLinksPlugin],
   },
   vite: {
     plugins: [
+      tailwindcss(),
       faviconPlugin({
         background: '#134e4a',
         icons: {
