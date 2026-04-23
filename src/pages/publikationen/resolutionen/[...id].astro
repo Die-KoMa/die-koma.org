@@ -1,0 +1,22 @@
+---
+import { getCollection, render } from 'astro:content'
+
+export const frontmatter = { menu: false }
+
+export async function getStaticPaths() {
+  const resos = await getCollection('resos')
+  return resos.map((entry) => ({
+    params: { id: entry.id },
+    props: { entry },
+  }))
+}
+
+import Layout from "../../../layouts/BaseLayout.astro"
+const { entry } = Astro.props
+const { Content } = await render(entry)
+const title = `Resolution ${ entry.id }`
+---
+
+<Layout frontmatter={{ title }}>
+  <Content />
+</Layout>
