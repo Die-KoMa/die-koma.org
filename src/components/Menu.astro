@@ -28,7 +28,7 @@ let otherPages: Record<string, Array<Page>> = {}
 for (let {
   url,
   frontmatter: { title = null, menutitle = null, order = 0, redirect = null, menu = true } = {},
-} of await Astro.glob<RawPage>('@pages/**')) {
+} of await Object.values(import.meta.glob<RawPage>('@pages/**', { eager: true }))) {
   if (!menu) continue
   if (url == null) continue
   url = url + '/'

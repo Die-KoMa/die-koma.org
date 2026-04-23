@@ -6,7 +6,16 @@ export const frontmatter = {
   order: 50,
 }
 
-const publications = await Astro.glob('@pages/publikationen/*.md')
+type Publication = {
+  url: string
+  frontmatter: {
+    title: string
+  }
+}
+
+const publications = Object.values(
+  await import.meta.glob<Publication>('@pages/publikationen/*.md', { eager: true }),
+)
 ---
 
 <BaseLayout frontmatter={{ title: frontmatter.title }}>
