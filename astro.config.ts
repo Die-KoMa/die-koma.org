@@ -48,13 +48,13 @@ async function faviconPlugin(options: FaviconOptions = {}) {
         })
       }
     },
-    generateBundle(options: any, bundle: any) {
+    generateBundle(this: any) {
       for (const icon of icons.images) {
-        bundle[icon.name] = {
+        this.emitFile({
           type: 'asset',
           fileName: icon.name,
           source: icon.contents,
-        }
+        })
       }
     },
   }
