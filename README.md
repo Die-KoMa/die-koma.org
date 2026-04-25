@@ -66,3 +66,14 @@ git pull     # make sure to be on main, pull latest version :)
 npm install  # install dependencies
 npm run dev  # start development server
 ```
+
+# Deployment
+
+Deployments are automated via a GitHub workflow:
+
+- Every change merged into the `main` branch is built automatically.
+- The build output is then written to the `release` branch of this wiki/repository.
+- The `release` branch also contains a Nix flake so the content can be consumed through a Nix interface.
+- The website host fetches updates from that branch every couple of minutes and refreshes what is served.
+
+The host configuration is defined in the [`die-KoMa/nix` repository](https://github.com/die-KoMa/nix).
