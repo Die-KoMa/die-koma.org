@@ -17,9 +17,25 @@ Long: You will need a working Javascript runtime (e.g., `nodejs`) and
 a package manager such as `npm`. Then install the dependencies and run
 `npm run dev`.
 
-## Nix (best support)
+## Nix (with flakes) + direnv (best support)
 ```sh
-# nix packet manager works in almost any linux distribution, mac and wsl1/2
+# If you already know nix and direnv, this is quite easy:
+# allow this directory's .envrc once:
+direnv allow
+
+# building:
+nix -L build .
+
+# install dependencies:
+npm install
+
+# development server:
+nix run
+```
+
+## Nix (without direnv)
+```sh
+# nix package manager works in almost any linux distribution, mac and wsl1/2
 # https://nixos.org/download.html
 
 # with flake-support enabled (https://nixos.wiki/wiki/Flakes)
@@ -27,8 +43,8 @@ a package manager such as `npm`. Then install the dependencies and run
 # building:
 nix build -L .
 
-# install dependencies:
-nix run .#install
+# npm must be called in nix shell, e.g. install dependencies like this:
+nix develop -c npm install
 
 # development server:
 nix run
