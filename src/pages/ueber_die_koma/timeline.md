@@ -22,7 +22,7 @@ order: 6
 | WS 2022/23 | KoMa 87                      | TU Wien                      | 29.10.–02.11.2022                       |
 | SS 2022    | KoMa 86                      | FSU Jena                     | 25.05.–29.05.2022                       |
 | SS 2021    | KoMa 86                      | Uni Bonn                     | August 2021 (abgesagt)                  |
-| extra      | KoRoMa02                     | online                       | SS 2021                                 |
+| extra      | KoRoMa02                     | online                       | 09.04.–11.04.2021                       |
 | WS 2020/21 | KoMa 86                      | FSU Jena                     | Anfang 2021 (durch KoRoMa 02 ersetzt)   |
 | extra      | KoRoMa02                     | Neuland (online)             | 23.09.–27.09.2020 (nicht stattgefunden) |
 | extra      | KoRoMa                       | Neuland (online)             | 30.04.–03.05.2020                       |
