@@ -82,5 +82,31 @@
         "Hannover"
       ]
     }
+  },
+  "KoMa 97": {
+    "displaytitle": "97. KoMa in Wien",
+    "exists": "1",
+    "fulltext": "KoMa 97",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_97",
+    "namespace": 0,
+    "printouts": {
+      "Anmeldung": [],
+      "Beginn": [
+        {
+          "raw": "1/2027/10/29",
+          "timestamp": "1824768000"
+        }
+      ],
+      "Ende": [
+        {
+          "raw": "1/2027/11/3",
+          "timestamp": "1825200000"
+        }
+      ],
+      "Infoseite": [],
+      "Ort": [
+        "Wien"
+      ]
+    }
   }
 }
