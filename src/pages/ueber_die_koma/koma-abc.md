@@ -15,15 +15,15 @@ Das KoMa-ABC befindet sich übrigens auch im [KoMa-Neulingsheft](/publikationen/
 
 ## Die Fragen
 
-### Abschlussplenum
+### Endplenum
 
-Am letzten Nachmittag / Abend der KoMa findet das Abschlussplenum statt. Dort stellen die AKs ihre Ergebnisse vor. Beschlüsse, z. B. zu Resolutionen werden gefasst. Freiwillige für die Ausrichtung der nächsten KoMata werden gesucht. Bei ausführlichen Diskussionen kann sich das Plenum bis in die Nacht hinziehen.
+Am letzten Nachmittag / Abend der KoMa findet das Endplenum statt. Dort stellen die AKs ihre Ergebnisse vor. Beschlüsse, z. B. zu Resolutionen werden gefasst. Freiwillige für die Ausrichtung der nächsten KoMata werden gesucht. Bei ausführlichen Diskussionen kann sich das Plenum bis in die Nacht hinziehen.
 
 ### AK / Arbeitskreis
 
 AK heißt Arbeitskreis. Die meiste inhaltliche Arbeit auf der KoMa findet in den AKs statt. Diese werden nicht von der ausrichtenden Fachschaft organisiert, sondern von den Teilnehmern vorgeschlagen und zum Teil auch vorbereitet. Es besteht der Wunsch, Arbeitskreise vor der KoMa auf der KoMa-Anmeldungsseite anzukündigen, was in letzter Zeit immer besser klappt. Spontane Vorschläge im Anfangsplenum sind aber auch immer möglich. In den Arbeitskreisen wird das Thema je nach Interesse und vorhandenem Material bearbeitet. Die Gruppen bestehen meist aus 5 bis 20 Leuten. Die Arbeitsweisen gehen von Diskussionen über Literaturarbeit bis zu Basteln und Theateraufführungen. Die AKs laufen während der ganzen KoMa zu den AK-Zeiten.
 
-Die AKs präsentieren sich auf dem Zwischen- oder Abschlussplenum und auch mit einem Artikel im KoMa-Kurier. Eine Ansprechperson und mögliche Orte/Termine für Zwischentreffen werden ebenfalls auf dem Abschlussplenum bekanntgegeben.
+Die AKs präsentieren sich auf dem Zwischen- oder Endplenum und auch mit einem Artikel im KoMa-Kurier. Eine Ansprechperson und mögliche Orte/Termine für Zwischentreffen werden ebenfalls auf dem Endplenum bekanntgegeben.
 
 Typische AK-Themen, die häufiger vorkamen, sind z.B.:
 
@@ -32,7 +32,7 @@ Typische AK-Themen, die häufiger vorkamen, sind z.B.:
 - Lehramt
 - Vorlesungsumfragen
 
-Wie man hier sieht, gibt es also neben den inhaltlichen auch immer Freizeit-AKs. Die inhaltlichen AKs stehen allerdings im Vordergrund und werden deshalb immer mit Vorrang gewährt. 
+Wie man hier sieht, gibt es also neben den inhaltlichen auch immer Freizeit-AKs. Die inhaltlichen AKs stehen allerdings im Vordergrund und werden deshalb mit Vorrang behandelt. 
 
 ### Anfangsplenum
 
@@ -53,7 +53,7 @@ Beschlüsse der KoMa werden vom Plenum gefasst und sind Beschlüsse der anwesend
 
 ### Einladung
 
-Längere Zeit vor der KoMa verschickt die ausrichtende Fachschaft Einladungen über den KoMa-Verteiler und per Post an alle Mathefachschaften, soweit deren Adressen bekannt sind. Darin wird vor allem der Termin bekannt gegeben, aufgefordert sich anzumelden und AKs vorzuschlagen. Etwas dichter vor der KoMa gibt's dann noch eine zweite Einladung über den KoMa-Verteiler. Darin sind vor allem die Wegbeschreibung und der genaue Anfangszeitpunkt enthalten, ein Hinweis auf die Höhe des Teilnehmerbeitrags sowie weitere organisatorische Details. Insbesondere die Wegbeschreibung sollte über Internet zugänglich sein. Diese findet man dann, wie die Anmeldung auch, unter [die-koma.org](/).
+Längere Zeit vor der KoMa verschickt die ausrichtende Fachschaft Einladungen über den KoMa-Verteiler und per Post an alle Mathefachschaften, soweit deren Adressen bekannt sind. Darin wird vor allem der Termin bekannt gegeben, aufgefordert sich anzumelden und AKs vorzuschlagen. Etwas dichter vor der KoMa gibt's dann noch eine zweite Einladung über den KoMa-Verteiler. Darin sind vor allem die Wegbeschreibung und der genaue Anfangszeitpunkt enthalten, ein Hinweis auf die Höhe des Teilnehmerbeitrags sowie weitere organisatorische Details. Insbesondere die Wegbeschreibung sollte über das Internet zugänglich sein. Diese findet man dann, wie die Anmeldung auch, unter [die-koma.org](/).
 
 Oft wird mit der ersten Einladung der KoMa-Kurier verschickt als Erläuterung, was die KoMa bzw. wie die letzte KoMa war.
 
@@ -144,7 +144,7 @@ Diejenigen, die die KoMa vorbereitet haben und für die Organisation zuständig 
 
 ### Plenum
 
-Im Plenum treffen sich alle Teilnehmer, um gemeinsam Informationen auszutauschen und zu diskutieren. Vom Plenum werden Beschlüsse gefasst. Immer gibt es ein Anfangs-, Zwischen- und ein Abschlussplenum. Die Teilnahme am Plenum ist natürlich freiwillig, trotzdem ist es wichtig, dass möglichst alle daran teilnehmen, um Informationen an alle weitergeben zu können und alle Positionen berücksichtigen zu können. Führung von Protokoll und Redeliste wird im Zweifel von der ausrichtenden Fachschaft organisiert. Die Moderation übernimmt meist ein erfahrener KoMa-Teilnehmer aus dem Orga-Team.
+Im Plenum treffen sich alle Teilnehmer, um gemeinsam Informationen auszutauschen und zu diskutieren. Vom Plenum werden Beschlüsse gefasst. Immer gibt es ein Anfangs-, Zwischen- und ein Endplenum. Die Teilnahme am Plenum ist natürlich freiwillig, trotzdem ist es wichtig, dass möglichst alle daran teilnehmen, um Informationen an alle weitergeben zu können und alle Positionen berücksichtigen zu können. Führung von Protokoll und Redeliste wird im Zweifel von der ausrichtenden Fachschaft organisiert. Die Moderation übernimmt meist ein erfahrener KoMa-Teilnehmer aus dem Orga-Team.
 
 ### Redeliste
 
@@ -152,7 +152,7 @@ Kann bei Bedarf / Wunsch eingeführt werden. Im Plenum werden dann die Wortmeldu
 
 ### Resolution
 
-Eine gemeinsame Stellungnahme der KoMa (d. h. der dort anwesenden Menschen) zu meist (hochschul-)politischen Themen wird häufig auf dem Abschlussplenum beschlossen. Diese wird veröffentlicht (Presse) und an jeweilige Ministerien/Regierungen etc. verschickt. Es besteht der Wunsch, dass Resolutionen vor Beginn des Abschlussplenums aushängen, damit alle sie lesen können. Traditionell gibt es fast immer mindestens eine Resolution auf der KoMa.
+Eine gemeinsame Stellungnahme der KoMa (d. h. der dort anwesenden Menschen) zu meist (hochschul-)politischen Themen wird häufig auf dem Endplenum beschlossen. Diese wird veröffentlicht (Presse) und an jeweilige Ministerien/Regierungen etc. verschickt. Es besteht der Wunsch, dass Resolutionen vor Beginn des Endplenums aushängen, damit alle sie lesen können. Traditionell gibt es fast immer mindestens eine Resolution auf der KoMa.
 
 ### Satzung
 
@@ -184,7 +184,7 @@ Die KoMa geht in der Regel von Mittwoch Abend bis Sonntag Vormittag. Die Sommer-
 
 ### T-Shirts
 
-Auf den KoMata gibt es Teilnehmershirts, die von der Orga Designt wurden. Diese sind im Teilnehmerbeitrag bereits enthalten. Bei manchen KoMata gibt es weiteren Merch, dem man dazu kaufen kann. 
+Auf den KoMata gibt es Teilnehmershirts, die von der Orga Designt wurden. Diese sind im Teilnehmerbeitrag bereits enthalten. Bei manchen KoMata gibt es weiteren Merch, den man dazu kaufen kann. 
 
 ### Veto
 
@@ -196,8 +196,8 @@ WAchKoMa ist die "Weiterführung von Arbeitskreisen unter chaotischen Verhältni
 
 ### Zwischenplenum
 
-Das Zwischenplenum findet zwischen dem Anfangs- und Abschlussplenum statt. Dort wird ein erstes Resümee über die KoMa gezogen und die bisherigen Ergebnisse der AKs vorgestellt. Außerdem wird dort über alle Resolutionsentwürfe ein erstes mal gesprochen. 
+Das Zwischenplenum findet zwischen dem Anfangs- und Endplenum statt. Dort wird ein erstes Resümee über die KoMa gezogen und die bisherigen Ergebnisse der AKs vorgestellt. Außerdem wird dort über alle Resolutionsentwürfe ein erstes mal gesprochen. 
 
 ### Zwischentreffen
 
-Einige AKs treffen sich auch zwischen zwei KoMata noch mal. Das Treffen wird von den AK-Mitgliedern selbst organisiert und ist in der Regel auch offen für Leute, die auf der KoMa nicht in dem AK waren. Eine grobe Planung für Ort und Termin wird meist schon auf dem Abschlussplenum bekannt gegeben, genaueres gibt es über den KoMa-Verteiler.
+Einige AKs treffen sich auch zwischen zwei KoMata noch mal. Das Treffen wird von den AK-Mitgliedern selbst organisiert und ist in der Regel auch offen für Leute, die auf der KoMa nicht in dem AK waren. Eine grobe Planung für Ort und Termin wird meist schon auf dem Endplenum bekannt gegeben, genaueres gibt es über den KoMa-Verteiler.
