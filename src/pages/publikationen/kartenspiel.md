@@ -3,23 +3,23 @@ title: Kartenspiel
 order: 3
 ---
 
-# Mathematisches Romméblatt (2023)
+# Mathematisches Rommé-Blatt (2023)
 
 <div class="float-right pl-4 pb-4 not-prose">
 
-![Mathematisches Romméblatt](/static/Kartenspiel/2023_romme_Titelblatt.png)
+![Mathematisches Rommé-Blatt](/static/Kartenspiel/2023_romme_Titelblatt.png)
 
 </div>
 
 Im Jahr 2023 ist eine Neuauflage des Kartenspiels eingetroffen!
-Verfügbar sind (halbe) Romméblätter mit bekannten Mathematikern und Mathematikerinnen.
-Das Deckblatt ziehrt Emmy Noether und die Rückseiten sind wahlweise rot oder grün.
-Beide Varianten zusammen ergeben ein Standard Romméblatt.
+Verfügbar sind (halbe) Rommé-Blätter mit bekannten Mathematiker*innen.
+Das Deckblatt ziert Emmy Noether und die Rückseiten sind wahlweise rot oder grün.
+Beide Varianten zusammen ergeben ein standard Rommé-Blatt.
 
 ## Bestellung und Versand
 
-Die Bestellung des (halben) Romméblattes (2023) erfolgt über das KoMa-Büro per [Mail](mailto:buero@die-koma.org).
-Das Blatt kostet kostet **3,50€** pro Stück.
+Die Bestellung des (halben) Rommé-Blattes (2023) erfolgt über das KoMa-Büro per [Mail](mailto:buero@die-koma.org).
+Das Blatt kostet **3,50€** pro Stück.
 
 Die Bestellungsmail sollte folgende Informationen enthalten:
 + Anzahl der Kartenspiele

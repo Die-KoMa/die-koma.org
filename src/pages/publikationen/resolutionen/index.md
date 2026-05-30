@@ -30,7 +30,22 @@ Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finde
 
 [**92/4: Resolution gegen Studiendauerbegrenzung**](https://file.komapedia.org/92_4.pdf)
 
-Zudem wurden Resolutionen gemeinsam mit der KIF beschlossen. Die Übersicht ist [**hier**](https://wiki.kif.rocks/wiki/KIF530:Resolutionen) zu finden.
+Zudem wurden Resolutionen gemeinsam mit der KIF beschlossen, im Detail [**hier**](https://wiki.kif.rocks/wiki/KIF530:Resolutionen) zu finden:
+- MHFA Ersthelfer für alle
+- US Abhängigkeiten reduzieren
+- Forderung einer Veröffentlichungspflicht der Qualitätsberichte systemakkreditierter Hochschulen
+- Teilzeitstudiengang
+- TV Stud
+- BAföG
+- Verwaltungsgebuehren an Hochschulen
+- Vergünstigtes Mittagessen
+- KI Tools
+- QV-Mittel NRW
+- Hessischer Hochschulpakt
+- Kürzungen im Hochschulbetrieb
+- Kürzungen in Berlin
+- Gemeinsam Studierendenwerke retten!
+
 
 ## Magdeburg
 

@@ -1,34 +1,4 @@
 {
-  "KoMa 94": {
-    "displaytitle": "94. KoMa in Essen",
-    "exists": "1",
-    "fulltext": "KoMa 94",
-    "fullurl": "https://de.komapedia.org/wiki/KoMa_94",
-    "namespace": 0,
-    "printouts": {
-      "Anmeldung": [
-        "https://anmeldung.die-koma.org/koma94/"
-      ],
-      "Beginn": [
-        {
-          "raw": "1/2026/5/22",
-          "timestamp": "1779408000"
-        }
-      ],
-      "Ende": [
-        {
-          "raw": "1/2026/5/26",
-          "timestamp": "1779753600"
-        }
-      ],
-      "Infoseite": [
-        "https://www.uni-due.de/koma94/"
-      ],
-      "Ort": [
-        "Essen"
-      ]
-    }
-  },
   "KoMa 95": {
     "displaytitle": "95. KoMa in D\u00fcsseldorf",
     "exists": "1",
@@ -54,6 +24,58 @@
       ],
       "Ort": [
         "D\u00fcsseldorf"
+      ]
+    }
+  },
+  "KoMa 96": {
+    "displaytitle": "96. KoMa in Hannover",
+    "exists": "1",
+    "fulltext": "KoMa 96",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_96",
+    "namespace": 0,
+    "printouts": {
+      "Anmeldung": [],
+      "Beginn": [
+        {
+          "raw": "1/2027/5/14",
+          "timestamp": "1810252800"
+        }
+      ],
+      "Ende": [
+        {
+          "raw": "1/2027/5/19",
+          "timestamp": "1810684800"
+        }
+      ],
+      "Infoseite": [],
+      "Ort": [
+        "Hannover"
+      ]
+    }
+  },
+  "KoMa 97": {
+    "displaytitle": "97. KoMa in Wien",
+    "exists": "1",
+    "fulltext": "KoMa 97",
+    "fullurl": "https://de.komapedia.org/wiki/KoMa_97",
+    "namespace": 0,
+    "printouts": {
+      "Anmeldung": [],
+      "Beginn": [
+        {
+          "raw": "1/2027/10/29",
+          "timestamp": "1824768000"
+        }
+      ],
+      "Ende": [
+        {
+          "raw": "1/2027/11/3",
+          "timestamp": "1825200000"
+        }
+      ],
+      "Infoseite": [],
+      "Ort": [
+        "Wien"
       ]
     }
   }
