@@ -7,6 +7,30 @@ order: 2
 
 Hier sind die von den verschiedenen KoMata verabschiedeten Resolutionen zu finden:
 
+## Essen 
+### Originäre Resolutionen
+[**94/1: Resolution zur verpflichtenden Unterzeichnung von Prüfungsprotokollen mündlicher Prüfungen**](https://file.komapedia.org/94_1.pdf)
+
+[**94/2: Resolution zur Einhaltung der Veröffentlichungspflicht systemakkreditierter Hochschulen**](https://file.komapedia.org/94_2.pdf)
+
+[**94/3: Resolution zu physischen Ausweismöglichkeiten**](https://file.komapedia.org/94_3.pdf)
+
+[**94/4: Resolution gegen die zusätzliche Belastung von internationalen Studierenden**](https://file.komapedia.org/94_4.pdf)
+
+[**94/5: Resolution über die Unvereinbarkeit mit rechtsextremen Burschenschaften**](https://file.komapedia.org/94_5.pdf)
+
+[**94/6: Resolution für Transparenz von privaten Hochschulen**](https://file.komapedia.org/94_6.pdf)
+
+### Anschluss-Resolutionen
+Zudem wurde beschlossen, sich folgenden Resolutionen anzuschließen:
+
+- [**Deutschlands Hochschulen am Limit!**](https://file.komapedia.org/94_zusatz_1_baufak.pdf) von der Bauingenieur-Fachschaften-Konferenz (BauFaK)
+- [**Stellungnahme zu Gruppierungen, welche die verfassten Studierendenschaften einschränken wollen**](https://file.komapedia.org/94_zusatz_2_fatama.pdf) von der Fachschaftentagung Maschinenbau (FaTaMa)
+- [**Resolution zum TV Stud**](https://wiki.kif.rocks/wiki/KIF530:Resolutionen/TV_Stud) der KIF530 und KoMa92 sowie der aktuellen [**Resolution: Kein TV Stud ist auch keine Lösung**](https://file.komapedia.org/94_zusatz_3_zapf.pdf) der Zusammenkunft aller Physikfachschaften (ZaPF)
+- [**Resolution gegen das geplante Berliner Hochschulbaugesellschaftsgesetz**](https://file.komapedia.org/94_zusatz_4_zapf.pdf) der Zusammenkunft aller Physikfachschaften (ZaPF)
+- [**Öffentlichkeitsarbeit bezüglich kaputter Hochschulen**](https://file.komapedia.org/94_zusatz_5_zapf.pdf) der Zusammenkunft aller Physikfachschaften (ZaPF)
+
+
 ## Chemnitz
 
 [**93/1: Resolution zu studentischen Mitgliedern in Zulassungs- und Zugangsgremien**](https://file.komapedia.org/93_1.pdf)
