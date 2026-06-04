@@ -7,7 +7,7 @@ order: 6
 
 | Semester   | Name der KoMa                | Hochschule                   | Zeitraum                                |
 | :--------- | :--------------------------- | :--------------------------- | :-------------------------------------- |
-| WS 2027    | KoMa 97                      | TU Wien                      | tba.                                    |
+| WS 2027    | KoMa 97                      | TU Wien                      | vsl. 29.10.-03.11.2027                  |
 | SS 2027    | KoMa 96 (KIF 55 + KoaLa)     | Uni Hannover                 | 14.05.-19.05.2027                       |
 | WS 2026    | KoMa 95                      | HHU Düsseldorf               | 28.10.-01.11.2026                       |
 | SS 2026    | KoMa 94                      | Uni Duisburg-Essen (Essen)   | 22.05.-26.05.2026                       |
