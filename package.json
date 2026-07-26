@@ -11,7 +11,6 @@
     "prettier": "prettier"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.9",
     "@astrojs/mdx": "^7.0.3",
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.3",
