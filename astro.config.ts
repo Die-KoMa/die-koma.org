@@ -1,11 +1,12 @@
 import { defineConfig } from 'astro/config'
 
-import { favicons } from 'favicons'
-import { twMerge } from 'tailwind-merge'
 import compress from 'astro-compress'
 import mdx from '@astrojs/mdx'
 import rehypeExternalLinks from 'rehype-external-links'
 import tailwindcss from '@tailwindcss/vite'
+import { favicons } from 'favicons'
+import { twMerge } from 'tailwind-merge'
+import { unified } from '@astrojs/markdown-remark';
 
 import type { FaviconOptions } from 'favicons'
 
@@ -67,8 +68,10 @@ export default defineConfig({
   },
   integrations: [mdx(), compress()],
   markdown: {
-    remarkPlugins: [setDefaultLayout],
-    rehypePlugins: [rehypeExternalLinksPlugin],
+    processor: unified({
+      remarkPlugins: [setDefaultLayout],
+      rehypePlugins: [rehypeExternalLinksPlugin],
+    }),
   },
   vite: {
     plugins: [
