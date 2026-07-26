@@ -11,7 +11,7 @@ import { unified } from '@astrojs/markdown-remark';
 import type { FaviconOptions } from 'favicons'
 
 function setDefaultLayout() {
-  return function (_: any, file: any) {
+  return function(_: any, file: any) {
     const { frontmatter } = file.data.astro
     if (!frontmatter.layout) frontmatter.layout = '@layouts/BaseLayout.astro'
   }
@@ -66,7 +66,13 @@ export default defineConfig({
   prefetch: {
     prefetchAll: true,
   },
-  integrations: [mdx(), compress()],
+  integrations: [
+    mdx(),
+    compress({
+      CSS: false,  // compress breaks css
+      JavaScript: false,
+    })
+  ],
   markdown: {
     processor: unified({
       remarkPlugins: [setDefaultLayout],
