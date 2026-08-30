@@ -40,6 +40,7 @@ jobs:
           nix-store --gc --option keep-derivations true --option keep-outputs true
 
   check-links:
+    if: github.event_name == 'pull_request'
     name: 'Check for broken links'
     runs-on: ubuntu-latest
     steps:
