@@ -27,7 +27,7 @@ def verify_url(url):
     try:
         logger.info(f"checking whether URL `{url}' is reachable")
         response = urlopen(Request(url, method="HEAD"))
-    except err:
+    except Exception as err:
         logger.error(f"URL `{url}' not reachable: {err}")
         return False
     else:
