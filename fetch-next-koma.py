@@ -12,7 +12,7 @@ from urllib.request import urlopen, Request
 QUERY = f"""
 https://de.komapedia.org/api.php?origin=*&action=ask&format=json&query=[[Category:KoMa]][[ende::%3E{date.today().isoformat()}]]|sort=KoMaNr|order=asc|limit=5|?Ort|?Beginn|?Ende|?Anmeldung|?Infoseite
 """
-LINKS = ["Anmeldung", "Infoseite"]
+VERIFY_LINKS = []
 IGNORED_STATUS_CODES = [401]
 
 
@@ -32,7 +32,7 @@ def verify_url(url):
         return False
     else:
         if response.status in IGNORED_STATUS_CODES:
-            logger.warning(f"URL `{url}' returned status code {response.status}", ignoring)
+            logger.warning(f"URL `{url}' returned status code {response.status}, ignoring")
         elif response.status == 200:
             logger.info(f"URL `{url}' returned status code 200")
         return response.status in [200] + IGNORED_STATUS_CODES
@@ -42,7 +42,7 @@ def clean_and_verify_printounts(printouts):
     result = printouts
 
     for key, value in printouts.items():
-        if key in LINKS:
+        if key in VERIFY_LINKS:
             result[key] = []
 
             for url in value:
