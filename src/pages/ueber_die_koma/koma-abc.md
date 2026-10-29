@@ -15,10 +15,6 @@ Das KoMa-ABC befindet sich übrigens auch im [KoMa-Neulingsheft](/publikationen/
 
 ## Die Fragen
 
-### Endplenum
-
-Am letzten Nachmittag / Abend der KoMa findet das Endplenum statt. Dort stellen die AKs ihre Ergebnisse vor. Beschlüsse, z. B. zu Resolutionen werden gefasst. Freiwillige für die Ausrichtung der nächsten KoMata werden gesucht. Bei ausführlichen Diskussionen kann sich das Plenum bis in die Nacht hinziehen.
-
 ### AK / Arbeitskreis
 
 AK heißt Arbeitskreis. Die meiste inhaltliche Arbeit auf der KoMa findet in den AKs statt. Diese werden nicht von der ausrichtenden Fachschaft organisiert, sondern von den Teilnehmern vorgeschlagen und zum Teil auch vorbereitet. Es besteht der Wunsch, Arbeitskreise vor der KoMa auf der KoMa-Anmeldungsseite anzukündigen, was in letzter Zeit immer besser klappt. Spontane Vorschläge im Anfangsplenum sind aber auch immer möglich. In den Arbeitskreisen wird das Thema je nach Interesse und vorhandenem Material bearbeitet. Die Gruppen bestehen meist aus 5 bis 20 Leuten. Die Arbeitsweisen gehen von Diskussionen über Literaturarbeit bis zu Basteln und Theateraufführungen. Die AKs laufen während der ganzen KoMa zu den AK-Zeiten.
@@ -56,6 +52,13 @@ Beschlüsse der KoMa werden vom Plenum gefasst und sind Beschlüsse der anwesend
 Längere Zeit vor der KoMa verschickt die ausrichtende Fachschaft Einladungen über den KoMa-Verteiler und per Post an alle Mathefachschaften, soweit deren Adressen bekannt sind. Darin wird vor allem der Termin bekannt gegeben, aufgefordert sich anzumelden und AKs vorzuschlagen. Etwas dichter vor der KoMa gibt's dann noch eine zweite Einladung über den KoMa-Verteiler. Darin sind vor allem die Wegbeschreibung und der genaue Anfangszeitpunkt enthalten, ein Hinweis auf die Höhe des Teilnehmerbeitrags sowie weitere organisatorische Details. Insbesondere die Wegbeschreibung sollte über das Internet zugänglich sein. Diese findet man dann, wie die Anmeldung auch, unter [die-koma.org](/).
 
 Oft wird mit der ersten Einladung der KoMa-Kurier verschickt als Erläuterung, was die KoMa bzw. wie die letzte KoMa war.
+
+### Endplenum
+
+Am letzten Nachmittag / Abend der KoMa findet das Endplenum statt. Dort stellen die AKs ihre Ergebnisse vor. Beschlüsse, z. B. zu Resolutionen werden gefasst. Freiwillige für die Ausrichtung der nächsten KoMata werden gesucht. Bei ausführlichen Diskussionen kann sich das Plenum bis in die Nacht hinziehen.
+
+### Erstiplenum
+Das Erstiplenum findet noch vor dem Anfangsplenum statt und dient dazu, dass Erstteilnehmende eine kurze Einweisung bekommen, wie die KoMa funktioniert, was für Handzeichen es in den Plena gibt und was man sonst noch wissen muss. 
 
 ### Geschäftsordnung
 
