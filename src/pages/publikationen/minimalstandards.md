@@ -1,5 +1,5 @@
 ---
-title: Minimalstandard
+title: Minimalstandards
 order: 4
 ---
 
