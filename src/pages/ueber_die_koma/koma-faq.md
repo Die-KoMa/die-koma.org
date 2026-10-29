@@ -25,15 +25,14 @@ Du studierst Mathe? Du bist an Fachschaftschaftsarbeit interessiert bzw. in Dein
 
 Der Tagesablauf ist eigentlich jeden Tag derselbe:
 
-- Tagwache ist täglich um 5.30 Uhr
-- Waschen & Frühstücken bis 7.00 Uhr
-- die AKs arbeiten dann von 7.00 bis 12.00 Uhr
+- Aufstehen ist täglich um 7.30 Uhr
+- Waschen & Frühstücken bis 8.30 Uhr
+- die AKs arbeiten dann von 8.30 bis 11.30 Uhr
 - Mittagspause bis 13.00 Uhr
-- AK-Arbeit von 13.00 bis 19.00 Uhr
-- Abendessen bis 20.30 Uhr
-- Bettruhe ist um 21.00 Uhr.
+- AK-Arbeit von 13.00 bis 18.00 Uhr oder Exkursionen
+- Ab 18.00 Uhr dann meistens Plena
 
-Leider gibt es auf jeder KoMa auch Leute, die nicht jeden Tag um 5.30 Uhr aufstehen, nicht jeden Tag 11 Stunden intensiv arbeiten und dazu auch die Bettruhe um 21.00 Uhr nicht einhalten, sondern abends dann noch fortgehen. Echt schlimm! :-) (Ich geb zu, ich gehöre auch zu denen.)
+Die Zeitpläne sind tatsächlich nicht so streng. Falls du den Slot fürs Abendessen vermisst: keine Sorge! Während der KoMa gibt es ein ewiges Frühstück, wo du dir auch während der AKs und Plena etwas zu essen kriegst :)
 
 ### Was muss ich auf die KoMa mitbringen?
 
