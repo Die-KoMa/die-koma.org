@@ -28,7 +28,7 @@ Die neuesten veröffentlichten Bände sind die folgenden:
 
 ## Kurzinformationen zu den Ergebnissen der KoMa
 
-Das BMBF fördert viele unserer Tagungen.
+Das BMFTR fördert viele unserer Tagungen.
 Zusätzlich zum Tagungsband sind daher im folgenden die sogenannten "Kurzinformationen zu den Ergebnissen einer Maßnahme" verlinkt, welche jeweils eine kurze und vereinheitlichte Darstellung der Ergebnisse der Tagungen beinhalten:
 - [Kurzinformation zu den Ergebnissen der KoMa 94](https://file.komapedia.org/KoMa94_Kurzinformation.pdf)
 - [Kurzinformation zu den Ergebnissen der KoMa 93](https://file.komapedia.org/KoMa93_Kurzinformation.pdf)
